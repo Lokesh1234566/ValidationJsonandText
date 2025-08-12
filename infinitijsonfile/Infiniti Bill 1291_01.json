@@ -1,0 +1,61 @@
+{
+    "supplier_details": {
+        "name": "INFINITI ENGINEERS PRIVATE LIMITED",
+        "address": "12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004",
+        "phone": "080-41505286/41481855",
+        "pan": "AAACI5897G",
+        "gstin_uin": "29AAACI5897G1Z3",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "contact@infinitiengineers.co.in"
+    },
+    "buyer_details": {
+        "name": "IRILLIC PVT LTD",
+        "address": "# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078",
+        "gstin_uin": "29AAACI5897G1Z3",
+        "state_name": "Karnataka",
+        "state_code": "29"
+    },
+    "invoice_details": {
+        "Invoice No": "1291",
+        "Delivery Note": "",
+        "Supplier\u2019s Ref": "1291",
+        "Buyer\u2019s Order No": "",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Dated": "",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "Bangalore",
+        "Terms of Delivery": ""
+    },
+    "line_items": [],
+    "tax_summary": {
+        "SGST Rate (%)": "9",
+        "SGST Amount": "675.00",
+        "CGST Rate (%)": "9",
+        "CGST Amount": "675.00"
+    },
+    "totals": {
+        "Total Quantity": "",
+        "Total Amount": ""
+    },
+    "amount_chargeable_in_words": "Indian Rupees Eight Thousand Eight Hundred Fifty Only",
+    "hsn_summary": [
+        {
+            "HSN/SAC": "84713010",
+            "Taxable Value": "7,500.00",
+            "Central Tax Rate": "9%",
+            "Central Tax Amount": "675.00",
+            "State Tax Rate": "9%",
+            "State Tax Amount": "675.00",
+            "Total Tax Amount": "1,350.00"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "BANK OF BARODA",
+        "Account Number": "89490200000377",
+        "Branch_IFSC": "BARB0VJGABZ"
+    }
+}

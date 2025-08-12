@@ -1,0 +1,68 @@
+Invoice
+
+Sarayu Branding & Printing Pvt. Ltd.
+#53/A,9th Cross, J.P. Nagar
+1st Phase,Bangalore 560 078.
+GSTIN/UIN: 29AAVCS8826Q1ZW
+State Name : Karnataka, Code : 29
+E-Mail : finance@sarayus.com
+Buyer (Bill to)
+Irillic Pvt. Ltd.
+#76, 10th Cross 29th Main, 1st Phase
+J.P. Nagar, Bangalore 560 078.
+GSTIN/UIN             : 29AAECI4323B1ZY
+
+Invoice No.
+SBPPL/20-21/0707
+Delivery Note
+
+Reference No. & Date.
+SBPPL/20-21/0707 dt. 10-Feb-21
+Buyer’s Order No.
+
+Dispatch Doc No.
+
+Dispatched through
+
+Dated
+10-Feb-21
+Mode/Terms of Payment
+
+Other References
+
+Dated
+
+Delivery Note Date
+
+Destination
+
+Terms of Delivery
+
+Sl            Description of Goods            HSN/SAC    GST     Quantity        Rate       per       Amount
+No.                                                       Rate
+1 Broucher                             39199010       18 %      5 Nos       150.00  Nos           750.00
+     16 Pages Brouher
+
+
+                        CGST                                                               67.50
+                        SGST                                                               67.50
+
+Amount Chargeable (in words)
+
+Total                        5 Nos           ī885.00
+                                                                            E. & O.E
+
+INR Eight Hundred Eighty Five Only
+
+
+Company’s PAN                    : AAVCS8826Q
+Declaration
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and
+correct.
+Customer’s Seal and Signature                                                           for Sarayu Branding & Printing Pvt. Ltd.
+
+                                                                                                              Authorised Signatory
+
+                                           This is a Computer Generated Invoice
+

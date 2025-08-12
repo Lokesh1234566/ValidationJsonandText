@@ -1,0 +1,35 @@
+supplier_details.name : 'INFINITI ENGINEERS PRIVATE LIMITED' found at index 0
+supplier_details.address : '12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004' found at index -1
+supplier_details.phone : '080-41505286/41481855' found at index 92
+supplier_details.pan : 'AAACI5897G' found at index 121
+supplier_details.gstin_uin : '29AAACI5897G1Z3' found at index 143
+supplier_details.state_name : 'Karnataka' found at index 172
+supplier_details.state_code : '29' found at index 143
+supplier_details.email : 'contact@infinitiengineers.co.in' found at index 202
+buyer_details.name : 'IRILLIC PVT LTD' found at index 240
+buyer_details.address : '# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078' found at index -1
+buyer_details.gstin_uin : '29AAACI5897G1Z3' found at index 143
+buyer_details.state_name : 'Karnataka' found at index 172
+buyer_details.state_code : '29' found at index 143
+invoice_details.Invoice No : '1291' found at index 406
+invoice_details.Supplier’s Ref : '1291' found at index 406
+invoice_details.Destination : 'Bangalore' found at index 609
+tax_summary.SGST Rate (%) : '9' found at index 128
+tax_summary.SGST Amount : '675.00' found at index 1002
+tax_summary.CGST Rate (%) : '9' found at index 128
+tax_summary.CGST Amount : '675.00' found at index 1002
+amount_chargeable_in_words : 'Indian Rupees Eight Thousand Eight Hundred Fifty Only' found at index 1297
+hsn_summary[0].HSN/SAC : '84713010' found at index 769
+hsn_summary[0].Taxable Value : '7,500.00' found at index 819
+hsn_summary[0].Central Tax Rate : '9%' found at index 952
+hsn_summary[0].Central Tax Amount : '675.00' found at index 1002
+hsn_summary[0].State Tax Rate : '9%' found at index 952
+hsn_summary[0].State Tax Amount : '675.00' found at index 1002
+hsn_summary[0].Total Tax Amount : '1,350.00' found at index 1658
+bank_details.Bank Name : 'BANK OF BARODA' found at index 2131
+bank_details.Account Number : '89490200000377' found at index 2147
+bank_details.Branch_IFSC : 'BARB0VJGABZ' found at index 2227
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004' found at index -1
+buyer_details.address : '# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078' found at index -1

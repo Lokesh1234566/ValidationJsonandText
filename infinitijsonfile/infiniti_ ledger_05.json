@@ -1,0 +1,38 @@
+{
+    "supplier_details": {
+        "name": "",
+        "address": "",
+        "phone": "080-41505286/41481855",
+        "pan": "AAACI5897G",
+        "gstin_uin": "",
+        "state_name": "",
+        "state_code": "",
+        "email": ""
+    },
+    "buyer_details": {
+        "name": "",
+        "address": "",
+        "gstin_uin": "",
+        "state_name": "",
+        "state_code": ""
+    },
+    "invoice_details": {},
+    "line_items": [],
+    "tax_summary": {
+        "SGST Rate (%)": "",
+        "SGST Amount": "",
+        "CGST Rate (%)": "",
+        "CGST Amount": ""
+    },
+    "totals": {
+        "Total Quantity": "",
+        "Total Amount": ""
+    },
+    "amount_chargeable_in_words": "",
+    "hsn_summary": [],
+    "bank_details": {
+        "Bank Name": "",
+        "Account Number": "",
+        "Branch_IFSC": ""
+    }
+}

@@ -1,0 +1,110 @@
+{
+    "supplier_details": {
+        "name": "3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd",
+        "address": "No.5,SF No.16/2A1 SIDCO Industrial Estate,, Near Ashok Leyland Unit-I, Zuzuvadi Sipcot-1, Hosur-635126., GSTIN/UIN: 33AABCZ2737P1ZW",
+        "gstin_uin": "33AABCZ2737P1ZW",
+        "state_name": "Tamil Nadu",
+        "state_code": "33",
+        "email": "accounts@3dtechproto.com"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "#76,29th Main 10th Cross, 1st Phase ,J.P Nagar, Bangalore",
+        "gstin_uin": "33AABCZ2737P1ZW",
+        "state_name": "Tamil Nadu",
+        "state_code": "33"
+    },
+    "invoice_details": {
+        "Delivery Note": "",
+        "Supplier\u2019s Ref": "",
+        "Buyer\u2019s Order No": "PO-IA20-30007",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Dated": "28-Jul-2020",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "3DTPS/VC000317(R)2020",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description of Goods": "Supply of Prototype Parts Master Cost",
+            "HSN/SAC": "39269099",
+            "Quantity": "1",
+            "Rate": "4,715.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "4,715.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Supply of Prototype Parts Silicon Rubber Cost",
+            "HSN/SAC": "39269099",
+            "Quantity": "1",
+            "Rate": "41,880.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "41,880.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Supply of Prototype Parts Flexible Part Back",
+            "HSN/SAC": "39269099",
+            "Quantity": "15",
+            "Rate": "180.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "2,700.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Supply of Prototype Parts Flexible Part Front",
+            "HSN/SAC": "39269099",
+            "Quantity": "15",
+            "Rate": "160.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "2,400.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Supply of Prototype Parts Tight Ring",
+            "HSN/SAC": "39269099",
+            "Quantity": "15",
+            "Rate": "180.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "2,700.00",
+            "GST Rate": "18%"
+        }
+    ],
+    "tax_summary": {
+        "IGST Rate (%)": "18",
+        "IGST Amount": "9,791.10"
+    },
+    "totals": {
+        "Total Quantity": "47",
+        "Total Amount": "64,186.00"
+    },
+    "amount_chargeable_in_words": "INR Sixty Four Thousand One Hundred Eighty Six Only",
+    "hsn_summary": [
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "54,395.00",
+            "Integrated Tax Rate": "18%",
+            "Integrated Tax Amount": "9,791.10",
+            "Total Tax Amount": "9,791.10"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "Indian Bank",
+        "Account Number": "6695606641",
+        "Branch_IFSC": "Zuzuvadi, Hosur & IDIB000Z001"
+    }
+}

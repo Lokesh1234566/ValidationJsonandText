@@ -1,0 +1,57 @@
+supplier_details.name : '3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd' found at index 19
+supplier_details.address : 'No.5,SF No.16/2A1 SIDCO Industrial Estate,, Near Ashok Leyland Unit-I, Zuzuvadi Sipcot-1, Hosur-635126., GSTIN/UIN: 33AABCZ2737P1ZW' found at index -1
+supplier_details.gstin_uin : '33AABCZ2737P1ZW' found at index 252
+supplier_details.state_name : 'Tamil Nadu' found at index 299
+supplier_details.state_code : '33' found at index 252
+supplier_details.email : 'accounts@3dtechproto.com' found at index 347
+buyer_details.name : 'Irillic Pvt Ltd' found at index 379
+buyer_details.address : '#76,29th Main 10th Cross, 1st Phase ,J.P Nagar, Bangalore' found at index -1
+buyer_details.gstin_uin : '33AABCZ2737P1ZW' found at index 252
+buyer_details.state_name : 'Tamil Nadu' found at index 299
+buyer_details.state_code : '33' found at index 252
+invoice_details.Buyer’s Order No : 'PO-IA20-30012' found at index 669
+invoice_details.Dated : '15-Jul-2020' found at index 793
+line_items[0].Sl No : '1' found at index 92
+line_items[0].Description of Goods : 'Supply of Prototype Parts Bottom Visor Injection Moulding Tool' found at index -1
+line_items[0].HSN/SAC : '39269099' found at index 1199
+line_items[0].Quantity : '1' found at index 92
+line_items[0].Rate : '1,97,000.00' found at index 1232
+line_items[0].per : 'Nos' found at index 1225
+line_items[0].Amount : '1,97,000.00' found at index 1232
+line_items[0].GST Rate : '18%' found at index 2445
+line_items[1].Sl No : '2' found at index 95
+line_items[1].Description of Goods : 'Supply of Prototype Parts Front Visor Injection Moulding Tool' found at index -1
+line_items[1].HSN/SAC : '39269099' found at index 1199
+line_items[1].Quantity : '1' found at index 92
+line_items[1].Rate : '1,87,000.00' found at index 1388
+line_items[1].per : 'Nos' found at index 1225
+line_items[1].Amount : '1,87,000.00' found at index 1388
+line_items[1].GST Rate : '18%' found at index 2445
+line_items[2].Sl No : '3' found at index 19
+line_items[2].Description of Goods : 'Supply of Prototype Parts Head Bond' found at index -1
+line_items[2].HSN/SAC : '39269099' found at index 1199
+line_items[2].Quantity : '1' found at index 92
+line_items[2].Rate : '1,53,000.00' found at index 1544
+line_items[2].per : 'Nos' found at index 1225
+line_items[2].Amount : '1,53,000.00' found at index 1544
+line_items[2].GST Rate : '18%' found at index 2445
+tax_summary.IGST Rate (%) : '18' found at index 1214
+tax_summary.IGST Amount : '96,660.00' found at index 1808
+totals.Total Quantity : '3' found at index 19
+totals.Total Amount : '6,33,660.00' found at index 1917
+amount_chargeable_in_words : 'INR Six Lakh Thirty Three Thousand Six Hundred Sixty Only' found at index 2061
+hsn_summary[0].HSN/SAC : '39269099' found at index 1199
+hsn_summary[0].Taxable Value : '5,37,000.00' found at index 1697
+hsn_summary[0].Integrated Tax Rate : '18%' found at index 2445
+hsn_summary[0].Integrated Tax Amount : '96,660.00' found at index 1808
+hsn_summary[0].Total Tax Amount : '96,660.00' found at index 1808
+bank_details.Bank Name : 'Indian Bank' found at index 2844
+bank_details.Account Number : '6695606641' found at index 2953
+bank_details.Branch_IFSC : 'Zuzuvadi, Hosur & IDIB000Z001' found at index 3046
+
+--- NOT FOUND VALUES ---
+supplier_details.address : 'No.5,SF No.16/2A1 SIDCO Industrial Estate,, Near Ashok Leyland Unit-I, Zuzuvadi Sipcot-1, Hosur-635126., GSTIN/UIN: 33AABCZ2737P1ZW' found at index -1
+buyer_details.address : '#76,29th Main 10th Cross, 1st Phase ,J.P Nagar, Bangalore' found at index -1
+line_items[0].Description of Goods : 'Supply of Prototype Parts Bottom Visor Injection Moulding Tool' found at index -1
+line_items[1].Description of Goods : 'Supply of Prototype Parts Front Visor Injection Moulding Tool' found at index -1
+line_items[2].Description of Goods : 'Supply of Prototype Parts Head Bond' found at index -1

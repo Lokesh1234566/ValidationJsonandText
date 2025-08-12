@@ -1,0 +1,88 @@
+{
+    "supplier_details": {
+        "name": "3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd",
+        "address": "No.5,SF No.16/2A1 SIDCO Industrial Estate,, Near Ashok Leyland Unit-I, Zuzuvadi Sipcot-1, Hosur-635126., GSTIN/UIN: 33AABCZ2737P1ZW",
+        "gstin_uin": "33AABCZ2737P1ZW",
+        "state_name": "Tamil Nadu",
+        "state_code": "33",
+        "email": "accounts@3dtechproto.com"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "#76,29th Main 10th Cross, 1st Phase ,J.P Nagar, Bangalore",
+        "gstin_uin": "33AABCZ2737P1ZW",
+        "state_name": "Tamil Nadu",
+        "state_code": "33"
+    },
+    "invoice_details": {
+        "Delivery Note": "",
+        "Supplier\u2019s Ref": "",
+        "Buyer\u2019s Order No": "PO-IA20-30012",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Dated": "15-Jul-2020",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description of Goods": "Supply of Prototype Parts Bottom Visor Injection Moulding Tool",
+            "HSN/SAC": "39269099",
+            "Quantity": "1",
+            "Rate": "1,97,000.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "1,97,000.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Supply of Prototype Parts Front Visor Injection Moulding Tool",
+            "HSN/SAC": "39269099",
+            "Quantity": "1",
+            "Rate": "1,87,000.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "1,87,000.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Supply of Prototype Parts Head Bond",
+            "HSN/SAC": "39269099",
+            "Quantity": "1",
+            "Rate": "1,53,000.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "1,53,000.00",
+            "GST Rate": "18%"
+        }
+    ],
+    "tax_summary": {
+        "IGST Rate (%)": "18",
+        "IGST Amount": "96,660.00"
+    },
+    "totals": {
+        "Total Quantity": "3",
+        "Total Amount": "6,33,660.00"
+    },
+    "amount_chargeable_in_words": "INR Six Lakh Thirty Three Thousand Six Hundred Sixty Only",
+    "hsn_summary": [
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "5,37,000.00",
+            "Integrated Tax Rate": "18%",
+            "Integrated Tax Amount": "96,660.00",
+            "Total Tax Amount": "96,660.00"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "Indian Bank",
+        "Account Number": "6695606641",
+        "Branch_IFSC": "Zuzuvadi, Hosur & IDIB000Z001"
+    }
+}

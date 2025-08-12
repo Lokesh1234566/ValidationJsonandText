@@ -1,0 +1,26 @@
+supplier_details.name : 'Chartered Accountants' found at index 43
+supplier_details.address : 'No.37/E,New No.12 &13,, First Floor,South End Road,, Bengaluru-560004, Tel-080-41692944/ 41692945, Www.Vaco-Ca.Com' found at index -1
+supplier_details.gstin_uin : '29AAGFV5352E1Z0' found at index 275
+supplier_details.state_name : 'Karnataka' found at index 321
+supplier_details.state_code : '29' found at index 207
+supplier_details.email : 'Vasanth@vaco-ca.com' found at index 367
+buyer_details.name : 'IRILLIC PRIVATE LIMITED' found at index 394
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J.P., Nagar, Bengaluru -560078, Bangalore -, 560076, Ph: 8971900040' found at index -1
+buyer_details.gstin_uin : '29AAGFV5352E1Z0' found at index 275
+buyer_details.state_name : 'Karnataka' found at index 321
+buyer_details.state_code : '29' found at index 207
+invoice_details.Invoice No : '141/20-21' found at index 671
+invoice_details.Dated : '20-Jun-2020' found at index 790
+invoice_details.Mode/Terms of Payment : '15' found at index 824
+tax_summary.CGST Rate (%) : '9' found at index 206
+tax_summary.CGST Amount : '1,800.00' found at index 1375
+tax_summary.SGST Rate (%) : '9' found at index 206
+tax_summary.SGST Amount : '1,800.00' found at index 1375
+amount_chargeable_in_words : 'Indian Rupees Twenty Three Thousand Six' found at index 1871
+bank_details.Bank Name : 'State Bank of India' found at index 1598
+bank_details.Account Number : '30258424387' found at index 1647
+bank_details.Branch_IFSC : 'Basavanagudi & SBIN0003357' found at index 1682
+
+--- NOT FOUND VALUES ---
+supplier_details.address : 'No.37/E,New No.12 &13,, First Floor,South End Road,, Bengaluru-560004, Tel-080-41692944/ 41692945, Www.Vaco-Ca.Com' found at index -1
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J.P., Nagar, Bengaluru -560078, Bangalore -, 560076, Ph: 8971900040' found at index -1

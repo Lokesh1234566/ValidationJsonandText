@@ -1,0 +1,83 @@
+INFINITI ENGINEERS PRIVATE LIMITED
+12/1 SURVEYOR STREET
+BASAVANAGUDI,
+BANGALORE - 560004
+PH:080-41505286/41481855
+PAN NO:AAACI5897G
+GSTIN/UIN: 29AAACI5897G1Z3
+State Name : Karnataka, Code : 29
+E-Mail : contact@infinitiengineers.co.in
+Buyer
+IRILLIC PVT LTD
+# 76,10TH CROSS,29TH MAIN
+JP NAGAR 1ST PHASE
+BANGALORE-560078
+GSTIN/UIN        : 29AAECI4323B1ZY
+State Name       : Karnataka, Code : 29
+
+Invoice No.
+0199
+Delivery Note
+
+Supplier’s Ref.
+0199
+Buyer’s Order No.
+
+Despatch Document No.
+
+Despatched through
+
+Dated
+4-May-2020
+Mode/Terms of Payment
+
+Other Reference(s)
+
+Dated
+
+Delivery Note Date
+
+Destination
+BANGALORE
+
+Terms of Delivery
+
+Description of Goods             HSN/SAC    Quantity      Rate     per  Disc. %      Amount
+
+RENTAL OF LAPTOP                      84713010    1 NOS.    2,950.00  NOS.              2,950.00
+
+LENOVO THINKPAD T440 CORE I5
+
+8GB RAM 256GB SSD HDD WITH ADAPTER
+S/N:PF-04KWB1
+FROM 26/02/2020 TO 25/03/2020
+
+SGST @ 9%                            9 %                 265.50
+CGST @ 9%                            9 %                 265.50
+
+                                              Total             1 NOS.           ī3,481.00
+Amount Chargeable (in words)                                                                                     E. & O.E
+Indian Rupees Three Thousand Four Hundred Eighty One Only
+            HSN/SAC                    Taxable         Central Tax            State Tax            Total
+                                              Value     Rate    Amount     Rate    Amount    Tax Amount
+84713010                                       2,950.00    9%       265.50    9%       265.50       531.00
+                                       Total     2,950.00               265.50              265.50       531.00
+Tax Amount (in words)  :   Indian Rupees Five Hundred Thirty One Only
+
+Company’s Service Tax No.       : AAACI5897GST001
+Company’s PAN                 : AAACI5897G
+Declaration
+We declare that this invoice shows the actual price of
+the goods described and that all particulars are true
+and correct.
+
+Company’s Bank Details
+Bank Name          : VIJAYA BANK - 126100300001836
+A/c No.                 : 126100300001836
+Branch & IFS Code    : Gandhibazar & VIJB0001261
+                         for INFINITI ENGINEERS PRIVATE LIMITED
+
+                                                   Authorised Signatory
+
+This is a Computer Generated Invoice
+

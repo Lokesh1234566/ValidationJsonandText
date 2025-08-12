@@ -1,0 +1,101 @@
+{
+    "supplier_details": {
+        "name": "",
+        "address": "#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994",
+        "gstin_uin": "29AHLPS3265R1Z8",
+        "phone": "91 80 26662994"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee",
+        "gstin_uin": "29AAECI4323B1ZY"
+    },
+    "invoice_details": {
+        "Invoice No": "PI17032021",
+        "Invoice Date": "17.03.2021",
+        "Our DC No": "",
+        "Our DC Date": "",
+        "Your DC No": "",
+        "Your DC Date": "",
+        "PO No": "PO-IA20-00019",
+        "PO Date": "16.03.2021",
+        "Payment Terms": "Advance Payment",
+        "Delivery": "4-6 weeks"
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description": "Front Panel Interface",
+            "HSN/SAC": "85177010",
+            "Quantity": 5,
+            "Unit Price": 1470.0,
+            "Amount": 7350.0
+        },
+        {
+            "Sl No": "2",
+            "Description": "IGU Interface",
+            "HSN/SAC": "85177010",
+            "Quantity": 5,
+            "Unit Price": 3800.0,
+            "Amount": 19000.0
+        },
+        {
+            "Sl No": "3",
+            "Description": "Power Management",
+            "HSN/SAC": "85177010",
+            "Quantity": 5,
+            "Unit Price": 4750.0,
+            "Amount": 23750.0
+        },
+        {
+            "Sl No": "4",
+            "Description": "Imaging Controller",
+            "HSN/SAC": "85177010",
+            "Quantity": 10,
+            "Unit Price": 9100.0,
+            "Amount": 91000.0
+        },
+        {
+            "Sl No": "5",
+            "Description": "Light Source Board",
+            "HSN/SAC": "85177010",
+            "Quantity": 10,
+            "Unit Price": 2850.0,
+            "Amount": 28500.0
+        },
+        {
+            "Sl No": "6",
+            "Description": "Panel Interface Board IGU",
+            "HSN/SAC": "85177010",
+            "Quantity": 10,
+            "Unit Price": 1470.0,
+            "Amount": 14700.0
+        },
+        {
+            "Sl No": "7",
+            "Description": "Light Source Driver Board",
+            "HSN/SAC": "85177010",
+            "Quantity": 10,
+            "Unit Price": 5200.0,
+            "Amount": 52000.0
+        }
+    ],
+    "tax_summary": {
+        "CGST 9%": "21267.00",
+        "SGST 9%": "21267.00",
+        "IGST 18%": "0.00"
+    },
+    "totals": {
+        "Total Amount (before tax)": 236300.0,
+        "CGST": 21267.0,
+        "SGST": 21267.0,
+        "IGST": 0.0,
+        "Total Invoice Value": 236300.0
+    },
+    "amount_chargeable_in_words": "Two Lakh Seventy Eight Thousand Eight Hundred and Thirty Four on",
+    "bank_details": {
+        "Bank Name": "N/A",
+        "A/c No": "N/A",
+        "Branch & IFS Code": "N/A"
+    }
+}

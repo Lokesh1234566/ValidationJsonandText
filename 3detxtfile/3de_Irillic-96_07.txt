@@ -1,0 +1,94 @@
+                   3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd
+                   No.5,SF No.16/2A1 SIDCO Industrial Estate,
+               Near Ashok Leyland Unit-I
+                Zuzuvadi Sipcot-1
+                Hosur-635126.
+               GSTIN/UIN: 33AABCZ2737P1ZW
+                  State Name : Tamil Nadu, Code : 33
+                 E-Mail : accounts@3dtechproto.com
+
+Buyer
+Irillic Pvt Ltd
+#76,29th Main 10th Cross
+1st Phase ,J.P Nagar
+Bangalore
+GSTIN/UIN              : 29AAECI4323B1ZY
+State Name             : Karnataka, Code : 29
+
+Invoice No.      e-Way Bill No.
+3D/IV/20-21/0096
+Delivery Note
+
+Invoice No.      e-Way Bill No.
+
+Supplier’s Ref.
+
+Buyer’s Order No.
+PO-IA20-30007
+Despatch Document No.
+
+Despatched through
+
+Dated
+28-Jul-2020
+Mode/Terms of Payment
+
+Other Reference(s)
+3DTPS/VC000317(R)2020
+Dated
+28-Jul-2020
+Delivery Note Date
+
+Destination
+
+Terms of Delivery
+
+Sl               Description of Goods              HSN/SAC    GST     Quantity        Rate       per       Amount
+No.                                                            Rate
+
+Sl               Description of Goods              HSN/SAC    GST     Quantity        Rate       per       Amount
+
+1 Supply of Prototype Parts                  39269099       18 %     1 Nos.      4,715.00 Nos.          4,715.00
+     Master Cost
+2 Supply of Prototype Parts                  39269099       18 %     1 Nos.     41,880.00  Nos.        41,880.00
+      Silicon Rubber Cost
+3 Supply of Prototype Parts                  39269099       18 %    15 Nos.        180.00 Nos.          2,700.00
+      Flexible Part Back
+4 Supply of Prototype Parts                  39269099       18 %    15 Nos.        160.00 Nos.          2,400.00
+      Flexible Part Front
+5 Supply of Prototype Parts                  39269099       18 %    15 Nos.        180.00 Nos.          2,700.00
+      Tight Ring
+                                                                                                       54,395.00
+                            Output IGST                                                              9,791.10
+  Less :                    Round Off                                                                           (-)0.10
+
+
+
+
+
+                                                 Total                       47 Nos.         ī64,186.00
+Amount Chargeable (in words)                                                                                              E. & O.E
+INR Sixty Four Thousand One Hundred Eighty Six Only
+
+                       HSN/SAC                                   Taxable          Integrated Tax             Total
+                                                                          Value       Rate     Amount     Tax Amount
+39269099                                                                   54,395.00    18%       9,791.10       9,791.10
+                                                                   Total       54,395.00                9,791.10       9,791.10
+Tax Amount (in words)  :  INR Nine Thousand Seven Hundred Ninety One and Ten paise Only
+
+
+
+                                                        Company’s Bank Details
+                                                       Bank Name                : Indian Bank
+                                                                 A/c No.                       : 6695606641
+                                                           Branch & IFS Code    : Zuzuvadi, Hosur & IDIB000Z001
+
+Declaration
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and correct.
+
+for 3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd
+
+
+                                         Authorised Signatory
+

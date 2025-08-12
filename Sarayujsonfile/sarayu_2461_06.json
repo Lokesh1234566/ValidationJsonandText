@@ -1,0 +1,55 @@
+{
+    "supplier_details": {
+        "name": "Invoice No.      e-Way Bill No.",
+        "address": "SBPPL/19-20/2461, Delivery Note, Supplier\u2019s Ref.",
+        "gstin_uin": "29AAVCS8826Q1ZW",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "finance@sarayus.com"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt. Ltd.",
+        "address": "Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase, J.P.",
+        "gstin_uin": "29AAVCS8826Q1ZW",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "place_of_supply": "Karnataka",
+        "contact_person": "Navaneeth",
+        "contact": "080"
+    },
+    "invoice_details": {
+        "Invoice No.": "",
+        "Delivery Note": "",
+        "Supplier's Ref.": "SBPPL/19-20/2461",
+        "Buyer's Order No.": "",
+        "Despatch Document No.": "",
+        "Despatched through": "Sarayu Branding & Printing Pvt. Ltd. - (16-17) - (From 1-Apr-2017)",
+        "Dated": "13-Mar-2020",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [],
+    "tax_summary": {
+        "CGST Amount": "264.00",
+        "SGST Amount": "264.00"
+    },
+    "hsn_summary": [
+        {
+            "HSN/SAC": "49110000",
+            "Taxable Value": "4,400.00",
+            "Central Tax Rate": "6%",
+            "Central Tax Amount": "264.00",
+            "State Tax Rate": "6%",
+            "State Tax Amount": "264.00",
+            "Total Tax Amount": "528.00"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "",
+        "Account Number": "",
+        "Branch & IFSC": ""
+    }
+}

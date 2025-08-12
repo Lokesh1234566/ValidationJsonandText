@@ -1,0 +1,48 @@
+{
+    "supplier_details": {
+        "name": "",
+        "address": "",
+        "gstin_uin": "",
+        "state_name": "",
+        "state_code": "",
+        "email": ""
+    },
+    "buyer_details": {
+        "name": "",
+        "address": "",
+        "gstin_uin": "",
+        "state_name": "",
+        "state_code": ""
+    },
+    "invoice_details": {
+        "Invoice No": "",
+        "Delivery Note": "",
+        "Supplier's Ref": "",
+        "Buyer's Order No": "",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Dated": "",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [],
+    "tax_summary": {
+        "CGST Rate (%)": "",
+        "CGST Amount": "",
+        "SGST Rate (%)": "",
+        "SGST Amount": ""
+    },
+    "totals": {
+        "Total Amount": ""
+    },
+    "amount_chargeable_in_words": "",
+    "hsn_summary": [],
+    "bank_details": {
+        "Bank Name": "",
+        "Account Number": "",
+        "Branch_IFSC": ""
+    }
+}

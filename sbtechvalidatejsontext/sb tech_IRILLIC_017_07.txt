@@ -1,0 +1,37 @@
+supplier_details.address : '#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994' found at index -1
+supplier_details.gstin_uin : '29AHLPS3265R1Z8' found at index 189
+supplier_details.phone : '91 80 26662994' found at index 162
+buyer_details.name : 'Irillic Pvt Ltd' found at index 363
+buyer_details.address : '#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee' found at index -1
+buyer_details.gstin_uin : '29AAECI4323B1ZY' found at index 683
+invoice_details.Invoice No : 'SBT2020-21/017' found at index 314
+invoice_details.Invoice Date : '28.07.2020' found at index 341
+invoice_details.PO No : 'PO-IA20-30005' found at index 627
+invoice_details.PO Date : '07.07.2020' found at index 656
+invoice_details.Payment Terms : 'Advance NEFT, Due Rs.40320' found at index 731
+invoice_details.Delivery : 'within 3 weeks' found at index 830
+line_items[0].Sl No : '1' found at index 163
+line_items[0].Description : 'Populated Printed circuit Board' found at index 1063
+line_items[0].HSN/SAC : '85177010' found at index 1110
+line_items[0].Quantity : '35' found at index 1126
+line_items[0].Unit Price : '2800.0' found at index 1137
+line_items[0].Amount : '98000.0' found at index 1148
+tax_summary.CGST 9% : '8820.00' found at index 1438
+tax_summary.SGST 9% : '8820.00' found at index 1438
+tax_summary.IGST 18% : '0.00' found at index 1140
+totals.Total Amount (before tax) : '98000.0' found at index 1148
+totals.CGST : '8820.0' found at index 1438
+totals.SGST : '8820.0' found at index 1438
+totals.IGST : '0.0' found at index 1140
+totals.Total Invoice Value : '98000.0' found at index 1148
+amount_chargeable_in_words : 'One Lakh Fifteen Thousand Six Hundred and Fourty only' found at index 1688
+bank_details.Bank Name : 'N/A' found at index -1
+bank_details.A/c No : 'N/A' found at index -1
+bank_details.Branch & IFS Code : 'N/A' found at index -1
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994' found at index -1
+buyer_details.address : '#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee' found at index -1
+bank_details.Bank Name : 'N/A' found at index -1
+bank_details.A/c No : 'N/A' found at index -1
+bank_details.Branch & IFS Code : 'N/A' found at index -1

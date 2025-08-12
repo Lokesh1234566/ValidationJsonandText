@@ -1,0 +1,44 @@
+{
+    "supplier_details": {
+        "name": "",
+        "address": "#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994",
+        "gstin_uin": "29AHLPS3265R1Z8",
+        "phone": "91 80 26662994"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee",
+        "gstin_uin": "29AAECI4323B1ZY"
+    },
+    "invoice_details": {
+        "Invoice No": "PI27032021",
+        "Invoice Date": "27.03.2021",
+        "Our DC No": "",
+        "Our DC Date": "",
+        "Your DC No": "",
+        "Your DC Date": "",
+        "PO No": "email",
+        "PO Date": "26.03.2021",
+        "Payment Terms": "Advance Payment",
+        "Delivery": "2 weeks"
+    },
+    "line_items": [],
+    "tax_summary": {
+        "CGST 9%": "3739.95",
+        "SGST 9%": "3739.95",
+        "IGST 18%": "0.00"
+    },
+    "totals": {
+        "Total Amount (before tax)": 0,
+        "CGST": 3739.95,
+        "SGST": 3739.95,
+        "IGST": 0.0,
+        "Total Invoice Value": 41555.0
+    },
+    "amount_chargeable_in_words": "Fourty Nine Thousand and Thirty Five only",
+    "bank_details": {
+        "Bank Name": "N/A",
+        "A/c No": "N/A",
+        "Branch & IFS Code": "N/A"
+    }
+}

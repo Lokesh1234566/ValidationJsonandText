@@ -1,0 +1,39 @@
+supplier_details.name : 'Sarayu Branding & Printing Pvt. Ltd. - (16-17) - (From 1-Apr-2017)' found at index 0
+supplier_details.address : '#53/A,9th Cross, Opp. Aurobindo, Ashram, J.P. Nagar 1st Phase,, Bangalore 560 078.' found at index -1
+supplier_details.gstin_uin : '29AAVCS8826Q1ZW' found at index 159
+supplier_details.state_name : 'Karnataka' found at index 188
+supplier_details.state_code : '29' found at index 159
+supplier_details.email : 'finance@sarayus.com' found at index 245
+buyer_details.name : 'Irillic Pvt. Ltd.' found at index 271
+buyer_details.address : 'Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase' found at index -1
+buyer_details.gstin_uin : '29AAVCS8826Q1ZW' found at index 159
+buyer_details.state_name : 'Karnataka' found at index 188
+buyer_details.state_code : '29' found at index 159
+invoice_details.Invoice No. : 'SBPPL/20-21/0180' found at index 404
+invoice_details.Supplier's Ref. : 'SBPPL/20-21/0180' found at index 404
+invoice_details.Dated : '3-Jul-2020' found at index 537
+line_items[0].Sl No : '1' found at index 40
+line_items[0].Description of Goods : 'ID Cards with Tag and Holder CGST                                                            162.00' found at index -1
+line_items[0].HSN/SAC : '39191000' found at index 950
+line_items[0].GST Rate : '18' found at index 417
+line_items[0].Quantity : '15 Nos' found at index 969
+line_items[0].Rate : '15' found at index 224
+line_items[0].per : 'Nos' found at index 972
+line_items[0].Amount : '120.00' found at index 990
+tax_summary.CGST Amount : '162.00' found at index 1106
+tax_summary.SGST Amount : '162.00' found at index 1106
+hsn_summary[0].HSN/SAC : '39191000' found at index 950
+hsn_summary[0].Taxable Value : '1,800.00' found at index 1007
+hsn_summary[0].Central Tax Rate : '9%' found at index 1784
+hsn_summary[0].Central Tax Amount : '162.00' found at index 1106
+hsn_summary[0].State Tax Rate : '9%' found at index 1784
+hsn_summary[0].State Tax Amount : '162.00' found at index 1106
+hsn_summary[0].Total Tax Amount : '324.00' found at index 1822
+bank_details.Bank Name : 'IndusInd Bank' found at index 2239
+bank_details.Account Number : '201000082717' found at index 2279
+bank_details.Branch & IFSC : 'Jayanagar Branch & INDB0000178' found at index 2314
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '#53/A,9th Cross, Opp. Aurobindo, Ashram, J.P. Nagar 1st Phase,, Bangalore 560 078.' found at index -1
+buyer_details.address : 'Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase' found at index -1
+line_items[0].Description of Goods : 'ID Cards with Tag and Holder CGST                                                            162.00' found at index -1

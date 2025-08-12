@@ -1,0 +1,37 @@
+supplier_details.name : 'Chartered Accountants' found at index 320
+supplier_details.address : 'No.37/E,New No.12 &13,, First Floor,South End Road,, Bengaluru-560004, Tel-080-41692944/ 41692945, Www.Vaco-Ca.Com' found at index -1
+supplier_details.gstin_uin : '29AAGFV5352E1Z0' found at index 551
+supplier_details.state_name : 'Karnataka' found at index 595
+supplier_details.state_code : '29' found at index 483
+supplier_details.email : 'Vasanth@vaco-ca.com' found at index 640
+buyer_details.name : 'IRILLIC PRIVATE LIMITED' found at index 666
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J.P., Nagar, Bengaluru -560078, GSTIN/UIN          : 29AAECI4323B1ZY' found at index -1
+buyer_details.gstin_uin : '29AAGFV5352E1Z0' found at index 551
+buyer_details.state_name : 'Karnataka' found at index 595
+buyer_details.state_code : '29' found at index 483
+invoice_details.Invoice No : '453/20-21' found at index 30
+invoice_details.Supplier's Ref : '453/20-21' found at index 30
+invoice_details.Dated : '23-Sep-2020' found at index 172
+invoice_details.Mode/Terms of Payment : '15 Days' found at index 206
+line_items[0].Sl No : '1' found at index 38
+line_items[0].Particulars : 'Professional Fee For Preparation of Documents and Board Resolution for appointment of Mr .Sandeep' found at index -1
+line_items[0].HSN/SAC : '998221' found at index 1030
+line_items[0].Amount : '3,000.00' found at index 1059
+line_items[1].Sl No : '2' found at index 34
+line_items[1].Particulars : 'Reimbursement of Expenses-Pure Agent Towards Roc Payment Challan Are Enclosed' found at index -1
+line_items[1].Amount : '400.00' found at index 1259
+tax_summary.CGST Rate (%) : '9' found at index 482
+tax_summary.CGST Amount : '270.00' found at index 1384
+tax_summary.SGST Rate (%) : '9' found at index 482
+tax_summary.SGST Amount : '270.00' found at index 1384
+totals.Total Amount : '3,940.00' found at index 1559
+amount_chargeable_in_words : 'Indian Rupees Three Thousand Nine Hundred Forty' found at index 1680
+bank_details.Bank Name : 'State Bank of India' found at index 1859
+bank_details.Account Number : '30258424387' found at index 1907
+bank_details.Branch_IFSC : 'Basavanagudi & SBIN0003357' found at index 1938
+
+--- NOT FOUND VALUES ---
+supplier_details.address : 'No.37/E,New No.12 &13,, First Floor,South End Road,, Bengaluru-560004, Tel-080-41692944/ 41692945, Www.Vaco-Ca.Com' found at index -1
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J.P., Nagar, Bengaluru -560078, GSTIN/UIN          : 29AAECI4323B1ZY' found at index -1
+line_items[0].Particulars : 'Professional Fee For Preparation of Documents and Board Resolution for appointment of Mr .Sandeep' found at index -1
+line_items[1].Particulars : 'Reimbursement of Expenses-Pure Agent Towards Roc Payment Challan Are Enclosed' found at index -1

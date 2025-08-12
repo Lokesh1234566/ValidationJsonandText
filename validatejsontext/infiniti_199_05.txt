@@ -1,0 +1,43 @@
+supplier_details.name : 'INFINITI ENGINEERS PRIVATE LIMITED' found at index 0
+supplier_details.address : '12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004' found at index -1
+supplier_details.phone : '080-41505286/41481855' found at index 92
+supplier_details.pan : 'AAACI5897G' found at index 121
+supplier_details.gstin_uin : '29AAACI5897G1Z3' found at index 143
+supplier_details.state_name : 'Karnataka' found at index 172
+supplier_details.state_code : '29' found at index 143
+supplier_details.email : 'contact@infinitiengineers.co.in' found at index 202
+buyer_details.name : 'IRILLIC PVT LTD' found at index 240
+buyer_details.address : '# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078' found at index -1
+buyer_details.gstin_uin : '29AAACI5897G1Z3' found at index 143
+buyer_details.state_name : 'Karnataka' found at index 172
+buyer_details.state_code : '29' found at index 143
+invoice_details.Invoice No : '0199' found at index 406
+invoice_details.Supplier’s Ref : '0199' found at index 406
+invoice_details.Destination : 'BANGALORE' found at index 70
+line_items[0].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KWB1' found at index -1
+line_items[0].HSN/SAC : '84713010' found at index 769
+line_items[0].Quantity : '1' found at index 35
+line_items[0].Rate : '2,950.00' found at index 791
+line_items[0].per : 'NOS' found at index 783
+line_items[0].Amount : '2,950.00' found at index 791
+tax_summary.SGST Rate (%) : '9' found at index 128
+tax_summary.SGST Amount : '265.50' found at index 996
+tax_summary.CGST Rate (%) : '9' found at index 128
+tax_summary.CGST Amount : '265.50' found at index 996
+totals.Total Quantity : '1' found at index 35
+totals.Total Amount : '3,481.00' found at index 1150
+amount_chargeable_in_words : 'Indian Rupees Three Thousand Four Hundred Eighty One Only' found at index 1281
+hsn_summary[0].HSN/SAC : '84713010' found at index 769
+hsn_summary[0].Taxable Value : '2,950.00' found at index 791
+hsn_summary[0].Central Tax Rate : '9%' found at index 946
+hsn_summary[0].Central Tax Amount : '265.50' found at index 996
+hsn_summary[0].State Tax Rate : '9%' found at index 946
+hsn_summary[0].State Tax Amount : '265.50' found at index 996
+hsn_summary[0].Total Tax Amount : '531.00' found at index 1648
+bank_details.Bank Name : 'VIJAYA BANK - 126100300001836' found at index 2110
+bank_details.Branch_IFSC : 'Gandhibazar & VIJB0001261' found at index 2205
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004' found at index -1
+buyer_details.address : '# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078' found at index -1
+line_items[0].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KWB1' found at index -1

@@ -1,0 +1,80 @@
+Invoice No.    e-Way Bill No.
+280/20-21
+Delivery Note
+
+
+Supplier's Ref.
+280/20-21
+Buyer's Order No.
+
+
+Despatch Document No.
+
+
+Despatched through
+
+
+Terms of Delivery
+
+Dated
+6-Aug-2020
+Mode/Terms of Payment
+30 Days
+Other Reference(s)
+
+
+Dated
+
+
+Delivery Note Date
+
+
+Destination
+
+Vasanth and Co
+Chartered Accountants
+No.37/E,New No.12 &13,
+First Floor,South End Road,
+Bengaluru-560004
+Tel-080-41692944/ 41692945
+Www.Vaco-Ca.Com
+GSTIN/UIN: 29AAGFV5352E1Z0
+State Name : Karnataka, Code : 29
+E-Mail : Vasanth@vaco-ca.com
+Buyer
+IRILLIC PRIVATE LIMITED
+ No 76, 10th Cross,
+29th Main, 1st Phase, J.P.Nagar,
+Bengaluru -560078
+GSTIN/UIN          : 29AAECI4323B1ZY
+State Name         : Karnataka, Code : 29
+
+Sl                             Particulars                     HSN/SAC    Rate    per    Amount
+No.
+
+1       Professional Fee                                 998221                       7,500.00
+         For Preparation & Co-Ordination for Filing of
+          “Foreign Liabilities & Assets” Returns for the
+          Financial Year 2019-20.
+2                                    CGST                9 %         675.00
+3                                    SGST                9 %         675.00
+
+                                                                 Total                   ₹ 8,850.00
+Amount Chargeable (in words)                                                                           E. & O.E
+Indian Rupees Eight Thousand Eight Hundred Fifty
+Only
+
+
+
+
+                                               Company's Bank Details
+                                             Bank Name            : State Bank of India
+                                                      A/c No.                   : 30258424387
+                                                 Branch & IFS Code: Basavanagudi & SBIN0003357
+Customer's Seal and Signature                                                                            for Vasanth and Co
+
+
+                                                                                                      Authorised Signatory
+
+                                    This is a Computer Generated Invoice
+

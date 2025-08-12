@@ -1,0 +1,33 @@
+supplier_details.name : 'Chartered Accountants' found at index 321
+supplier_details.address : 'No.37/E,New No.12 &13,, First Floor,South End Road,, Bengaluru-560004, Tel-080-41692944/ 41692945, Www.Vaco-Ca.Com' found at index -1
+supplier_details.gstin_uin : '29AAGFV5352E1Z0' found at index 552
+supplier_details.state_name : 'Karnataka' found at index 596
+supplier_details.state_code : '29' found at index 484
+supplier_details.email : 'Vasanth@vaco-ca.com' found at index 641
+buyer_details.name : 'IRILLIC PRIVATE LIMITED' found at index 667
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J.P., Nagar, Bengaluru -560078, GSTIN/UIN          : 29AAECI4323B1ZY' found at index -1
+buyer_details.gstin_uin : '29AAGFV5352E1Z0' found at index 552
+buyer_details.state_name : 'Karnataka' found at index 596
+buyer_details.state_code : '29' found at index 484
+invoice_details.Invoice No : '1093/20-21' found at index 30
+invoice_details.Supplier's Ref : '1093/20-21' found at index 30
+invoice_details.Dated : '3-Feb-2021' found at index 174
+invoice_details.Mode/Terms of Payment : '30 Days' found at index 207
+line_items[0].Sl No : '1' found at index 30
+line_items[0].Particulars : 'Statutory Audit Fee For the Financial Year 2019-20' found at index -1
+line_items[0].HSN/SAC : '998221' found at index 1031
+line_items[0].Amount : '60,000.00' found at index 1058
+tax_summary.CGST Rate (%) : '9' found at index 32
+tax_summary.CGST Amount : '5,400.00' found at index 1176
+tax_summary.SGST Rate (%) : '9' found at index 32
+tax_summary.SGST Amount : '5,400.00' found at index 1176
+totals.Total Amount : '70,800.00' found at index 1353
+amount_chargeable_in_words : 'Indian Rupees Seventy Thousand Eight Hundred' found at index 1475
+bank_details.Bank Name : 'State Bank of India' found at index 1651
+bank_details.Account Number : '30258424387' found at index 1699
+bank_details.Branch_IFSC : 'Basavanagudi & SBIN0003357' found at index 1730
+
+--- NOT FOUND VALUES ---
+supplier_details.address : 'No.37/E,New No.12 &13,, First Floor,South End Road,, Bengaluru-560004, Tel-080-41692944/ 41692945, Www.Vaco-Ca.Com' found at index -1
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J.P., Nagar, Bengaluru -560078, GSTIN/UIN          : 29AAECI4323B1ZY' found at index -1
+line_items[0].Particulars : 'Statutory Audit Fee For the Financial Year 2019-20' found at index -1

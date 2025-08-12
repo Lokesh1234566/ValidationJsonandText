@@ -1,0 +1,53 @@
+{
+    "supplier_details": {
+        "name": "",
+        "address": "#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994",
+        "gstin_uin": "29AHLPS3265R1Z8",
+        "phone": "91 80 26662994"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee",
+        "gstin_uin": "29AAECI4323B1ZY"
+    },
+    "invoice_details": {
+        "Invoice No": "SBT2020-21/022",
+        "Invoice Date": "08.08.2020",
+        "Our DC No": "",
+        "Our DC Date": "",
+        "Your DC No": "",
+        "Your DC Date": "",
+        "PO No": "PO-IA20-30018",
+        "PO Date": "27.07.2020",
+        "Payment Terms": "Advance NEFT",
+        "Delivery": "within 3 weeks"
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description": "Populated Printed circuit Board",
+            "HSN/SAC": "85177010",
+            "Quantity": 14,
+            "Unit Price": 2800.0,
+            "Amount": 39200.0
+        }
+    ],
+    "tax_summary": {
+        "CGST 9%": "3528.00",
+        "SGST 9%": "3528.00",
+        "IGST 18%": "0.00"
+    },
+    "totals": {
+        "Total Amount (before tax)": 39200.0,
+        "CGST": 3528.0,
+        "SGST": 3528.0,
+        "IGST": 0.0,
+        "Total Invoice Value": 39200.0
+    },
+    "amount_chargeable_in_words": "Fourty Six Thousand Two Hundred and Fifty Six only",
+    "bank_details": {
+        "Bank Name": "N/A",
+        "A/c No": "N/A",
+        "Branch & IFS Code": "N/A"
+    }
+}

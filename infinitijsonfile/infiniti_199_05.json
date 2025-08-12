@@ -1,0 +1,71 @@
+{
+    "supplier_details": {
+        "name": "INFINITI ENGINEERS PRIVATE LIMITED",
+        "address": "12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004",
+        "phone": "080-41505286/41481855",
+        "pan": "AAACI5897G",
+        "gstin_uin": "29AAACI5897G1Z3",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "contact@infinitiengineers.co.in"
+    },
+    "buyer_details": {
+        "name": "IRILLIC PVT LTD",
+        "address": "# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078",
+        "gstin_uin": "29AAACI5897G1Z3",
+        "state_name": "Karnataka",
+        "state_code": "29"
+    },
+    "invoice_details": {
+        "Invoice No": "0199",
+        "Delivery Note": "",
+        "Supplier\u2019s Ref": "0199",
+        "Buyer\u2019s Order No": "",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Dated": "",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "BANGALORE",
+        "Terms of Delivery": ""
+    },
+    "line_items": [
+        {
+            "Description of Goods": "LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KWB1",
+            "HSN/SAC": "84713010",
+            "Quantity": "1",
+            "Rate": "2,950.00",
+            "per": "NOS",
+            "Disc. %": "",
+            "Amount": "2,950.00"
+        }
+    ],
+    "tax_summary": {
+        "SGST Rate (%)": "9",
+        "SGST Amount": "265.50",
+        "CGST Rate (%)": "9",
+        "CGST Amount": "265.50"
+    },
+    "totals": {
+        "Total Quantity": "1",
+        "Total Amount": "3,481.00"
+    },
+    "amount_chargeable_in_words": "Indian Rupees Three Thousand Four Hundred Eighty One Only",
+    "hsn_summary": [
+        {
+            "HSN/SAC": "84713010",
+            "Taxable Value": "2,950.00",
+            "Central Tax Rate": "9%",
+            "Central Tax Amount": "265.50",
+            "State Tax Rate": "9%",
+            "State Tax Amount": "265.50",
+            "Total Tax Amount": "531.00"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "VIJAYA BANK - 126100300001836",
+        "Account Number": "",
+        "Branch_IFSC": "Gandhibazar & VIJB0001261"
+    }
+}

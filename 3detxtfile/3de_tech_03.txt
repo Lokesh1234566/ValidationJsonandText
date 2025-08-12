@@ -1,0 +1,89 @@
+                   3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd
+                   No.5,SF No.16/2A1 SIDCO Industrial Estate,
+              Near Ashok Leyland Unit-I
+               Zuzuvadi Sipcot-1
+               Hosur-635126.
+               GSTIN/UIN: 33AABCZ2737P1ZW
+                  State Name : Tamil Nadu, Code : 33
+                 E-Mail : accounts@3dtechproto.com
+
+Buyer
+Irillic Pvt Ltd
+#76,29th Main 10th Cross
+1st Phase ,J.P Nagar
+Bangalore
+GSTIN/UIN             : 29AAECI4323B1ZY
+State Name            : Karnataka, Code : 29
+
+Invoice No.      e-Way Bill No.
+3D/IV/20-21/0082
+Delivery Note
+
+Invoice No.      e-Way Bill No.
+
+Supplier’s Ref.
+
+Buyer’s Order No.
+PO-IA20-30012
+Despatch Document No.
+
+Despatched through
+
+Dated
+16-Jul-2020
+Mode/Terms of Payment
+
+Other Reference(s)
+
+Dated
+15-Jul-2020
+Delivery Note Date
+
+Destination
+
+Terms of Delivery
+
+Sl                Description of Goods               HSN/SAC    GST     Quantity       Rate      per      Amount
+No.                                                            Rate
+
+Sl                Description of Goods               HSN/SAC    GST     Quantity       Rate      per      Amount
+
+1 Supply of Prototype Parts                   39269099       18 %     1 Nos.   1,97,000.00  Nos.      1,97,000.00
+     Bottom Visor Injection Moulding Tool
+2 Supply of Prototype Parts                   39269099       18 %     1 Nos.   1,87,000.00  Nos.      1,87,000.00
+      Front Visor Injection Moulding Tool
+3 Supply of Prototype Parts                   39269099       18 %     1 Nos.   1,53,000.00  Nos.      1,53,000.00
+    Head Bond
+                                                                                                        5,37,000.00
+                             Output IGST                                                           96,660.00
+
+
+
+
+
+                                                  Total                        3 Nos.        ī6,33,660.00
+Amount Chargeable (in words)                                                                                               E. & O.E
+INR Six Lakh Thirty Three Thousand Six Hundred Sixty Only
+
+                        HSN/SAC                                    Taxable          Integrated Tax             Total
+                                                                          Value       Rate     Amount     Tax Amount
+39269099                                                                    5,37,000.00    18%     96,660.00      96,660.00
+                                                                    Total     5,37,000.00               96,660.00      96,660.00
+Tax Amount (in words)  :  INR Ninety Six Thousand Six Hundred Sixty Only
+
+
+
+                                                        Company’s Bank Details
+                                                       Bank Name                : Indian Bank
+                                                                 A/c No.                       : 6695606641
+                                                           Branch & IFS Code    : Zuzuvadi, Hosur & IDIB000Z001
+
+Declaration
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and correct.
+
+for 3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd
+
+
+                                        Authorised Signatory
+

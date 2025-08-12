@@ -1,0 +1,103 @@
+supplier_details.name : '3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd' found at index 19
+supplier_details.address : 'No.5,SF No.16/2A1 SIDCO Industrial Estate,, Near Ashok Leyland Unit-I, Zuzuvadi Sipcot-1, Hosur-635126., GSTIN/UIN: 33AABCZ2737P1ZW' found at index -1
+supplier_details.gstin_uin : '33AABCZ2737P1ZW' found at index 255
+supplier_details.state_name : 'Tamil Nadu' found at index 302
+supplier_details.state_code : '33' found at index 255
+supplier_details.email : 'accounts@3dtechproto.com' found at index 350
+buyer_details.name : 'Irillic Pvt Ltd' found at index 382
+buyer_details.address : '#76,29th Main 10th Cross, 1st Phase ,J.P Nagar, Bangalore' found at index -1
+buyer_details.gstin_uin : '33AABCZ2737P1ZW' found at index 255
+buyer_details.state_name : 'Tamil Nadu' found at index 302
+buyer_details.state_code : '33' found at index 255
+invoice_details.Buyer’s Order No : 'PO-IA20-30007' found at index 674
+invoice_details.Dated : '13-Jul-2020' found at index 817
+invoice_details.Other Reference(s) : '3DTPS/VC000264/2020' found at index 791
+line_items[0].Sl No : '1' found at index 92
+line_items[0].Description of Goods : 'Supply of Prototype Parts Fan Clamp AIICATPart' found at index -1
+line_items[0].HSN/SAC : '39269099' found at index 1224
+line_items[0].Quantity : '15' found at index 1247
+line_items[0].Rate : '135.00' found at index 1262
+line_items[0].per : 'Nos' found at index 1250
+line_items[0].Amount : '2,025.00' found at index 1283
+line_items[0].GST Rate : '18%' found at index 3243
+line_items[1].Sl No : '2' found at index 95
+line_items[1].Description of Goods : 'Supply of Prototype Parts Front Cover (1)AIICAT Part' found at index -1
+line_items[1].HSN/SAC : '39269099' found at index 1224
+line_items[1].Quantity : '15' found at index 1247
+line_items[1].Rate : '745.00' found at index 1401
+line_items[1].per : 'Nos' found at index 1250
+line_items[1].Amount : '11,175.00' found at index 1420
+line_items[1].GST Rate : '18%' found at index 3243
+line_items[2].Sl No : '3' found at index 19
+line_items[2].Description of Goods : 'Supply of Prototype Parts Outlet Pipe' found at index -1
+line_items[2].HSN/SAC : '39269099' found at index 1224
+line_items[2].Quantity : '15' found at index 1247
+line_items[2].Rate : '320.00' found at index 1546
+line_items[2].per : 'Nos' found at index 1250
+line_items[2].Amount : '4,800.00' found at index 1567
+line_items[2].GST Rate : '18%' found at index 3243
+line_items[3].Sl No : '4' found at index 486
+line_items[3].Description of Goods : 'Supply of Prototype Parts Filter Module AIICATPart' found at index -1
+line_items[3].HSN/SAC : '39269099' found at index 1224
+line_items[3].Quantity : '10' found at index 412
+line_items[3].Rate : '370.00' found at index 1677
+line_items[3].per : 'Nos' found at index 1250
+line_items[3].Amount : '3,700.00' found at index 1698
+line_items[3].GST Rate : '18%' found at index 3243
+line_items[4].Sl No : '5' found at index 84
+line_items[4].Description of Goods : 'Supply of Prototype Parts Bottom Visor AIICATPart' found at index -1
+line_items[4].HSN/SAC : '39269099' found at index 1224
+line_items[4].Quantity : '11' found at index 1420
+line_items[4].Rate : '810.00' found at index 1822
+line_items[4].per : 'Nos' found at index 1250
+line_items[4].Amount : '8,910.00' found at index 1843
+line_items[4].GST Rate : '18%' found at index 3243
+line_items[5].Sl No : '6' found at index 93
+line_items[5].Description of Goods : 'Supply of Prototype Parts Crown for Manufacturing AIICATPart' found at index -1
+line_items[5].HSN/SAC : '39269099' found at index 1224
+line_items[5].Quantity : '15' found at index 1247
+line_items[5].Rate : '624.00' found at index 1964
+line_items[5].per : 'Nos' found at index 1250
+line_items[5].Amount : '9,360.00' found at index 1985
+line_items[5].GST Rate : '18%' found at index 3243
+line_items[6].Sl No : '7' found at index 263
+line_items[6].Description of Goods : 'Supply of Prototype Parts Front Visor AIICATPart' found at index -1
+line_items[6].HSN/SAC : '39269099' found at index 1224
+line_items[6].Quantity : '15' found at index 1247
+line_items[6].Rate : '414.00' found at index 2117
+line_items[6].per : 'Nos' found at index 1250
+line_items[6].Amount : '6,210.00' found at index 2138
+line_items[6].GST Rate : '18%' found at index 3243
+line_items[7].Sl No : '8' found at index 738
+line_items[7].Description of Goods : 'Supply of Prototype Parts Head Band AIICATPart' found at index -1
+line_items[7].HSN/SAC : '39269099' found at index 1224
+line_items[7].Quantity : '15' found at index 1247
+line_items[7].Rate : '336.00' found at index 2259
+line_items[7].per : 'Nos' found at index 1250
+line_items[7].Amount : '5,040.00' found at index 2280
+line_items[7].GST Rate : '18%' found at index 3243
+tax_summary.IGST Rate (%) : '18' found at index 1239
+tax_summary.IGST Amount : '9,219.60' found at index 2528
+totals.Total Quantity : '111' found at index 2720
+totals.Total Amount : '60,440.00' found at index 2738
+amount_chargeable_in_words : 'INR Sixty Thousand Four Hundred Forty Only' found at index 2879
+hsn_summary[0].HSN/SAC : '39269099' found at index 1224
+hsn_summary[0].Taxable Value : '51,220.00' found at index 2417
+hsn_summary[0].Integrated Tax Rate : '18%' found at index 3243
+hsn_summary[0].Integrated Tax Amount : '9,219.60' found at index 2528
+hsn_summary[0].Total Tax Amount : '9,219.60' found at index 2528
+bank_details.Bank Name : 'Indian Bank' found at index 3655
+bank_details.Account Number : '6695606641' found at index 3764
+bank_details.Branch_IFSC : 'Zuzuvadi, Hosur & IDIB000Z001' found at index 3857
+
+--- NOT FOUND VALUES ---
+supplier_details.address : 'No.5,SF No.16/2A1 SIDCO Industrial Estate,, Near Ashok Leyland Unit-I, Zuzuvadi Sipcot-1, Hosur-635126., GSTIN/UIN: 33AABCZ2737P1ZW' found at index -1
+buyer_details.address : '#76,29th Main 10th Cross, 1st Phase ,J.P Nagar, Bangalore' found at index -1
+line_items[0].Description of Goods : 'Supply of Prototype Parts Fan Clamp AIICATPart' found at index -1
+line_items[1].Description of Goods : 'Supply of Prototype Parts Front Cover (1)AIICAT Part' found at index -1
+line_items[2].Description of Goods : 'Supply of Prototype Parts Outlet Pipe' found at index -1
+line_items[3].Description of Goods : 'Supply of Prototype Parts Filter Module AIICATPart' found at index -1
+line_items[4].Description of Goods : 'Supply of Prototype Parts Bottom Visor AIICATPart' found at index -1
+line_items[5].Description of Goods : 'Supply of Prototype Parts Crown for Manufacturing AIICATPart' found at index -1
+line_items[6].Description of Goods : 'Supply of Prototype Parts Front Visor AIICATPart' found at index -1
+line_items[7].Description of Goods : 'Supply of Prototype Parts Head Band AIICATPart' found at index -1

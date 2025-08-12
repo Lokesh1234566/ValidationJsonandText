@@ -1,0 +1,143 @@
+{
+    "supplier_details": {
+        "name": "3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd",
+        "address": "No.5,SF No.16/2A1 SIDCO Industrial Estate,, Near Ashok Leyland Unit-I, Zuzuvadi Sipcot-1, Hosur-635126., GSTIN/UIN: 33AABCZ2737P1ZW",
+        "gstin_uin": "33AABCZ2737P1ZW",
+        "state_name": "Tamil Nadu",
+        "state_code": "33",
+        "email": "accounts@3dtechproto.com"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "#76,29th Main 10th Cross, 1st Phase ,J.P Nagar, Bangalore",
+        "gstin_uin": "33AABCZ2737P1ZW",
+        "state_name": "Tamil Nadu",
+        "state_code": "33"
+    },
+    "invoice_details": {
+        "Delivery Note": "",
+        "Supplier\u2019s Ref": "",
+        "Buyer\u2019s Order No": "PO-IA20-30007",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Dated": "13-Jul-2020",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "3DTPS/VC000264/2020",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description of Goods": "Supply of Prototype Parts Fan Clamp AIICATPart",
+            "HSN/SAC": "39269099",
+            "Quantity": "15",
+            "Rate": "135.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "2,025.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Supply of Prototype Parts Front Cover (1)AIICAT Part",
+            "HSN/SAC": "39269099",
+            "Quantity": "15",
+            "Rate": "745.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "11,175.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Supply of Prototype Parts Outlet Pipe",
+            "HSN/SAC": "39269099",
+            "Quantity": "15",
+            "Rate": "320.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "4,800.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Supply of Prototype Parts Filter Module AIICATPart",
+            "HSN/SAC": "39269099",
+            "Quantity": "10",
+            "Rate": "370.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "3,700.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Supply of Prototype Parts Bottom Visor AIICATPart",
+            "HSN/SAC": "39269099",
+            "Quantity": "11",
+            "Rate": "810.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "8,910.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "6",
+            "Description of Goods": "Supply of Prototype Parts Crown for Manufacturing AIICATPart",
+            "HSN/SAC": "39269099",
+            "Quantity": "15",
+            "Rate": "624.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "9,360.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "7",
+            "Description of Goods": "Supply of Prototype Parts Front Visor AIICATPart",
+            "HSN/SAC": "39269099",
+            "Quantity": "15",
+            "Rate": "414.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "6,210.00",
+            "GST Rate": "18%"
+        },
+        {
+            "Sl No": "8",
+            "Description of Goods": "Supply of Prototype Parts Head Band AIICATPart",
+            "HSN/SAC": "39269099",
+            "Quantity": "15",
+            "Rate": "336.00",
+            "per": "Nos",
+            "Disc. %": "",
+            "Amount": "5,040.00",
+            "GST Rate": "18%"
+        }
+    ],
+    "tax_summary": {
+        "IGST Rate (%)": "18",
+        "IGST Amount": "9,219.60"
+    },
+    "totals": {
+        "Total Quantity": "111",
+        "Total Amount": "60,440.00"
+    },
+    "amount_chargeable_in_words": "INR Sixty Thousand Four Hundred Forty Only",
+    "hsn_summary": [
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "51,220.00",
+            "Integrated Tax Rate": "18%",
+            "Integrated Tax Amount": "9,219.60",
+            "Total Tax Amount": "9,219.60"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "Indian Bank",
+        "Account Number": "6695606641",
+        "Branch_IFSC": "Zuzuvadi, Hosur & IDIB000Z001"
+    }
+}

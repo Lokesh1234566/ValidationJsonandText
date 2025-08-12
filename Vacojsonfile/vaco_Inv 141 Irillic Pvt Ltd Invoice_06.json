@@ -1,0 +1,48 @@
+{
+    "supplier_details": {
+        "name": "Chartered Accountants",
+        "address": "No.37/E,New No.12 &13,, First Floor,South End Road,, Bengaluru-560004, Tel-080-41692944/ 41692945, Www.Vaco-Ca.Com",
+        "gstin_uin": "29AAGFV5352E1Z0",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "Vasanth@vaco-ca.com"
+    },
+    "buyer_details": {
+        "name": "IRILLIC PRIVATE LIMITED",
+        "address": "No 76, 10th Cross, 29th Main, 1st Phase, J.P., Nagar, Bengaluru -560078, Bangalore -, 560076, Ph: 8971900040",
+        "gstin_uin": "29AAGFV5352E1Z0",
+        "state_name": "Karnataka",
+        "state_code": "29"
+    },
+    "invoice_details": {
+        "Invoice No": "141/20-21",
+        "Delivery Note": "",
+        "Supplier's Ref": "",
+        "Buyer's Order No": "",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Dated": "20-Jun-2020",
+        "Mode/Terms of Payment": "15",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [],
+    "tax_summary": {
+        "CGST Rate (%)": "9",
+        "CGST Amount": "1,800.00",
+        "SGST Rate (%)": "9",
+        "SGST Amount": "1,800.00"
+    },
+    "totals": {
+        "Total Amount": ""
+    },
+    "amount_chargeable_in_words": "Indian Rupees Twenty Three Thousand Six",
+    "hsn_summary": [],
+    "bank_details": {
+        "Bank Name": "State Bank of India",
+        "Account Number": "30258424387",
+        "Branch_IFSC": "Basavanagudi & SBIN0003357"
+    }
+}

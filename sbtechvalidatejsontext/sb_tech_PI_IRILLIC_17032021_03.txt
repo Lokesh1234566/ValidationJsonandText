@@ -1,0 +1,80 @@
+supplier_details.address : '#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994' found at index -1
+supplier_details.gstin_uin : '29AHLPS3265R1Z8' found at index 188
+supplier_details.phone : '91 80 26662994' found at index 162
+buyer_details.name : 'Irillic Pvt Ltd' found at index 387
+buyer_details.address : '#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee' found at index -1
+buyer_details.gstin_uin : '29AAECI4323B1ZY' found at index 709
+invoice_details.Invoice No : 'PI17032021' found at index 336
+invoice_details.Invoice Date : '17.03.2021' found at index 365
+invoice_details.PO No : 'PO-IA20-00019' found at index 653
+invoice_details.PO Date : '16.03.2021' found at index 682
+invoice_details.Payment Terms : 'Advance Payment' found at index 757
+invoice_details.Delivery : '4-6 weeks' found at index 845
+line_items[0].Sl No : '1' found at index 163
+line_items[0].Description : 'Front Panel Interface' found at index 1076
+line_items[0].HSN/SAC : '85177010' found at index 1122
+line_items[0].Quantity : '5' found at index 144
+line_items[0].Unit Price : '1470.0' found at index -1
+line_items[0].Amount : '7350.0' found at index 1163
+line_items[1].Sl No : '2' found at index 150
+line_items[1].Description : 'IGU Interface' found at index 1180
+line_items[1].HSN/SAC : '85177010' found at index 1122
+line_items[1].Quantity : '5' found at index 144
+line_items[1].Unit Price : '3800.0' found at index -1
+line_items[1].Amount : '19000.0' found at index 1264
+line_items[2].Sl No : '3' found at index 195
+line_items[2].Description : 'Power Management' found at index 1282
+line_items[2].HSN/SAC : '85177010' found at index 1122
+line_items[2].Quantity : '5' found at index 144
+line_items[2].Unit Price : '4750.0' found at index -1
+line_items[2].Amount : '23750.0' found at index 1363
+line_items[3].Sl No : '4' found at index 18
+line_items[3].Description : 'Imaging Controller' found at index 1381
+line_items[3].HSN/SAC : '85177010' found at index 1122
+line_items[3].Quantity : '10' found at index 416
+line_items[3].Unit Price : '9100.0' found at index -1
+line_items[3].Amount : '91000.0' found at index 1466
+line_items[4].Sl No : '5' found at index 144
+line_items[4].Description : 'Light Source Board' found at index 1485
+line_items[4].HSN/SAC : '85177010' found at index 1122
+line_items[4].Quantity : '10' found at index 416
+line_items[4].Unit Price : '2850.0' found at index -1
+line_items[4].Amount : '28500.0' found at index 1569
+line_items[5].Sl No : '6' found at index 145
+line_items[5].Description : 'Panel Interface Board IGU' found at index 1587
+line_items[5].HSN/SAC : '85177010' found at index 1122
+line_items[5].Quantity : '10' found at index 416
+line_items[5].Unit Price : '1470.0' found at index -1
+line_items[5].Amount : '14700.0' found at index 1672
+line_items[6].Sl No : '7' found at index 339
+line_items[6].Description : 'Light Source Driver Board' found at index 1691
+line_items[6].HSN/SAC : '85177010' found at index 1122
+line_items[6].Quantity : '10' found at index 416
+line_items[6].Unit Price : '5200.0' found at index -1
+line_items[6].Amount : '52000.0' found at index 1777
+tax_summary.CGST 9% : '21267.00' found at index 2280
+tax_summary.SGST 9% : '21267.00' found at index 2280
+tax_summary.IGST 18% : '0.00' found at index 1166
+totals.Total Amount (before tax) : '236300.0' found at index 2177
+totals.CGST : '21267.0' found at index 2280
+totals.SGST : '21267.0' found at index 2280
+totals.IGST : '0.0' found at index 1166
+totals.Total Invoice Value : '236300.0' found at index 2177
+amount_chargeable_in_words : 'Two Lakh Seventy Eight Thousand Eight Hundred and Thirty Four on' found at index 2531
+bank_details.Bank Name : 'N/A' found at index -1
+bank_details.A/c No : 'N/A' found at index -1
+bank_details.Branch & IFS Code : 'N/A' found at index -1
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994' found at index -1
+buyer_details.address : '#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee' found at index -1
+line_items[0].Unit Price : '1470.0' found at index -1
+line_items[1].Unit Price : '3800.0' found at index -1
+line_items[2].Unit Price : '4750.0' found at index -1
+line_items[3].Unit Price : '9100.0' found at index -1
+line_items[4].Unit Price : '2850.0' found at index -1
+line_items[5].Unit Price : '1470.0' found at index -1
+line_items[6].Unit Price : '5200.0' found at index -1
+bank_details.Bank Name : 'N/A' found at index -1
+bank_details.A/c No : 'N/A' found at index -1
+bank_details.Branch & IFS Code : 'N/A' found at index -1

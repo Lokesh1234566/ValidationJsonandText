@@ -1,0 +1,153 @@
+INFINITI ENGINEERS PRIVATE LIMITED
+12/1 SURVEYOR STREET
+BASAVANAGUDI,
+BANGALORE - 560004
+PH:080-41505286/41481855
+PAN NO:AAACI5897G
+GSTIN/UIN: 29AAACI5897G1Z3
+State Name : Karnataka, Code : 29
+E-Mail : contact@infinitiengineers.co.in
+Buyer
+IRILLIC PVT LTD
+# 76,10TH CROSS,29TH MAIN
+JP NAGAR 1ST PHASE
+BANGALORE-560078
+VALASARAVAKKAM
+CHENNAI - 600087
+GSTIN/UIN        : 29AAECI4323B1ZY
+State Name       : Karnataka, Code : 29
+
+Invoice No.
+1620
+Delivery Note
+
+Supplier’s Ref.
+1620
+Buyer’s Order No.
+
+Despatch Document No.
+
+Despatched through
+
+Dated
+29-Jan-2021
+Mode/Terms of Payment
+
+Other Reference(s)
+
+Dated
+
+Delivery Note Date
+
+Destination
+BANGALORE
+
+Terms of Delivery
+
+Description of Goods             HSN/SAC    Quantity      Rate     per  Disc. %      Amount
+
+RENTAL OF LAPTOP                      84713010    1 NOS.    2,950.00  NOS.              2,950.00
+
+LENOVO THINKPAD T440 CORE I5
+
+  8GB RAM 256GB SSD HDD WITH ADAPTER
+  S/N:PF-04KEVA
+  FROM 23/11/2020 TO 22/12/2020
+RENTAL OF LAPTOP                      84713010    1 NOS.    2,950.00  NOS.              2,950.00
+
+LENOVO THINKPAD T440 CORE I5
+
+8GB RAM 256GB SSD HDD WITH ADAPTER
+S/N:PF-04KWB1
+FROM 26/11/2020 TO 25/12/2020
+
+                                                            5,900.00
+
+
+
+
+                                                     continued ...
+
+
+
+
+
+This is a Computer Generated Invoice
+
+INFINITI ENGINEERS PRIVATE LIMITED
+12/1 SURVEYOR STREET
+BASAVANAGUDI,
+BANGALORE - 560004
+PH:080-41505286/41481855
+PAN NO:AAACI5897G
+GSTIN/UIN: 29AAACI5897G1Z3
+State Name : Karnataka, Code : 29
+E-Mail : contact@infinitiengineers.co.in
+Buyer
+IRILLIC PVT LTD
+# 76,10TH CROSS,29TH MAIN
+JP NAGAR 1ST PHASE
+BANGALORE-560078
+VALASARAVAKKAM
+CHENNAI - 600087
+GSTIN/UIN          : 29AAECI4323B1ZY
+State Name          : Karnataka, Code : 29
+
+Invoice No.
+1620
+Delivery Note
+
+Supplier’s Ref.
+1620
+Buyer’s Order No.
+
+Despatch Document No.
+
+Despatched through
+
+Dated
+29-Jan-2021
+Mode/Terms of Payment
+
+Other Reference(s)
+
+Dated
+
+Delivery Note Date
+
+Destination
+BANGALORE
+
+Terms of Delivery
+
+Description of Goods           HSN/SAC     Quantity       Rate      per  Disc. %      Amount
+
+               SGST @ 9%                            9 %                 531.00
+               CGST @ 9%                            9 %                 531.00
+
+                                              Total             2 NOS.           ī6,962.00
+Amount Chargeable (in words)                                                                                     E. & O.E
+Indian Rupees Six Thousand Nine Hundred Sixty Two Only
+            HSN/SAC                    Taxable         Central Tax            State Tax            Total
+                                              Value     Rate    Amount     Rate    Amount    Tax Amount
+84713010                                       5,900.00    9%       531.00    9%       531.00     1,062.00
+                                       Total     5,900.00               531.00              531.00     1,062.00
+Tax Amount (in words)  :   Indian Rupees One Thousand Sixty Two Only
+
+Company’s Service Tax No.       : AAACI5897GST001
+Company’s PAN                 : AAACI5897G
+Declaration
+We declare that this invoice shows the actual price of
+the goods described and that all particulars are true
+and correct.
+
+Company’s Bank Details
+Bank Name          : BANK OF BARODA (89490200000377)
+A/c No.                 : 89490200000377
+Branch & IFS Code    : BARB0VJGABZ
+                         for INFINITI ENGINEERS PRIVATE LIMITED
+
+                                                   Authorised Signatory
+
+This is a Computer Generated Invoice
+

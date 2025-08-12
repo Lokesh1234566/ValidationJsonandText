@@ -1,0 +1,81 @@
+INFINITI ENGINEERS PRIVATE LIMITED
+12/1 SURVEYOR STREET
+BASAVANAGUDI,
+BANGALORE - 560004
+PH:080-41505286/41481855
+PAN NO:AAACI5897G
+GSTIN/UIN: 29AAACI5897G1Z3
+State Name : Karnataka, Code : 29
+E-Mail : contact@infinitiengineers.co.in
+Buyer
+IRILLIC PVT LTD
+# 76,10TH CROSS,29TH MAIN
+JP NAGAR 1ST PHASE
+BANGALORE-560078
+GSTIN/UIN        : 29AAECI4323B1ZY
+State Name       : Karnataka, Code : 29
+
+Invoice No.
+1291
+Delivery Note
+
+Supplier’s Ref.
+1291
+Buyer’s Order No.
+
+Despatch Document No.
+
+Despatched through
+
+Dated
+19-Dec-2020
+Mode/Terms of Payment
+
+Other Reference(s)
+
+Dated
+
+Delivery Note Date
+
+Destination
+Bangalore
+
+Terms of Delivery
+
+Description of Goods             HSN/SAC    Quantity      Rate     per  Disc. %      Amount
+
+SERVICE CHARGES                      84713010                                          7,500.00
+   For Replacement of Base Panel Mouse Pad
+  Dell Latitude 7440 Laptop
+(Maintance and Repair)
+
+
+                     SGST @ 9%                            9 %                 675.00
+                     CGST @ 9%                            9 %                 675.00
+
+                                              Total                   ī8,850.00
+Amount Chargeable (in words)                                                                                     E. & O.E
+Indian Rupees Eight Thousand Eight Hundred Fifty Only
+            HSN/SAC                    Taxable         Central Tax            State Tax            Total
+                                              Value     Rate    Amount     Rate    Amount    Tax Amount
+84713010                                       7,500.00    9%       675.00    9%       675.00     1,350.00
+                                       Total     7,500.00               675.00              675.00     1,350.00
+Tax Amount (in words)  :   Indian Rupees One Thousand Three Hundred Fifty Only
+
+Company’s Service Tax No.       : AAACI5897GST001
+Company’s PAN                 : AAACI5897G
+Declaration
+We declare that this invoice shows the actual price of
+the goods described and that all particulars are true
+and correct.
+
+Company’s Bank Details
+Bank Name          : BANK OF BARODA (89490200000377)
+A/c No.                 : 89490200000377
+Branch & IFS Code    : BARB0VJGABZ
+                         for INFINITI ENGINEERS PRIVATE LIMITED
+
+                                                   Authorised Signatory
+
+This is a Computer Generated Invoice
+

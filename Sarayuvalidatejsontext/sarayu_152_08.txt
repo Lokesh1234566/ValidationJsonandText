@@ -1,0 +1,83 @@
+supplier_details.name : 'Phase,           Nagar560Opp.078.1stAurobindo' found at index 20
+supplier_details.address : '29AAVCS8826Q1ZWKarnataka,                   Code                                                   : 29#53/A,9thAshram,BangaloreGSTIN/UIN:StateCIN: U74930KA2015PTC080970NameJ.P.Cross,:, E-Mail : finance@sarayus.com, BuyerIrillic Pvt. Ltd.' found at index -1
+supplier_details.gstin_uin : 'StateCIN:' found at index 213
+supplier_details.state_name : 'Karnataka' found at index 90
+supplier_details.state_code : '29' found at index 75
+supplier_details.email : 'finance@sarayus.com' found at index 269
+buyer_details.name : 'Irillic Pvt. Ltd.' found at index 295
+buyer_details.address : ',' found at index 25
+buyer_details.gstin_uin : 'StateCIN:' found at index 213
+buyer_details.state_name : 'Karnataka' found at index 90
+buyer_details.state_code : '29' found at index 75
+buyer_details.place_of_supply : 'Karnataka' found at index 90
+buyer_details.contact_person : 'Navaneeth' found at index 489
+buyer_details.contact : '9900414336' found at index 510
+invoice_details.Supplier's Ref. : 'SBPPL/20-21/0152' found at index 553
+line_items[0].Sl No : '1' found at index 53
+line_items[0].Description of Goods : 'Vinyl Printings' found at index 886
+line_items[0].HSN/SAC : '39199090' found at index 910
+line_items[0].GST Rate : '18' found at index 920
+line_items[0].Quantity : '1 Nos' found at index 927
+line_items[0].Rate : '1' found at index 53
+line_items[0].per : 'Nos' found at index 929
+line_items[0].Amount : '720.00' found at index 942
+line_items[1].Sl No : '1' found at index 53
+line_items[1].Description of Goods : 'Vinyl Printings' found at index 886
+line_items[1].HSN/SAC : '39199090' found at index 910
+line_items[1].GST Rate : '18' found at index 920
+line_items[1].Quantity : '1 Nos' found at index 927
+line_items[1].Rate : '1' found at index 53
+line_items[1].per : 'Nos' found at index 929
+line_items[1].Amount : '720.00' found at index 942
+line_items[2].Sl No : '1' found at index 53
+line_items[2].Description of Goods : 'Vinyl Printings' found at index 886
+line_items[2].HSN/SAC : '39199090' found at index 910
+line_items[2].GST Rate : '18' found at index 920
+line_items[2].Quantity : '1 Nos' found at index 927
+line_items[2].Rate : '1' found at index 53
+line_items[2].per : 'Nos' found at index 929
+line_items[2].Amount : '720.00' found at index 942
+line_items[3].Sl No : '1' found at index 53
+line_items[3].Description of Goods : 'Vinyl Printings' found at index 886
+line_items[3].HSN/SAC : '39199090' found at index 910
+line_items[3].GST Rate : '18' found at index 920
+line_items[3].Quantity : '1 Nos' found at index 927
+line_items[3].Rate : '1' found at index 53
+line_items[3].per : 'Nos' found at index 929
+line_items[3].Amount : '720.00' found at index 942
+tax_summary.CGST Amount : '64.80' found at index 1067
+tax_summary.SGST Amount : '64.80' found at index 1067
+hsn_summary[0].HSN/SAC : '39199090' found at index 910
+hsn_summary[0].Taxable Value : '720.00' found at index 942
+hsn_summary[0].Central Tax Rate : '9%' found at index 1734
+hsn_summary[0].Central Tax Amount : '64.80' found at index 1067
+hsn_summary[0].State Tax Rate : '9%' found at index 1734
+hsn_summary[0].State Tax Amount : '64.80' found at index 1067
+hsn_summary[0].Total Tax Amount : '129.60' found at index 1764
+hsn_summary[1].HSN/SAC : '39199090' found at index 910
+hsn_summary[1].Taxable Value : '720.00' found at index 942
+hsn_summary[1].Central Tax Rate : '9%' found at index 1734
+hsn_summary[1].Central Tax Amount : '64.80' found at index 1067
+hsn_summary[1].State Tax Rate : '9%' found at index 1734
+hsn_summary[1].State Tax Amount : '64.80' found at index 1067
+hsn_summary[1].Total Tax Amount : '129.60' found at index 1764
+hsn_summary[2].HSN/SAC : '39199090' found at index 910
+hsn_summary[2].Taxable Value : '720.00' found at index 942
+hsn_summary[2].Central Tax Rate : '9%' found at index 1734
+hsn_summary[2].Central Tax Amount : '64.80' found at index 1067
+hsn_summary[2].State Tax Rate : '9%' found at index 1734
+hsn_summary[2].State Tax Amount : '64.80' found at index 1067
+hsn_summary[2].Total Tax Amount : '129.60' found at index 1764
+hsn_summary[3].HSN/SAC : '39199090' found at index 910
+hsn_summary[3].Taxable Value : '720.00' found at index 942
+hsn_summary[3].Central Tax Rate : '9%' found at index 1734
+hsn_summary[3].Central Tax Amount : '64.80' found at index 1067
+hsn_summary[3].State Tax Rate : '9%' found at index 1734
+hsn_summary[3].State Tax Amount : '64.80' found at index 1067
+hsn_summary[3].Total Tax Amount : '129.60' found at index 1764
+bank_details.Bank Name : 'IndusInd Bank' found at index 2139
+bank_details.Account Number : '201000082717' found at index 2165
+bank_details.Branch & IFSC : 'Jayanagar Branch & INDB0000178' found at index 2199
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '29AAVCS8826Q1ZWKarnataka,                   Code                                                   : 29#53/A,9thAshram,BangaloreGSTIN/UIN:StateCIN: U74930KA2015PTC080970NameJ.P.Cross,:, E-Mail : finance@sarayus.com, BuyerIrillic Pvt. Ltd.' found at index -1

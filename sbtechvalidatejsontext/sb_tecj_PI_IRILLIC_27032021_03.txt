@@ -1,0 +1,31 @@
+supplier_details.address : '#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994' found at index -1
+supplier_details.gstin_uin : '29AHLPS3265R1Z8' found at index 188
+supplier_details.phone : '91 80 26662994' found at index 162
+buyer_details.name : 'Irillic Pvt Ltd' found at index 387
+buyer_details.address : '#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee' found at index -1
+buyer_details.gstin_uin : '29AAECI4323B1ZY' found at index 709
+invoice_details.Invoice No : 'PI27032021' found at index 336
+invoice_details.Invoice Date : '27.03.2021' found at index 365
+invoice_details.PO No : 'email' found at index 653
+invoice_details.PO Date : '26.03.2021' found at index 682
+invoice_details.Payment Terms : 'Advance Payment' found at index 757
+invoice_details.Delivery : '2 weeks' found at index 845
+tax_summary.CGST 9% : '3739.95' found at index 2099
+tax_summary.SGST 9% : '3739.95' found at index 2099
+tax_summary.IGST 18% : '0.00' found at index 1156
+totals.Total Amount (before tax) : '0' found at index 146
+totals.CGST : '3739.95' found at index 2099
+totals.SGST : '3739.95' found at index 2099
+totals.IGST : '0.0' found at index 1156
+totals.Total Invoice Value : '41555.0' found at index 1995
+amount_chargeable_in_words : 'Fourty Nine Thousand and Thirty Five only' found at index 2350
+bank_details.Bank Name : 'N/A' found at index -1
+bank_details.A/c No : 'N/A' found at index -1
+bank_details.Branch & IFS Code : 'N/A' found at index -1
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994' found at index -1
+buyer_details.address : '#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee' found at index -1
+bank_details.Bank Name : 'N/A' found at index -1
+bank_details.A/c No : 'N/A' found at index -1
+bank_details.Branch & IFS Code : 'N/A' found at index -1

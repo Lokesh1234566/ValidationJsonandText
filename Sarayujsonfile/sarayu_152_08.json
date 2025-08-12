@@ -1,0 +1,123 @@
+{
+    "supplier_details": {
+        "name": "Phase,           Nagar560Opp.078.1stAurobindo",
+        "address": "29AAVCS8826Q1ZWKarnataka,                   Code                                                   : 29#53/A,9thAshram,BangaloreGSTIN/UIN:StateCIN: U74930KA2015PTC080970NameJ.P.Cross,:, E-Mail : finance@sarayus.com, BuyerIrillic Pvt. Ltd.",
+        "gstin_uin": "StateCIN:",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "finance@sarayus.com"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt. Ltd.",
+        "address": ", ",
+        "gstin_uin": "StateCIN:",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "place_of_supply": "Karnataka",
+        "contact_person": "Navaneeth",
+        "contact": "9900414336"
+    },
+    "invoice_details": {
+        "Invoice No.": "",
+        "Delivery Note": "",
+        "Supplier's Ref.": "SBPPL/20-21/0152",
+        "Buyer's Order No.": "",
+        "Despatch Document No.": "",
+        "Despatched through": "",
+        "Dated": "",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description of Goods": "Vinyl Printings",
+            "HSN/SAC": "39199090",
+            "GST Rate": "18",
+            "Quantity": "1 Nos",
+            "Rate": "1",
+            "per": "Nos",
+            "Amount": "720.00"
+        },
+        {
+            "Sl No": "1",
+            "Description of Goods": "Vinyl Printings",
+            "HSN/SAC": "39199090",
+            "GST Rate": "18",
+            "Quantity": "1 Nos",
+            "Rate": "1",
+            "per": "Nos",
+            "Amount": "720.00"
+        },
+        {
+            "Sl No": "1",
+            "Description of Goods": "Vinyl Printings",
+            "HSN/SAC": "39199090",
+            "GST Rate": "18",
+            "Quantity": "1 Nos",
+            "Rate": "1",
+            "per": "Nos",
+            "Amount": "720.00"
+        },
+        {
+            "Sl No": "1",
+            "Description of Goods": "Vinyl Printings",
+            "HSN/SAC": "39199090",
+            "GST Rate": "18",
+            "Quantity": "1 Nos",
+            "Rate": "1",
+            "per": "Nos",
+            "Amount": "720.00"
+        }
+    ],
+    "tax_summary": {
+        "CGST Amount": "64.80",
+        "SGST Amount": "64.80"
+    },
+    "hsn_summary": [
+        {
+            "HSN/SAC": "39199090",
+            "Taxable Value": "720.00",
+            "Central Tax Rate": "9%",
+            "Central Tax Amount": "64.80",
+            "State Tax Rate": "9%",
+            "State Tax Amount": "64.80",
+            "Total Tax Amount": "129.60"
+        },
+        {
+            "HSN/SAC": "39199090",
+            "Taxable Value": "720.00",
+            "Central Tax Rate": "9%",
+            "Central Tax Amount": "64.80",
+            "State Tax Rate": "9%",
+            "State Tax Amount": "64.80",
+            "Total Tax Amount": "129.60"
+        },
+        {
+            "HSN/SAC": "39199090",
+            "Taxable Value": "720.00",
+            "Central Tax Rate": "9%",
+            "Central Tax Amount": "64.80",
+            "State Tax Rate": "9%",
+            "State Tax Amount": "64.80",
+            "Total Tax Amount": "129.60"
+        },
+        {
+            "HSN/SAC": "39199090",
+            "Taxable Value": "720.00",
+            "Central Tax Rate": "9%",
+            "Central Tax Amount": "64.80",
+            "State Tax Rate": "9%",
+            "State Tax Amount": "64.80",
+            "Total Tax Amount": "129.60"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "IndusInd Bank",
+        "Account Number": "201000082717",
+        "Branch & IFSC": "Jayanagar Branch & INDB0000178"
+    }
+}

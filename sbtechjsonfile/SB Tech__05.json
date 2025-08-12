@@ -1,0 +1,61 @@
+{
+    "supplier_details": {
+        "name": "",
+        "address": "#4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,, Bangalore - 560 062 INDIA PH:+91 80 26662994",
+        "gstin_uin": "29AHLPS3265R1Z8",
+        "phone": "91 80 26662994"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "#76, 10th Cross, 29th Main,, JP Nagar 1st Phase, Bangalore - 560078, Consignee",
+        "gstin_uin": "29AAECI4323B1ZY"
+    },
+    "invoice_details": {
+        "Invoice No": "SBT2020-21/004",
+        "Invoice Date": "09.06.2020",
+        "Our DC No": "",
+        "Our DC Date": "",
+        "Your DC No": "",
+        "Your DC Date": "",
+        "PO No": "",
+        "PO Date": "",
+        "Payment Terms": "Advance Payment, No dues",
+        "Delivery": "4-6 weeks"
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description": "Light Source Populated Circuit Board",
+            "HSN/SAC": "85177010",
+            "Quantity": 5,
+            "Unit Price": 3800.0,
+            "Amount": 19000.0
+        },
+        {
+            "Sl No": "2",
+            "Description": "Setup charges for Image control board",
+            "HSN/SAC": "998333",
+            "Quantity": 1,
+            "Unit Price": 5000.0,
+            "Amount": 5000.0
+        }
+    ],
+    "tax_summary": {
+        "CGST 9%": "2160.00",
+        "SGST 9%": "2160.00",
+        "IGST 18%": "0.00"
+    },
+    "totals": {
+        "Total Amount (before tax)": 24000.0,
+        "CGST": 2160.0,
+        "SGST": 2160.0,
+        "IGST": 0.0,
+        "Total Invoice Value": 24000.0
+    },
+    "amount_chargeable_in_words": "Twenty Eight Thousand Three Hundred and Twenty only",
+    "bank_details": {
+        "Bank Name": "N/A",
+        "A/c No": "N/A",
+        "Branch & IFS Code": "N/A"
+    }
+}

@@ -1,0 +1,28 @@
+supplier_details.name : 'Sarayu Branding & Printing Pvt. Ltd. - (16-17) - (From 1-Apr-2017)' found at index 0
+supplier_details.address : '#53/A,9th Cross, Opp. Aurobindo, Ashram, J.P. Nagar 1st Phase,, Bangalore 560 078.' found at index -1
+supplier_details.gstin_uin : '29AAVCS8826Q1ZW' found at index 159
+supplier_details.state_name : 'Karnataka' found at index 188
+supplier_details.state_code : '29' found at index 159
+supplier_details.email : 'finance@sarayus.com' found at index 218
+buyer_details.name : 'Irillic Pvt. Ltd.' found at index 244
+buyer_details.address : 'Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase' found at index -1
+buyer_details.gstin_uin : '29AAVCS8826Q1ZW' found at index 159
+buyer_details.state_name : 'Karnataka' found at index 188
+buyer_details.state_code : '29' found at index 159
+buyer_details.place_of_supply : 'Karnataka' found at index 188
+invoice_details.Invoice No. : 'SBPPL/20-21/0074' found at index 449
+invoice_details.Supplier's Ref. : 'SBPPL/20-21/0074' found at index 449
+invoice_details.Dated : '29-May-2020' found at index 582
+tax_summary.CGST Amount : '7.50' found at index 1208
+tax_summary.SGST Amount : '7.50' found at index 1208
+hsn_summary[0].HSN/SAC : '49111010' found at index 1040
+hsn_summary[0].Taxable Value : '125.00' found at index 1089
+hsn_summary[0].Central Tax Rate : '6%' found at index 1973
+hsn_summary[0].Central Tax Amount : '7.50' found at index 1208
+hsn_summary[0].State Tax Rate : '6%' found at index 1973
+hsn_summary[0].State Tax Amount : '7.50' found at index 1208
+hsn_summary[0].Total Tax Amount : '15.00' found at index 2014
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '#53/A,9th Cross, Opp. Aurobindo, Ashram, J.P. Nagar 1st Phase,, Bangalore 560 078.' found at index -1
+buyer_details.address : 'Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase' found at index -1

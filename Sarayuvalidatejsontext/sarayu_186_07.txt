@@ -1,0 +1,56 @@
+supplier_details.name : 'Sarayu Branding & Printing Pvt. Ltd. - (16-17) - (From 1-Apr-2017)' found at index 0
+supplier_details.address : '#53/A,9th Cross, Opp. Aurobindo, Ashram, J.P. Nagar 1st Phase,, Bangalore 560 078.' found at index -1
+supplier_details.gstin_uin : '29AAVCS8826Q1ZW' found at index 159
+supplier_details.state_name : 'Karnataka' found at index 188
+supplier_details.state_code : '29' found at index 159
+supplier_details.email : 'finance@sarayus.com' found at index 245
+buyer_details.name : 'Irillic Pvt. Ltd.' found at index 271
+buyer_details.address : 'Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase, J.P.' found at index -1
+buyer_details.gstin_uin : '29AAVCS8826Q1ZW' found at index 159
+buyer_details.state_name : 'Karnataka' found at index 188
+buyer_details.state_code : '29' found at index 159
+buyer_details.place_of_supply : 'Karnataka' found at index 188
+buyer_details.contact_person : 'Navaneeth' found at index 492
+buyer_details.contact : '9900414336' found at index 530
+invoice_details.Invoice No. : 'SBPPL/20-21/0186' found at index 554
+invoice_details.Supplier's Ref. : 'SBPPL/20-21/0186' found at index 554
+invoice_details.Dated : '4-Jul-2020' found at index 687
+line_items[0].Sl No : '1' found at index 40
+line_items[0].Description of Goods : 'Book' found at index 993
+line_items[0].HSN/SAC : '48201010' found at index 1023
+line_items[0].GST Rate : '12' found at index 1036
+line_items[0].Quantity : '2 Nos' found at index 1046
+line_items[0].Rate : '2' found at index 61
+line_items[0].per : 'Nos' found at index 1048
+line_items[0].Amount : '175.00' found at index 1067
+line_items[1].Sl No : '2' found at index 61
+line_items[1].Description of Goods : 'Yoyos' found at index 1150
+line_items[1].HSN/SAC : '39230000' found at index 1180
+line_items[1].GST Rate : '18' found at index 567
+line_items[1].Quantity : '15 Nos' found at index 1201
+line_items[1].Rate : '15' found at index 224
+line_items[1].per : 'Nos' found at index 1048
+line_items[1].Amount : '35.00' found at index 1225
+tax_summary.CGST Amount : '68.25' found at index 1448
+tax_summary.SGST Amount : '68.25' found at index 1448
+hsn_summary[0].HSN/SAC : '48201010' found at index 1023
+hsn_summary[0].Taxable Value : '350.00' found at index 1087
+hsn_summary[0].Central Tax Rate : '6%' found at index 2204
+hsn_summary[0].Central Tax Amount : '21.00' found at index 2215
+hsn_summary[0].State Tax Rate : '6%' found at index 2204
+hsn_summary[0].State Tax Amount : '21.00' found at index 2215
+hsn_summary[0].Total Tax Amount : '42.00' found at index 2249
+hsn_summary[1].HSN/SAC : '39230000' found at index 1180
+hsn_summary[1].Taxable Value : '525.00' found at index 1244
+hsn_summary[1].Central Tax Rate : '9%' found at index 2317
+hsn_summary[1].Central Tax Amount : '47.25' found at index 2328
+hsn_summary[1].State Tax Rate : '9%' found at index 2317
+hsn_summary[1].State Tax Amount : '47.25' found at index 2328
+hsn_summary[1].Total Tax Amount : '94.50' found at index 2362
+bank_details.Bank Name : 'IndusInd Bank' found at index 2793
+bank_details.Account Number : '201000082717' found at index 2836
+bank_details.Branch & IFSC : 'Jayanagar Branch & INDB0000178' found at index 2872
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '#53/A,9th Cross, Opp. Aurobindo, Ashram, J.P. Nagar 1st Phase,, Bangalore 560 078.' found at index -1
+buyer_details.address : 'Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase, J.P.' found at index -1

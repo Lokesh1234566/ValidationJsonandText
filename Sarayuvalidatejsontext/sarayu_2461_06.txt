@@ -1,0 +1,30 @@
+supplier_details.name : 'Invoice No.      e-Way Bill No.' found at index 0
+supplier_details.address : 'SBPPL/19-20/2461, Delivery Note, Supplier’s Ref.' found at index -1
+supplier_details.gstin_uin : '29AAVCS8826Q1ZW' found at index 318
+supplier_details.state_name : 'Karnataka' found at index 347
+supplier_details.state_code : '29' found at index 318
+supplier_details.email : 'finance@sarayus.com' found at index 412
+buyer_details.name : 'Irillic Pvt. Ltd.' found at index 439
+buyer_details.address : 'Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase, J.P.' found at index -1
+buyer_details.gstin_uin : '29AAVCS8826Q1ZW' found at index 318
+buyer_details.state_name : 'Karnataka' found at index 347
+buyer_details.state_code : '29' found at index 318
+buyer_details.place_of_supply : 'Karnataka' found at index 347
+buyer_details.contact_person : 'Navaneeth' found at index 664
+buyer_details.contact : '080' found at index 378
+invoice_details.Supplier's Ref. : 'SBPPL/19-20/2461' found at index 32
+invoice_details.Despatched through : 'Sarayu Branding & Printing Pvt. Ltd. - (16-17) - (From 1-Apr-2017)' found at index 159
+invoice_details.Dated : '13-Mar-2020' found at index 721
+tax_summary.CGST Amount : '264.00' found at index 1414
+tax_summary.SGST Amount : '264.00' found at index 1414
+hsn_summary[0].HSN/SAC : '49110000' found at index 1191
+hsn_summary[0].Taxable Value : '4,400.00' found at index 1244
+hsn_summary[0].Central Tax Rate : '6%' found at index 2124
+hsn_summary[0].Central Tax Amount : '264.00' found at index 1414
+hsn_summary[0].State Tax Rate : '6%' found at index 2124
+hsn_summary[0].State Tax Amount : '264.00' found at index 1414
+hsn_summary[0].Total Tax Amount : '528.00' found at index 2168
+
+--- NOT FOUND VALUES ---
+supplier_details.address : 'SBPPL/19-20/2461, Delivery Note, Supplier’s Ref.' found at index -1
+buyer_details.address : 'Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase, J.P.' found at index -1

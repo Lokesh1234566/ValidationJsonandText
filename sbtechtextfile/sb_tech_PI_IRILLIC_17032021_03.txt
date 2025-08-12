@@ -1,0 +1,57 @@
+                 #4,9th Main, 8th Cross,J.C.Industrial Estate, Kanakapura Main Road, Yelachenahalli,
+                               Bangalore - 560 062 INDIA PH:+91 80 26662994
+
+
+
+GSTIN:  29AHLPS3265R1Z8
+
+                   PROFORMA INVOICE
+
+For S.B.TECHNOLOGIES
+
+To                                                        Invoice No.   PI17032021      Date         17.03.2021
+           Irillic Pvt Ltd
+        #76, 10th Cross, 29th Main,            Our DC No.                  Date
+      JP Nagar 1st Phase
+       Bangalore - 560078                     Your DC No.                 Date
+
+                                                   Your P.O. No. PO-IA20-00019   Date         16.03.2021
+
+Consignee GST: 29AAECI4323B1ZY                  Payment Terms: Advance Payment
+                                                              Delivery: 4-6 weeks
+  Sl. No.                    Description                HSN/ SAC       Quantity      Unit Price    Amount
+                                                Code            in Nos.           in Rs.         in Rs.
+
+    1     Front Panel Interface                         85177010         5          1470         7350.00
+    2    IGU Interface                               85177010         5          3800        19000.00
+    3    Power Management                         85177010         5          4750        23750.00
+    4    Imaging Controller                           85177010        10          9100        91000.00
+    5     Light Source Board                          85177010        10          2850        28500.00
+    6    Panel Interface Board IGU                    85177010        10          1470        14700.00
+    7     Light Source Driver Board                     85177010        10          5200        52000.00
+
+        Populated Printed Circuit Board
+
+
+
+
+
+         Bank NEFT Details:
+           Account Name: S.B.TECHNOLOGIES
+           Account No. 04212000002850
+           Account type: CURRENT
+           Bank: KOTAK MAHINDRA BANK
+           Branch: Jayanagar 4th Block, Bangalore
+           IFSC: KKBK0000421
+                                               IN WORDS                    TOTAL        236300.00
+CGST 9%                                                                                      21267.00
+SGST 9%                                                                                      21267.00
+IGST 18%                                                                                                 0.00
+TOTAL INVOICE VALUE    Rupees Two Lakh Seventy Eight Thousand Eight Hundred and Thirty Four on 278834.00
+
+Certified that the particulars given above are true and correct and the amount indicated represents the price actually charged and that there
+is no flow of additional consideration directly or indirectly from the buyer
+Interest at 21% p.a. will be charged  if the payment  is not made within the stipulated time.
+Any discrepancy in the invoice must be intimated immediately.
+Goods Acceptance/Rejection report must be sent within 7 days, otherwise the same will be treated as Accepted.
+

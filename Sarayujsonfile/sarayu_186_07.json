@@ -1,0 +1,85 @@
+{
+    "supplier_details": {
+        "name": "Sarayu Branding & Printing Pvt. Ltd. - (16-17) - (From 1-Apr-2017)",
+        "address": "#53/A,9th Cross, Opp. Aurobindo, Ashram, J.P. Nagar 1st Phase,, Bangalore 560 078.",
+        "gstin_uin": "29AAVCS8826Q1ZW",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "finance@sarayus.com"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt. Ltd.",
+        "address": "Irillic Pvt. Ltd., #76, 10th Cross 29th Main, 1st Phase, J.P.",
+        "gstin_uin": "29AAVCS8826Q1ZW",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "place_of_supply": "Karnataka",
+        "contact_person": "Navaneeth",
+        "contact": "9900414336"
+    },
+    "invoice_details": {
+        "Invoice No.": "SBPPL/20-21/0186",
+        "Delivery Note": "",
+        "Supplier's Ref.": "SBPPL/20-21/0186",
+        "Buyer's Order No.": "",
+        "Despatch Document No.": "",
+        "Despatched through": "",
+        "Dated": "4-Jul-2020",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description of Goods": "Book",
+            "HSN/SAC": "48201010",
+            "GST Rate": "12",
+            "Quantity": "2 Nos",
+            "Rate": "2",
+            "per": "Nos",
+            "Amount": "175.00"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Yoyos",
+            "HSN/SAC": "39230000",
+            "GST Rate": "18",
+            "Quantity": "15 Nos",
+            "Rate": "15",
+            "per": "Nos",
+            "Amount": "35.00"
+        }
+    ],
+    "tax_summary": {
+        "CGST Amount": "68.25",
+        "SGST Amount": "68.25"
+    },
+    "hsn_summary": [
+        {
+            "HSN/SAC": "48201010",
+            "Taxable Value": "350.00",
+            "Central Tax Rate": "6%",
+            "Central Tax Amount": "21.00",
+            "State Tax Rate": "6%",
+            "State Tax Amount": "21.00",
+            "Total Tax Amount": "42.00"
+        },
+        {
+            "HSN/SAC": "39230000",
+            "Taxable Value": "525.00",
+            "Central Tax Rate": "9%",
+            "Central Tax Amount": "47.25",
+            "State Tax Rate": "9%",
+            "State Tax Amount": "47.25",
+            "Total Tax Amount": "94.50"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "IndusInd Bank",
+        "Account Number": "201000082717",
+        "Branch & IFSC": "Jayanagar Branch & INDB0000178"
+    }
+}

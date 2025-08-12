@@ -1,0 +1,45 @@
+{
+    "supplier_details": {
+        "name": "Invoice",
+        "address": "Sarayu Branding & Printing Pvt. Ltd., #53/A,9th Cross, J.P. Nagar, 1st Phase,Bangalore 560 078.",
+        "gstin_uin": "29AAVCS8826Q1ZW",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "finance@sarayus.com"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt. Ltd.",
+        "address": ", ",
+        "gstin_uin": "29AAVCS8826Q1ZW",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "place_of_supply": "",
+        "contact_person": "",
+        "contact": ""
+    },
+    "invoice_details": {
+        "Invoice No.": "SBPPL/20-21/0707",
+        "Delivery Note": "Reference No. & Date.",
+        "Supplier's Ref.": "",
+        "Buyer's Order No.": "Dispatch Doc No.",
+        "Despatch Document No.": "",
+        "Despatched through": "",
+        "Dated": "10-Feb-21",
+        "Mode/Terms of Payment": "Other References",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [],
+    "tax_summary": {
+        "CGST Amount": "67.50",
+        "SGST Amount": "67.50"
+    },
+    "hsn_summary": [],
+    "bank_details": {
+        "Bank Name": "",
+        "Account Number": "",
+        "Branch & IFSC": ""
+    }
+}

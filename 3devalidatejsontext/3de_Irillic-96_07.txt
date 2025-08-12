@@ -1,0 +1,76 @@
+supplier_details.name : '3DE TECHNOLOGY PROTOTYPE SOLUTIONS Pvt Ltd' found at index 19
+supplier_details.address : 'No.5,SF No.16/2A1 SIDCO Industrial Estate,, Near Ashok Leyland Unit-I, Zuzuvadi Sipcot-1, Hosur-635126., GSTIN/UIN: 33AABCZ2737P1ZW' found at index -1
+supplier_details.gstin_uin : '33AABCZ2737P1ZW' found at index 255
+supplier_details.state_name : 'Tamil Nadu' found at index 302
+supplier_details.state_code : '33' found at index 255
+supplier_details.email : 'accounts@3dtechproto.com' found at index 350
+buyer_details.name : 'Irillic Pvt Ltd' found at index 382
+buyer_details.address : '#76,29th Main 10th Cross, 1st Phase ,J.P Nagar, Bangalore' found at index -1
+buyer_details.gstin_uin : '33AABCZ2737P1ZW' found at index 255
+buyer_details.state_name : 'Tamil Nadu' found at index 302
+buyer_details.state_code : '33' found at index 255
+invoice_details.Buyer’s Order No : 'PO-IA20-30007' found at index 674
+invoice_details.Dated : '28-Jul-2020' found at index 737
+invoice_details.Other Reference(s) : '3DTPS/VC000317(R)2020' found at index 791
+line_items[0].Sl No : '1' found at index 92
+line_items[0].Description of Goods : 'Supply of Prototype Parts Master Cost' found at index -1
+line_items[0].HSN/SAC : '39269099' found at index 1226
+line_items[0].Quantity : '1' found at index 92
+line_items[0].Rate : '4,715.00' found at index 1262
+line_items[0].per : 'Nos' found at index 1252
+line_items[0].Amount : '4,715.00' found at index 1262
+line_items[0].GST Rate : '18%' found at index 2813
+line_items[1].Sl No : '2' found at index 95
+line_items[1].Description of Goods : 'Supply of Prototype Parts Silicon Rubber Cost' found at index -1
+line_items[1].HSN/SAC : '39269099' found at index 1226
+line_items[1].Quantity : '1' found at index 92
+line_items[1].Rate : '41,880.00' found at index 1391
+line_items[1].per : 'Nos' found at index 1252
+line_items[1].Amount : '41,880.00' found at index 1391
+line_items[1].GST Rate : '18%' found at index 2813
+line_items[2].Sl No : '3' found at index 19
+line_items[2].Description of Goods : 'Supply of Prototype Parts Flexible Part Back' found at index -1
+line_items[2].HSN/SAC : '39269099' found at index 1226
+line_items[2].Quantity : '15' found at index 1265
+line_items[2].Rate : '180.00' found at index 1533
+line_items[2].per : 'Nos' found at index 1252
+line_items[2].Amount : '2,700.00' found at index 1554
+line_items[2].GST Rate : '18%' found at index 2813
+line_items[3].Sl No : '4' found at index 486
+line_items[3].Description of Goods : 'Supply of Prototype Parts Flexible Part Front' found at index -1
+line_items[3].HSN/SAC : '39269099' found at index 1226
+line_items[3].Quantity : '15' found at index 1265
+line_items[3].Rate : '160.00' found at index 1671
+line_items[3].per : 'Nos' found at index 1252
+line_items[3].Amount : '2,400.00' found at index 1692
+line_items[3].GST Rate : '18%' found at index 2813
+line_items[4].Sl No : '5' found at index 84
+line_items[4].Description of Goods : 'Supply of Prototype Parts Tight Ring' found at index -1
+line_items[4].HSN/SAC : '39269099' found at index 1226
+line_items[4].Quantity : '15' found at index 1265
+line_items[4].Rate : '180.00' found at index 1533
+line_items[4].per : 'Nos' found at index 1252
+line_items[4].Amount : '2,700.00' found at index 1554
+line_items[4].GST Rate : '18%' found at index 2813
+tax_summary.IGST Rate (%) : '18' found at index 1241
+tax_summary.IGST Amount : '9,791.10' found at index 2071
+totals.Total Quantity : '47' found at index 2282
+totals.Total Amount : '64,186.00' found at index 2299
+amount_chargeable_in_words : 'INR Sixty Four Thousand One Hundred Eighty Six Only' found at index 2440
+hsn_summary[0].HSN/SAC : '39269099' found at index 1226
+hsn_summary[0].Taxable Value : '54,395.00' found at index 1960
+hsn_summary[0].Integrated Tax Rate : '18%' found at index 2813
+hsn_summary[0].Integrated Tax Amount : '9,791.10' found at index 2071
+hsn_summary[0].Total Tax Amount : '9,791.10' found at index 2071
+bank_details.Bank Name : 'Indian Bank' found at index 3227
+bank_details.Account Number : '6695606641' found at index 3336
+bank_details.Branch_IFSC : 'Zuzuvadi, Hosur & IDIB000Z001' found at index 3429
+
+--- NOT FOUND VALUES ---
+supplier_details.address : 'No.5,SF No.16/2A1 SIDCO Industrial Estate,, Near Ashok Leyland Unit-I, Zuzuvadi Sipcot-1, Hosur-635126., GSTIN/UIN: 33AABCZ2737P1ZW' found at index -1
+buyer_details.address : '#76,29th Main 10th Cross, 1st Phase ,J.P Nagar, Bangalore' found at index -1
+line_items[0].Description of Goods : 'Supply of Prototype Parts Master Cost' found at index -1
+line_items[1].Description of Goods : 'Supply of Prototype Parts Silicon Rubber Cost' found at index -1
+line_items[2].Description of Goods : 'Supply of Prototype Parts Flexible Part Back' found at index -1
+line_items[3].Description of Goods : 'Supply of Prototype Parts Flexible Part Front' found at index -1
+line_items[4].Description of Goods : 'Supply of Prototype Parts Tight Ring' found at index -1

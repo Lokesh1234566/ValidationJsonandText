@@ -1,0 +1,57 @@
+{
+    "supplier_details": {
+        "name": "Chartered Accountants",
+        "address": "No.37/E,New No.12 &13,, First Floor,South End Road,, Bengaluru-560004, Tel-080-41692944/ 41692945, Www.Vaco-Ca.Com",
+        "gstin_uin": "29AAGFV5352E1Z0",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "Vasanth@vaco-ca.com"
+    },
+    "buyer_details": {
+        "name": "IRILLIC PRIVATE LIMITED",
+        "address": "No 76, 10th Cross, 29th Main, 1st Phase, J.P., Nagar, Bengaluru -560078, GSTIN/UIN          : 29AAECI4323B1ZY",
+        "gstin_uin": "29AAGFV5352E1Z0",
+        "state_name": "Karnataka",
+        "state_code": "29"
+    },
+    "invoice_details": {
+        "Invoice No": "1093/20-21",
+        "Delivery Note": "",
+        "Supplier's Ref": "1093/20-21",
+        "Buyer's Order No": "",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Dated": "3-Feb-2021",
+        "Mode/Terms of Payment": "30 Days",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Particulars": "Statutory Audit Fee For the Financial Year 2019-20",
+            "HSN/SAC": "998221",
+            "Rate": "",
+            "per": "",
+            "Amount": "60,000.00"
+        }
+    ],
+    "tax_summary": {
+        "CGST Rate (%)": "9",
+        "CGST Amount": "5,400.00",
+        "SGST Rate (%)": "9",
+        "SGST Amount": "5,400.00"
+    },
+    "totals": {
+        "Total Amount": "70,800.00"
+    },
+    "amount_chargeable_in_words": "Indian Rupees Seventy Thousand Eight Hundred",
+    "hsn_summary": [],
+    "bank_details": {
+        "Bank Name": "State Bank of India",
+        "Account Number": "30258424387",
+        "Branch_IFSC": "Basavanagudi & SBIN0003357"
+    }
+}
