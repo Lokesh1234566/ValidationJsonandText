@@ -1,0 +1,57 @@
+supplier_details.name : 'INFINITI ENGINEERS PRIVATE LIMITED' found at index 0
+supplier_details.address : '12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004' found at index -1
+supplier_details.phone : '080-41505286/41481855' found at index 92
+supplier_details.pan : 'AAACI5897G' found at index 121
+supplier_details.gstin_uin : '29AAACI5897G1Z3' found at index 143
+supplier_details.state_name : 'Karnataka' found at index 172
+supplier_details.state_code : '29' found at index 143
+supplier_details.email : 'contact@infinitiengineers.co.in' found at index 202
+buyer_details.name : 'IRILLIC PVT LTD' found at index 240
+buyer_details.address : '# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078' found at index -1
+buyer_details.gstin_uin : '29AAACI5897G1Z3' found at index 143
+buyer_details.state_name : 'Karnataka' found at index 172
+buyer_details.state_code : '29' found at index 143
+invoice_details.Invoice No : '279' found at index 406
+invoice_details.Supplier’s Ref : '279' found at index 406
+invoice_details.Destination : 'BANGALORE' found at index 70
+line_items[0].Description of Goods : 'HP ELITE BOOK E7440 LAPTOP CORE I5  8GB RAM 500GB HDD WITH ADAPTER Bag S/N:9QRHT12' found at index -1
+line_items[0].HSN/SAC : '84713010' found at index 768
+line_items[0].Quantity : '1' found at index 35
+line_items[0].Rate : '2,950.00' found at index 790
+line_items[0].per : 'NOS' found at index 782
+line_items[0].Amount : '2,950.00' found at index 790
+line_items[1].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KEVA' found at index -1
+line_items[1].HSN/SAC : '84713010' found at index 768
+line_items[1].Quantity : '1' found at index 35
+line_items[1].Rate : '2,950.00' found at index 790
+line_items[1].per : 'NOS' found at index 782
+line_items[1].Amount : '2,950.00' found at index 790
+line_items[2].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KWB1' found at index -1
+line_items[2].HSN/SAC : '84713010' found at index 768
+line_items[2].Quantity : '1' found at index 35
+line_items[2].Rate : '2,950.00' found at index 790
+line_items[2].per : 'NOS' found at index 782
+line_items[2].Amount : '2,950.00' found at index 790
+tax_summary.SGST Rate (%) : '9' found at index 128
+tax_summary.SGST Amount : '796.50' found at index 2339
+tax_summary.CGST Rate (%) : '9' found at index 128
+tax_summary.CGST Amount : '796.50' found at index 2339
+totals.Total Quantity : '3' found at index 157
+totals.Total Amount : '10,443.00' found at index 2492
+amount_chargeable_in_words : 'Indian Rupees Ten Thousand Four Hundred Forty Three Only' found at index 2624
+hsn_summary[0].HSN/SAC : '84713010' found at index 768
+hsn_summary[0].Taxable Value : '8,850.00' found at index 2273
+hsn_summary[0].Central Tax Rate : '9%' found at index 2289
+hsn_summary[0].Central Tax Amount : '796.50' found at index 2339
+hsn_summary[0].State Tax Rate : '9%' found at index 2289
+hsn_summary[0].State Tax Amount : '796.50' found at index 2339
+hsn_summary[0].Total Tax Amount : '1,593.00' found at index 2988
+bank_details.Bank Name : 'VIJAYA BANK - 126100300001836' found at index 3467
+bank_details.Branch_IFSC : 'Gandhibazar & VIJB0001261' found at index 3562
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004' found at index -1
+buyer_details.address : '# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078' found at index -1
+line_items[0].Description of Goods : 'HP ELITE BOOK E7440 LAPTOP CORE I5  8GB RAM 500GB HDD WITH ADAPTER Bag S/N:9QRHT12' found at index -1
+line_items[1].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KEVA' found at index -1
+line_items[2].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KWB1' found at index -1

@@ -6,7 +6,7 @@ supplier_details.state : 'KARNATAKA' found at index 260
 supplier_details.month : 'September 2020' found at index 313
 buyer_details.name : 'Irillic Pvt Ltd' found at index 167
 buyer_details.address : 'NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078' found at index 183
-buyer_details.gstin : ':' found at index 165
+buyer_details.gstin : '29AAECI4323B1ZY' found at index 1321
 invoice_details.invoice_number : '406' found at index 1286
 invoice_details.date : '05/10/2020' found at index 1298
 invoice_details.period : '01/09/20 To 30/09/20' found at index 1346

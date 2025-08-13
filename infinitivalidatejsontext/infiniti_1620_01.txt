@@ -1,0 +1,51 @@
+supplier_details.name : 'INFINITI ENGINEERS PRIVATE LIMITED' found at index 0
+supplier_details.address : '12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004' found at index -1
+supplier_details.phone : '080-41505286/41481855' found at index 92
+supplier_details.pan : 'AAACI5897G' found at index 121
+supplier_details.gstin_uin : '29AAACI5897G1Z3' found at index 143
+supplier_details.state_name : 'Karnataka' found at index 172
+supplier_details.state_code : '29' found at index 143
+supplier_details.email : 'contact@infinitiengineers.co.in' found at index 202
+buyer_details.name : 'IRILLIC PVT LTD' found at index 240
+buyer_details.address : '# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078' found at index -1
+buyer_details.gstin_uin : '29AAACI5897G1Z3' found at index 143
+buyer_details.state_name : 'Karnataka' found at index 172
+buyer_details.state_code : '29' found at index 143
+invoice_details.Invoice No : '1620' found at index 438
+invoice_details.Supplier’s Ref : '1620' found at index 438
+invoice_details.Destination : 'BANGALORE' found at index 70
+line_items[0].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KEVA' found at index -1
+line_items[0].HSN/SAC : '84713010' found at index 802
+line_items[0].Quantity : '1' found at index 35
+line_items[0].Rate : '2,950.00' found at index 824
+line_items[0].per : 'NOS' found at index 816
+line_items[0].Amount : '2,950.00' found at index 824
+line_items[1].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KWB1' found at index -1
+line_items[1].HSN/SAC : '84713010' found at index 802
+line_items[1].Quantity : '1' found at index 35
+line_items[1].Rate : '2,950.00' found at index 824
+line_items[1].per : 'NOS' found at index 816
+line_items[1].Amount : '2,950.00' found at index 824
+tax_summary.SGST Rate (%) : '9' found at index 128
+tax_summary.SGST Amount : '531.00' found at index 2210
+tax_summary.CGST Rate (%) : '9' found at index 128
+tax_summary.CGST Amount : '531.00' found at index 2210
+totals.Total Quantity : '2' found at index 36
+totals.Total Amount : '6,962.00' found at index 2379
+amount_chargeable_in_words : 'Indian Rupees Six Thousand Nine Hundred Sixty Two Only' found at index 2510
+hsn_summary[0].HSN/SAC : '84713010' found at index 802
+hsn_summary[0].Taxable Value : '5,900.00' found at index 1245
+hsn_summary[0].Central Tax Rate : '9%' found at index 2160
+hsn_summary[0].Central Tax Amount : '531.00' found at index 2210
+hsn_summary[0].State Tax Rate : '9%' found at index 2160
+hsn_summary[0].State Tax Amount : '531.00' found at index 2210
+hsn_summary[0].Total Tax Amount : '1,062.00' found at index 2872
+bank_details.Bank Name : 'BANK OF BARODA' found at index 3335
+bank_details.Account Number : '89490200000377' found at index 3351
+bank_details.Branch_IFSC : 'BARB0VJGABZ' found at index 3431
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '12/1 SURVEYOR STREET, BASAVANAGUDI,, BANGALORE - 560004' found at index -1
+buyer_details.address : '# 76,10TH CROSS,29TH MAIN, JP NAGAR 1ST PHASE, BANGALORE-560078' found at index -1
+line_items[0].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KEVA' found at index -1
+line_items[1].Description of Goods : 'LENOVO THINKPAD T440 CORE I5  8GB RAM 256GB SSD HDD WITH ADAPTER S/N:PF-04KWB1' found at index -1

@@ -1,7 +1,7 @@
 supplier_details.name : 'N.U. Enterprises' found at index 63
 supplier_details.address : '# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078' found at index 80
 supplier_details.pan : 'AAXPF0165A' found at index 1217
-supplier_details.gstin : '-' found at index 152
+supplier_details.gstin : 'NO:-' found at index 257
 supplier_details.state : 'KARNATAKA' found at index 286
 supplier_details.month : 'August 2020' found at index 341
 buyer_details.name : 'Irillic Pvt Ltd' found at index 167

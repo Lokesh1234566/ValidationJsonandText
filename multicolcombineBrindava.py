@@ -3,6 +3,7 @@ import os
 import re
 import json
 
+
 # Fallback in case multicolumn is missing
 try:
     from multicolumn import column_boxes
@@ -13,7 +14,7 @@ except ImportError:
 
 
 # Directories
-input_dir = "E:\\Working_Docling_Project\\testingdocument\\allinvoices"
+input_dir = "./allinvoices"
 output_dir_txt = "Brindavantxtfile"
 output_dir_json = "Brindavanjsonfile"
 validation_output_dir = "Brindavanvalidatejsontext"
