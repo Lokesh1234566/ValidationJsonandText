@@ -1,0 +1,45 @@
+                         TAX INVOICE
+                          N.U. Enterprises
+# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078
+
+NAME: Irillic Pvt Ltd
+NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078
+GSTIN NO:- 29AAECI4323B1ZY
+STATE - KARNATAKA                                     MONTH - January 2021
+
+  Date      Awb No.       Destination    Dox   Non- Dox   Quantity       Amount
+04.01.2021     63270516072       Hyderabad        Nil       7kg         1               266.00
+06.01.2021     63270516341       Hyderabad        Nil       56kg         4              2128.00
+12.01.2021       7027338          Kolkata          Nil       6kg         1               540.00
+15.01.2021      417649667         Thane       250gms      Nil         1                80.00
+15.01.2021     63270539371        Kolkata          Nil       20kg         1              1800.00
+19.01.2021     63270539183       Chennai         Nil       18kg         1               684.00
+21.01.2021     63276414106       Bangalore     250gms      Nil         1                15.00
+21.01.2021     63276414095       Hyderabad        Nil       1kg         1                38.00
+21.01.2021      417647708       Mumbai         Nil       2kg         1               180.00
+28.01.2021     63276414272     Secunderabad    250gms      Nil         1                30.00
+
+Total Consignment : 10                        TOTAL AMOUNT                    5761.00
+                                          FUEL CHARGERS 15%                864.15
+SAC CODE: 996812                           TAXABLE AMOUNT                  6625.15
+                                       CGST AMOUNT 9%                   596.26
+                                        SGST AMOUNT 9%                    596.26
+
+                                               IGST AMOUNT 18%                                    -
+                                     ROUND OFF                             0.32
+INVOICE AMOUNT                                                        7818.00
+Amount In words :- Seven Thousand Eight Hundred and Eighteen Rupees Only.
+
+
+*This is a computer generated receipt do not require seal and signature.
+
+     PAN :AAXPF0165A                     GSTIN No : 29AAXPF0165A1ZT
+BILL TO PARTY                 INVOICE NUMBER : 471           DATE : 02/02/2021
+
+     PAN :AAXPF0165A                     GSTIN No : 29AAXPF0165A1ZT
+BILL TO PARTY                 INVOICE NUMBER : 471           DATE : 0
+
+Period :01/01/21 To 31/01/21
+
+Total Consignment : 10
+

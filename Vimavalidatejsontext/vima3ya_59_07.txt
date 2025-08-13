@@ -1,0 +1,215 @@
+supplier_details.name : 'VIMA3YA' found at index 0
+supplier_details.address : '295/14 Balagaranahalli,, Hosur Main Road,' found at index -1
+supplier_details.msme_reg_no : 'KR02B0009529' found at index 78
+supplier_details.gstin_uin : '29AZCPN3529J1Z2' found at index 102
+supplier_details.state_name : 'Karnataka' found at index 131
+supplier_details.state_code : '29' found at index 8
+supplier_details.email : 'info@vima3ya.com' found at index 161
+buyer_details.gstin_uin : '29AAECI4323B1ZY' found at index 284
+buyer_details.pan : 'AAECI4323B' found at index 286
+buyer_details.state_name : 'Karnataka' found at index 131
+buyer_details.state_code : '29' found at index 8
+buyer_details.place_of_supply : 'Karnataka' found at index 131
+invoice_details.Despatched through : 'By Road' found at index 585
+invoice_details.Mode/Terms of Payment : 'Immediate' found at index 658
+invoice_details.Dated : '26-Jun-2020' found at index 694
+invoice_details.Destination : 'Bangalore' found at index 49
+line_items[0].Sl No : '1' found at index 12
+line_items[0].Description of Goods : 'Blower Back Cover' found at index 1045
+line_items[0].HSN/SAC : '39269099' found at index 1087
+line_items[0].Quantity : '1.00' found at index 1111
+line_items[0].Qty Unit : 'Nos' found at index 1116
+line_items[0].Rate : '55,710.00' found at index 1123
+line_items[0].Rate Unit : 'Nos' found at index 1116
+line_items[0].Amount : '55,710.00' found at index 1123
+line_items[1].Sl No : '2' found at index 8
+line_items[1].Description of Goods : 'Knob' found at index 1156
+line_items[1].HSN/SAC : '39269099' found at index 1087
+line_items[1].Quantity : '1.00' found at index 1111
+line_items[1].Qty Unit : 'Nos' found at index 1116
+line_items[1].Rate : '4,635.00' found at index 1235
+line_items[1].Rate Unit : 'Nos' found at index 1116
+line_items[1].Amount : '4,635.00' found at index 1235
+line_items[2].Sl No : '3' found at index 4
+line_items[2].Description of Goods : 'Limit Switch Clamp Body' found at index 1266
+line_items[2].HSN/SAC : '39269099' found at index 1087
+line_items[2].Quantity : '1.00' found at index 1111
+line_items[2].Qty Unit : 'Nos' found at index 1116
+line_items[2].Rate : '4,645.00' found at index 1345
+line_items[2].Rate Unit : 'Nos' found at index 1116
+line_items[2].Amount : '4,645.00' found at index 1345
+line_items[3].Sl No : '4' found at index 13
+line_items[3].Description of Goods : 'Alr Delivery Tube Connector' found at index 1376
+line_items[3].HSN/SAC : '39269099' found at index 1087
+line_items[3].Quantity : '1.00' found at index 1111
+line_items[3].Qty Unit : 'Nos' found at index 1116
+line_items[3].Rate : '16,920.00' found at index 1455
+line_items[3].Rate Unit : 'Nos' found at index 1116
+line_items[3].Amount : '16,920.00' found at index 1455
+line_items[4].Sl No : '5' found at index 10
+line_items[4].Description of Goods : 'Seal Bush' found at index 1488
+line_items[4].HSN/SAC : '39269099' found at index 1087
+line_items[4].Quantity : '1.00' found at index 1111
+line_items[4].Qty Unit : 'Nos' found at index 1116
+line_items[4].Rate : '13,600.00' found at index 1566
+line_items[4].Rate Unit : 'Nos' found at index 1116
+line_items[4].Amount : '13,600.00' found at index 1566
+line_items[5].Sl No : '1' found at index 12
+line_items[5].Description of Goods : 'Blower Back Cover' found at index 1045
+line_items[5].HSN/SAC : '39269099' found at index 1087
+line_items[5].Quantity : '1.00' found at index 1111
+line_items[5].Qty Unit : 'Nos' found at index 1116
+line_items[5].Rate : '55,710.00' found at index 1123
+line_items[5].Rate Unit : 'Nos' found at index 1116
+line_items[5].Amount : '55,710.00' found at index 1123
+line_items[6].Sl No : '2' found at index 8
+line_items[6].Description of Goods : 'Knob' found at index 1156
+line_items[6].HSN/SAC : '39269099' found at index 1087
+line_items[6].Quantity : '1.00' found at index 1111
+line_items[6].Qty Unit : 'Nos' found at index 1116
+line_items[6].Rate : '4,635.00' found at index 1235
+line_items[6].Rate Unit : 'Nos' found at index 1116
+line_items[6].Amount : '4,635.00' found at index 1235
+line_items[7].Sl No : '3' found at index 4
+line_items[7].Description of Goods : 'Limit Switch Clamp Body' found at index 1266
+line_items[7].HSN/SAC : '39269099' found at index 1087
+line_items[7].Quantity : '1.00' found at index 1111
+line_items[7].Qty Unit : 'Nos' found at index 1116
+line_items[7].Rate : '4,645.00' found at index 1345
+line_items[7].Rate Unit : 'Nos' found at index 1116
+line_items[7].Amount : '4,645.00' found at index 1345
+line_items[8].Sl No : '4' found at index 13
+line_items[8].Description of Goods : 'Alr Delivery Tube Connector' found at index 1376
+line_items[8].HSN/SAC : '39269099' found at index 1087
+line_items[8].Quantity : '1.00' found at index 1111
+line_items[8].Qty Unit : 'Nos' found at index 1116
+line_items[8].Rate : '16,920.00' found at index 1455
+line_items[8].Rate Unit : 'Nos' found at index 1116
+line_items[8].Amount : '16,920.00' found at index 1455
+line_items[9].Sl No : '5' found at index 10
+line_items[9].Description of Goods : 'Seal Bush' found at index 1488
+line_items[9].HSN/SAC : '39269099' found at index 1087
+line_items[9].Quantity : '1.00' found at index 1111
+line_items[9].Qty Unit : 'Nos' found at index 1116
+line_items[9].Rate : '13,600.00' found at index 1566
+line_items[9].Rate Unit : 'Nos' found at index 1116
+line_items[9].Amount : '13,600.00' found at index 1566
+line_items[10].Sl No : '1' found at index 12
+line_items[10].Description of Goods : 'Blower Back Cover' found at index 1045
+line_items[10].HSN/SAC : '39269099' found at index 1087
+line_items[10].Quantity : '1.00' found at index 1111
+line_items[10].Qty Unit : 'Nos' found at index 1116
+line_items[10].Rate : '55,710.00' found at index 1123
+line_items[10].Rate Unit : 'Nos' found at index 1116
+line_items[10].Amount : '55,710.00' found at index 1123
+line_items[11].Sl No : '2' found at index 8
+line_items[11].Description of Goods : 'Knob' found at index 1156
+line_items[11].HSN/SAC : '39269099' found at index 1087
+line_items[11].Quantity : '1.00' found at index 1111
+line_items[11].Qty Unit : 'Nos' found at index 1116
+line_items[11].Rate : '4,635.00' found at index 1235
+line_items[11].Rate Unit : 'Nos' found at index 1116
+line_items[11].Amount : '4,635.00' found at index 1235
+line_items[12].Sl No : '3' found at index 4
+line_items[12].Description of Goods : 'Limit Switch Clamp Body' found at index 1266
+line_items[12].HSN/SAC : '39269099' found at index 1087
+line_items[12].Quantity : '1.00' found at index 1111
+line_items[12].Qty Unit : 'Nos' found at index 1116
+line_items[12].Rate : '4,645.00' found at index 1345
+line_items[12].Rate Unit : 'Nos' found at index 1116
+line_items[12].Amount : '4,645.00' found at index 1345
+line_items[13].Sl No : '4' found at index 13
+line_items[13].Description of Goods : 'Alr Delivery Tube Connector' found at index 1376
+line_items[13].HSN/SAC : '39269099' found at index 1087
+line_items[13].Quantity : '1.00' found at index 1111
+line_items[13].Qty Unit : 'Nos' found at index 1116
+line_items[13].Rate : '16,920.00' found at index 1455
+line_items[13].Rate Unit : 'Nos' found at index 1116
+line_items[13].Amount : '16,920.00' found at index 1455
+line_items[14].Sl No : '5' found at index 10
+line_items[14].Description of Goods : 'Seal Bush' found at index 1488
+line_items[14].HSN/SAC : '39269099' found at index 1087
+line_items[14].Quantity : '1.00' found at index 1111
+line_items[14].Qty Unit : 'Nos' found at index 1116
+line_items[14].Rate : '13,600.00' found at index 1566
+line_items[14].Rate Unit : 'Nos' found at index 1116
+line_items[14].Amount : '13,600.00' found at index 1566
+line_items[15].Sl No : '1' found at index 12
+line_items[15].Description of Goods : 'Blower Back Cover' found at index 1045
+line_items[15].HSN/SAC : '39269099' found at index 1087
+line_items[15].Quantity : '1.00' found at index 1111
+line_items[15].Qty Unit : 'Nos' found at index 1116
+line_items[15].Rate : '55,710.00' found at index 1123
+line_items[15].Rate Unit : 'Nos' found at index 1116
+line_items[15].Amount : '55,710.00' found at index 1123
+line_items[16].Sl No : '2' found at index 8
+line_items[16].Description of Goods : 'Knob' found at index 1156
+line_items[16].HSN/SAC : '39269099' found at index 1087
+line_items[16].Quantity : '1.00' found at index 1111
+line_items[16].Qty Unit : 'Nos' found at index 1116
+line_items[16].Rate : '4,635.00' found at index 1235
+line_items[16].Rate Unit : 'Nos' found at index 1116
+line_items[16].Amount : '4,635.00' found at index 1235
+line_items[17].Sl No : '3' found at index 4
+line_items[17].Description of Goods : 'Limit Switch Clamp Body' found at index 1266
+line_items[17].HSN/SAC : '39269099' found at index 1087
+line_items[17].Quantity : '1.00' found at index 1111
+line_items[17].Qty Unit : 'Nos' found at index 1116
+line_items[17].Rate : '4,645.00' found at index 1345
+line_items[17].Rate Unit : 'Nos' found at index 1116
+line_items[17].Amount : '4,645.00' found at index 1345
+line_items[18].Sl No : '4' found at index 13
+line_items[18].Description of Goods : 'Alr Delivery Tube Connector' found at index 1376
+line_items[18].HSN/SAC : '39269099' found at index 1087
+line_items[18].Quantity : '1.00' found at index 1111
+line_items[18].Qty Unit : 'Nos' found at index 1116
+line_items[18].Rate : '16,920.00' found at index 1455
+line_items[18].Rate Unit : 'Nos' found at index 1116
+line_items[18].Amount : '16,920.00' found at index 1455
+line_items[19].Sl No : '5' found at index 10
+line_items[19].Description of Goods : 'Seal Bush' found at index 1488
+line_items[19].HSN/SAC : '39269099' found at index 1087
+line_items[19].Quantity : '1.00' found at index 1111
+line_items[19].Qty Unit : 'Nos' found at index 1116
+line_items[19].Rate : '13,600.00' found at index 1566
+line_items[19].Rate Unit : 'Nos' found at index 1116
+line_items[19].Amount : '13,600.00' found at index 1566
+tax_summary.CGST Rate (%) : '9' found at index 9
+tax_summary.CGST Amount : '8,596.00' found at index 1799
+tax_summary.SGST Rate (%) : '9' found at index 9
+tax_summary.SGST Amount : '8,596.00' found at index 1799
+hsn_summary[0].HSN/SAC : '39269099' found at index 1087
+hsn_summary[0].Taxable Value : '95,510.00' found at index 1698
+hsn_summary[0].CGST Rate : '9%' found at index 1743
+hsn_summary[0].CGST Amount : '8,596.00' found at index 1799
+hsn_summary[0].SGST Rate : '9%' found at index 1743
+hsn_summary[0].SGST Amount : '8,596.00' found at index 1799
+hsn_summary[0].Total Tax Amount : '17,192.00' found at index 2585
+hsn_summary[1].HSN/SAC : '39269099' found at index 1087
+hsn_summary[1].Taxable Value : '95,510.00' found at index 1698
+hsn_summary[1].CGST Rate : '9%' found at index 1743
+hsn_summary[1].CGST Amount : '8,596.00' found at index 1799
+hsn_summary[1].SGST Rate : '9%' found at index 1743
+hsn_summary[1].SGST Amount : '8,596.00' found at index 1799
+hsn_summary[1].Total Tax Amount : '17,192.00' found at index 2585
+hsn_summary[2].HSN/SAC : '39269099' found at index 1087
+hsn_summary[2].Taxable Value : '95,510.00' found at index 1698
+hsn_summary[2].CGST Rate : '9%' found at index 1743
+hsn_summary[2].CGST Amount : '8,596.00' found at index 1799
+hsn_summary[2].SGST Rate : '9%' found at index 1743
+hsn_summary[2].SGST Amount : '8,596.00' found at index 1799
+hsn_summary[2].Total Tax Amount : '17,192.00' found at index 2585
+hsn_summary[3].HSN/SAC : '39269099' found at index 1087
+hsn_summary[3].Taxable Value : '95,510.00' found at index 1698
+hsn_summary[3].CGST Rate : '9%' found at index 1743
+hsn_summary[3].CGST Amount : '8,596.00' found at index 1799
+hsn_summary[3].SGST Rate : '9%' found at index 1743
+hsn_summary[3].SGST Amount : '8,596.00' found at index 1799
+hsn_summary[3].Total Tax Amount : '17,192.00' found at index 2585
+bank_details.Bank Name : 'Vijaya Bank' found at index 2980
+bank_details.Account Number : '139200301000227' found at index 2999
+bank_details.Branch : 'SSI,BANGALORE' found at index 3083
+bank_details.IFSC Code : 'VIJB0001392' found at index 3099
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '295/14 Balagaranahalli,, Hosur Main Road,' found at index -1

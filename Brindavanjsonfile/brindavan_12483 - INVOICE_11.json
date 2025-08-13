@@ -1,0 +1,43 @@
+{
+    "supplier_details": {
+        "name": "Brindavan Enterprises",
+        "address": "46/3, 3rd Main Road, Behind Govt School,Sarakki Main Road, J.P.Nagar I Phase, Bangalore - 560078, Karnataka - 560078, India, GSTIN/UIN: 29ADKPN8626J1ZV",
+        "gstin_uin": "29ADKPN8626J1ZV",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "contact": "080-42007347,9739517233",
+        "email": "brindavanusn@gmail.com"
+    },
+    "buyer_details": {
+        "name": "IRILLIC PRIVATE LIMITED",
+        "address": "IRILLIC PRIVATE LIMITED 76, 10TH CROSS RD, JEEWAN SATHI COLONY, 1ST PHASE J.P NAGAR BANGALORE, Karnataka - 560078, India",
+        "gstin_uin": "29AAECI4323B1ZY"
+    },
+    "invoice_details": {
+        "Delivery Note": "12483",
+        "Supplier's Ref.": "",
+        "Buyer's Order No.": "CASH PURCHASE",
+        "Despatch Document No.": "",
+        "Despatched through": "",
+        "Terms of Delivery": "MR.ASHWIN SOMAIAH",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Dated": "5-Oct-2020",
+        "Delivery Note Date": "5-Oct-2020",
+        "Destination": "",
+        "Invoice No": ""
+    },
+    "line_items": [],
+    "tax_summary": {
+        "CGST Rate (%)": "9",
+        "CGST Amount": "67.50",
+        "SGST Rate (%)": "9",
+        "SGST Amount": "67.50"
+    },
+    "hsn_summary": [],
+    "bank_details": {
+        "Bank Name": "State Bank of India",
+        "Account Number": "10427723793",
+        "Branch & IFS Code": "JP Nagar & SBIN0007117"
+    }
+}

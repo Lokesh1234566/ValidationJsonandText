@@ -1,0 +1,58 @@
+                         TAX INVOICE
+                          N.U. Enterprises
+# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078
+
+NAME: Irillic Pvt Ltd
+NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078
+GSTIN NO:- 29AAECI4323B1ZY
+STATE - KARNATAKA                                        MONTH - July 2020
+
+  Date      Awb No.       Destination    Dox   Non- Dox   Quantity       Amount
+15.07.2020     63200800865       Chennai         Nil       63kg         3              3150.00
+15.07.2020     63200800854       Chennai      250gms      Nil         1                30.00
+17.07.2020     63200800795       Hyderabad        Nil       68kg         4              3400.00
+20.07.2020     63200800806       Chennai         Nil       24kg         1              1200.00
+
+  31.07.2020     63200971783       Chennai         Nil      126kg        9              4788.00
+Total Consignment : 16                        TOTAL AMOUNT                   30798.00
+                                          FUEL CHARGERS 15%               4619.70
+SAC CODE: 996812                           TAXABLE AMOUNT                 35417.70
+                                       CGST AMOUNT 9%                  3187.59
+
+INVOICE AMOUNT
+
+SGST AMOUNT 9%                  3187.59
+IGST AMOUNT 18%                                    -
+ROUND OFF                             0.11
+                           41793.00
+
+ For N.U. ENTERPRISES
+
+
+
+AUTHORISED SIGNATORY
+
+     PAN :AAXPF0165A                     GSTIN No : 29AAXPF0165A1ZT
+BILL TO PARTY                 INVOICE NUMBER : 369           DATE : 03/08/2020
+
+     PAN :AAXPF0165A                     GSTIN No : 29AAXPF0165A1ZT
+BILL TO PARTY                 INVOICE NUMBER : 369           DATE : 0
+
+Period :01/07/20 To 31/07/20
+
+23.07.2020     22108942354       Chennai         Nil       2kg         1                76.00
+23.07.2020     22108942365       Hyderabad        Nil       2kg         1                76.00
+27.07.2020     63200971245      East Godavari       Nil       21kg         1               945.00
+27.07.2020     63200971256     Rajahmundry       Nil       21kg         1               945.00
+27.07.2020     63200971201   Ramanathapuram     Nil       21kg         1               798.00
+27.07.2020     63200971212       Chennai         Nil       42kg         2              1596.00
+27.07.2020     63200971223       Hyderabad        Nil       63kg         3              2394.00
+29.07.2020     63200971374       Chennai         Nil      147kg        10              5586.00
+29.07.2020     63200971433       Chennai         Nil       1kg         1                38.00
+29.07.2020     63200971385       Hyderabad        Nil       5kg         1               190.00
+30.07.2020     63200971595       Chennai         Nil      147kg        10              5586.00
+
+Total Consignment : 16
+
+Amount In words :- Forty One Thousand Seven Hundred and Ninty Three Rupees Only.
+

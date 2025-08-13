@@ -1,0 +1,66 @@
+VEERESH AGENCY
+A.B.NAGAR MUNDRAGI
+Karnataka,India
+GSTIN/UIN: 29CDUPS8878K1ZY
+State Name : Karnataka, Code : 29
+Contact : 9900168014,9900168014
+Customer
+Irillic Pvt Ltd
+Karnataka, India
+GSTIN/UIN           : 29AAECI4323B1ZY
+State Name          : Karnataka, Code : 29
+
+Invoice No.
+127
+Delivery Note
+
+Supplier’s Ref.
+
+Buyer’s Order No.
+
+Despatch Document No.
+
+Despatched through
+
+Dated
+10-Jul-2020
+Mode/Terms of Payment
+
+Other Reference(s)
+
+Dated
+
+Delivery Note Date
+
+Destination
+
+Terms of Delivery
+
+Sl          Description of Goods          HSN/SAC     Quantity       Rate      per  Disc. %      Amount
+No.
+1 Mi Charger                                   40 PIECES       380.51   PIECES               15,220.40
+
+                    CGST                                                        1,369.84
+                    SGST                                                        1,369.84
+Less :                Rond Off                                                                    (-)0.08
+
+                                        Total            40 PIECES           ī17,960.00
+Amount Chargeable (in words)                                                                                  E. & O.E
+INR Seventeen Thousand Nine Hundred Sixty Only
+          HSN/SAC                  Taxable          Central Tax               State Tax              Total
+                                        Value      Rate     Amount     Rate     Amount     Tax Amount
+                                         15,220.40    9%      1,369.84    9%      1,369.84       2,739.68
+                                 Total     15,220.40               1,369.84               1,369.84       2,739.68
+Tax Amount (in words)  :   INR Two Thousand Seven Hundred Thirty Nine and Sixty Eight paise Only
+
+Declaration
+We declare that this invoice shows the actual price of
+the goods described and that all particulars are true
+and correct.
+
+for VEERESH AGENCY
+
+   Authorised Signatory
+
+This is a Computer Generated Invoice
+

@@ -1,0 +1,79 @@
+Invoice No.    e-Way Bill No.
+LSPL/228/2021
+Delivery Note
+
+
+Supplier's Ref.
+LSPL/228/2021
+Buyer's Order No.
+
+
+Despatch Document No.
+
+
+Despatched through
+
+
+Terms of Delivery
+
+Dated
+30-Oct-2020
+Mode/Terms of Payment
+30 Days
+Other Reference(s)
+
+
+Dated
+
+
+Delivery Note Date
+
+
+Destination
+
+Ledger Services Private Limited
+FormerlyKnown Proliant Management ConsultingPvt Ltd
+No.G-001, "South End Sampurna" 11/94,
+Model House Street, Basavanagudi,
+Bangalore - 560 004
+Ph NO: 080-41692691
+CIN: U72300KA2006PTC041050
+GSTIN/UIN: 29AAECP0779L1ZU
+State Name : Karnataka, Code : 29
+Contact : +91 80 4123 5846,+91 95357 17589
+E-Mail : info@ledger.in
+www.ledger.in
+Buyer
+Irillic Private Limited
+No 76, 10th Cross, 29th Main, 1st Phase, J.P.Nagar,
+Bengaluru-560078
+GSTIN/UIN          : 29AAECI4323B1ZY
+State Name         : Karnataka, Code : 29
+Place of Supply   : Karnataka
+
+Sl                             Particulars                     HSN/SAC    Rate    per    Amount
+No.
+
+1      Accounting Services                                                         15,000.00
+         Accounting Services for the Month of Oct -2020
+2                                    CGST                9 %        1,350.00
+3                                    SGST                9 %        1,350.00
+
+                                                                 Total                  ₹ 17,700.00
+Amount Chargeable (in words)                                                                           E. & O.E
+INR Seventeen Thousand Seven Hundred Only
+
+Company's Bank Details
+Bank Name            : Axis Bank
+A/c No.                   : 917020079685358
+Branch & IFS Code: Basavanagudi & UTIB0001496
+                           for Ledger Services Private Limited
+
+
+                                         Authorised Signatory
+
+Company's Service Tax No. : AAECP0779LST001
+Company's PAN              : AAECP0779L
+
+This is a Computer Generated Invoice
+

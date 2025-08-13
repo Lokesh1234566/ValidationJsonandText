@@ -1,0 +1,6 @@
+supplier_details.name : 'Brindavan Enterprises' found at index 0
+supplier_details.address : '46/3, 3rd Main Behind Governament School, Sarakki Main Road J.P Nagar 1st Phase, Bengaluru-560078, Phone:080-42007347/9739517233,  Email : brindavanusn@gmail.com, Invoice No.          : BRINDAVAN/11854                      Party's P.O No.     : CASH PURCHASE, Date of Invoice     :  24-06-2020                            State Code           : 29' found at index -1
+supplier_details.state_code : '29' found at index 401
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '46/3, 3rd Main Behind Governament School, Sarakki Main Road J.P Nagar 1st Phase, Bengaluru-560078, Phone:080-42007347/9739517233,  Email : brindavanusn@gmail.com, Invoice No.          : BRINDAVAN/11854                      Party's P.O No.     : CASH PURCHASE, Date of Invoice     :  24-06-2020                            State Code           : 29' found at index -1

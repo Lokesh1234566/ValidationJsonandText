@@ -1,0 +1,30 @@
+supplier_details.name : 'Invoice No.' found at index 0
+supplier_details.address : 'CIN: U72300KA2006PTC041050' found at index 277
+supplier_details.phone : '080-41692691' found at index 264
+supplier_details.cin : 'U72300KA2006PTC041050' found at index 282
+supplier_details.gstin_uin : '29AAECP0779L1ZU' found at index 315
+supplier_details.state_name : 'Karnataka' found at index 479
+supplier_details.state_code : '29' found at index 315
+supplier_details.email : 'info@ledger.in' found at index 340
+supplier_details.website : 'Buyer' found at index 355
+buyer_details.name : 'Irillic Private Limited' found at index 361
+buyer_details.address : 'No 76,, 10th Cross, 29th Main,, 1st Phase, J.P., Nagar,, Bengaluru-560078, State Name         : Karnataka, Code : 29' found at index -1
+buyer_details.gstin_uin : '29AAECP0779L1ZU' found at index 315
+buyer_details.state_name : 'Karnataka' found at index 479
+buyer_details.state_code : '29' found at index 315
+buyer_details.place_of_supply : 'Karnataka' found at index 479
+invoice_details.Invoice No : 'LSPL/041/2021' found at index 12
+invoice_details.Dated : '30-May-2020' found at index 49
+line_items[0].SL No : '1' found at index 19
+line_items[0].Description of Goods : 'Accounting Services Accounting Services for the Month of May-2020' found at index -1
+line_items[0].HSN/SAC : '18 %' found at index 801
+line_items[0].Amount : '15,000.00' found at index 820
+totals.Total Amount : '17,700.00' found at index 1164
+amount_chargeable_in_words : 'INR Seventeen Thousand Seven Hundred Only' found at index 1295
+bank_details.Bank Name : 'Axis Bank' found at index 1846
+bank_details.Account Number : '917020079685358' found at index 1884
+bank_details.Branch_IFSC : 'Basavanagudi & UTIB0001496' found at index 1920
+
+--- NOT FOUND VALUES ---
+buyer_details.address : 'No 76,, 10th Cross, 29th Main,, 1st Phase, J.P., Nagar,, Bengaluru-560078, State Name         : Karnataka, Code : 29' found at index -1
+line_items[0].Description of Goods : 'Accounting Services Accounting Services for the Month of May-2020' found at index -1

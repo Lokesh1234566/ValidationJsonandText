@@ -1,0 +1,66 @@
+supplier_details.name : 'N.U. Enterprises' found at index 63
+supplier_details.address : '# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078' found at index 80
+supplier_details.pan : 'AAXPF0165A' found at index 2212
+supplier_details.gstin : '-' found at index 152
+supplier_details.state : 'KARNATAKA' found at index 286
+supplier_details.month : 'January 2021' found at index 340
+buyer_details.name : 'Irillic Pvt Ltd' found at index 167
+buyer_details.address : 'NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078' found at index 183
+buyer_details.gstin : '29AAECI4323B1ZY' found at index 262
+invoice_details.invoice_number : '471' found at index 2317
+invoice_details.date : '02/02/2021' found at index 2338
+invoice_details.period : '01/01/21 To 31/01/21' found at index 2497
+line_items[0].Date : '04.01.2021' found at index 434
+line_items[0].AWB No : '63270516072' found at index 449
+line_items[0].Destination : 'Hyderabad' found at index 467
+line_items[0].Weight : '7kg' found at index 494
+line_items[0].Quantity : '1' found at index 82
+line_items[0].Amount : '266.00' found at index 522
+line_items[1].Date : '06.01.2021' found at index 529
+line_items[1].AWB No : '63270516341' found at index 544
+line_items[1].Destination : 'Hyderabad' found at index 467
+line_items[1].Weight : '56kg' found at index 589
+line_items[1].Quantity : '4' found at index 269
+line_items[1].Amount : '2128.00' found at index 617
+line_items[2].Date : '12.01.2021' found at index 625
+line_items[2].AWB No : '7027338' found at index 642
+line_items[2].Destination : 'Kolkata' found at index 659
+line_items[2].Weight : '6kg' found at index 590
+line_items[2].Quantity : '1' found at index 82
+line_items[2].Amount : '540.00' found at index 714
+line_items[3].Date : '15.01.2021' found at index 721
+line_items[3].AWB No : '63270539371' found at index 829
+line_items[3].Destination : 'Kolkata' found at index 659
+line_items[3].Weight : '20kg' found at index 875
+line_items[3].Quantity : '1' found at index 82
+line_items[3].Amount : '1800.00' found at index 903
+line_items[4].Date : '19.01.2021' found at index 911
+line_items[4].AWB No : '63270539183' found at index 926
+line_items[4].Destination : 'Chennai' found at index 944
+line_items[4].Weight : '18kg' found at index 970
+line_items[4].Quantity : '1' found at index 82
+line_items[4].Amount : '684.00' found at index 999
+line_items[5].Date : '21.01.2021' found at index 1006
+line_items[5].AWB No : '63276414095' found at index 1115
+line_items[5].Destination : 'Hyderabad' found at index 467
+line_items[5].Weight : '1kg' found at index 1160
+line_items[5].Quantity : '1' found at index 82
+line_items[5].Amount : '38.00' found at index 1189
+line_items[6].Date : '21.01.2021' found at index 1006
+line_items[6].AWB No : '417647708' found at index 1211
+line_items[6].Destination : 'Mumbai' found at index 1227
+line_items[6].Weight : '2kg' found at index 1252
+line_items[6].Quantity : '1' found at index 82
+line_items[6].Amount : '180.00' found at index 1280
+tax_summary.SAC Code : '996812' found at index 1560
+tax_summary.Taxable Amount : '6625.15' found at index 1625
+tax_summary.CGST % : '9' found at index 191
+tax_summary.CGST Amount : '596.26' found at index 1705
+tax_summary.SGST % : '9' found at index 191
+tax_summary.SGST Amount : '596.26' found at index 1705
+tax_summary.IGST % : '18' found at index 903
+tax_summary.Fuel Charges : '864.15' found at index 1543
+tax_summary.Round Off : '0.32' found at index 1969
+totals.Total Amount : '5761.00' found at index 1460
+totals.Total Consignment : '10' found at index 201
+amount_in_words : '- Seven Thousand Eight Hundred and Eighteen Rupees Only.' found at index 2069

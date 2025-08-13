@@ -1,0 +1,49 @@
+{
+    "supplier_details": {
+        "name": "Invoice No.",
+        "address": "CIN: U72300KA2006PTC041050",
+        "phone": "080-41692691",
+        "cin": "U72300KA2006PTC041050",
+        "gstin_uin": "29AAECP0779L1ZU",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "contact": "",
+        "email": "info@ledger.in",
+        "website": "Buyer"
+    },
+    "buyer_details": {
+        "name": "IRILLIC PRIVATE LIMITED",
+        "address": "No 76,, 10th Cross, 29th Main,, 1st Phase, J.P., Nagar,, Bengaluru-560078, Kind attention: Mr., Vishwanatha, Mobile No: 91 98802-14866",
+        "gstin_uin": "29AAECP0779L1ZU",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "place_of_supply": "Karnataka"
+    },
+    "invoice_details": {
+        "Invoice No": "LSPL/446/1920",
+        "Supplier's Ref": "",
+        "Dated": "31-Mar-2020",
+        "Other Reference(s)": ""
+    },
+    "line_items": [
+        {
+            "SL No": 1,
+            "Description of Goods": "Accounting Services For the Month of March 2020",
+            "HSN/SAC": "18 %",
+            "Rate": "",
+            "per": "",
+            "Disc. %": "",
+            "Amount": "15,000.00"
+        }
+    ],
+    "tax_summary": [],
+    "totals": {
+        "Total Amount": "17,700.00"
+    },
+    "amount_chargeable_in_words": "INR Seventeen Thousand Seven Hundred Only",
+    "bank_details": {
+        "Bank Name": "Axis Bank",
+        "Account Number": "917020079685358",
+        "Branch_IFSC": "Basavanagudi & UTIB0001496"
+    }
+}

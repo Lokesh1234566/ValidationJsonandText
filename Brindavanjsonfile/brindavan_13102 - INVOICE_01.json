@@ -1,0 +1,63 @@
+{
+    "supplier_details": {
+        "name": "Brindavan Enterprises",
+        "address": "46/3, 3rd Main Road, Behind Govt School,Sarakki Main Road, J.P.Nagar I Phase, Bangalore - 560078, Karnataka - 560078, India, GSTIN/UIN: 29ADKPN8626J1ZV",
+        "gstin_uin": "29ADKPN8626J1ZV",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "contact": "080-42007347,9739517233",
+        "email": "brindavanusn@gmail.com"
+    },
+    "buyer_details": {
+        "name": "IRILLIC PRIVATE LIMITED",
+        "address": "IRILLIC PRIVATE LIMITED 76, 10TH CROSS RD, JEEWAN SATHI COLONY, 1ST PHASE J.P NAGAR BANGALORE, Karnataka - 560078, India",
+        "gstin_uin": "29AAECI4323B1ZY"
+    },
+    "invoice_details": {
+        "Delivery Note": "13102",
+        "Supplier's Ref.": "",
+        "Buyer's Order No.": "CASH PURCHASE",
+        "Despatch Document No.": "",
+        "Despatched through": "",
+        "Terms of Delivery": "MR.ASHWIN SOMAIAH",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Dated": "25-Dec-2020",
+        "Delivery Note Date": "25-Dec-2020",
+        "Destination": "",
+        "Invoice No": ""
+    },
+    "line_items": [
+        {
+            "Description of Goods": "ACRYLIC CUTTING CHARGES",
+            "HSN/SAC": "845959",
+            "Part No": "1",
+            "Quantity": "1 SET",
+            "Rate": "6,000.00",
+            "per": "SET",
+            "Amount": "6,000.00"
+        }
+    ],
+    "tax_summary": {
+        "CGST Rate (%)": "9",
+        "CGST Amount": "540.00",
+        "SGST Rate (%)": "9",
+        "SGST Amount": "540.00"
+    },
+    "hsn_summary": [
+        {
+            "HSN/SAC": "845959",
+            "Taxable Value": "6,000.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "540.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "540.00",
+            "Total Tax Amount": "1,080.00"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "State Bank of India",
+        "Account Number": "10427723793",
+        "Branch & IFS Code": "JP Nagar & SBIN0007117"
+    }
+}

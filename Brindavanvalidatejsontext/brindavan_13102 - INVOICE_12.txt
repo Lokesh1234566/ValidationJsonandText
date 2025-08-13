@@ -1,0 +1,40 @@
+supplier_details.name : 'Brindavan Enterprises' found at index 0
+supplier_details.address : '46/3, 3rd Main Road, Behind Govt School,Sarakki Main Road, J.P.Nagar I Phase, Bangalore - 560078, Karnataka - 560078, India, GSTIN/UIN: 29ADKPN8626J1ZV' found at index -1
+supplier_details.gstin_uin : '29ADKPN8626J1ZV' found at index 155
+supplier_details.state_name : 'Karnataka' found at index 118
+supplier_details.state_code : '29' found at index 155
+supplier_details.contact : '080-42007347,9739517233' found at index 215
+supplier_details.email : 'brindavanusn@gmail.com' found at index 248
+buyer_details.name : 'IRILLIC PRIVATE LIMITED' found at index 277
+buyer_details.address : 'IRILLIC PRIVATE LIMITED 76, 10TH CROSS RD, JEEWAN SATHI COLONY, 1ST PHASE J.P NAGAR BANGALORE, Karnataka - 560078, India' found at index -1
+buyer_details.gstin_uin : '29AAECI4323B1ZY' found at index 421
+invoice_details.Delivery Note : '13102' found at index 448
+invoice_details.Buyer's Order No. : 'CASH PURCHASE' found at index 510
+invoice_details.Terms of Delivery : 'MR.ASHWIN SOMAIAH' found at index 587
+invoice_details.Dated : '25-Dec-2020' found at index 622
+invoice_details.Delivery Note Date : '25-Dec-2020' found at index 622
+line_items[0].Description of Goods : 'ACRYLIC CUTTING CHARGES' found at index 2080
+line_items[0].HSN/SAC : '845959' found at index 1330
+line_items[0].Part No : '1' found at index 167
+line_items[0].Quantity : '1 SET' found at index 931
+line_items[0].Rate : '6,000.00' found at index 1383
+line_items[0].per : 'SET' found at index 933
+line_items[0].Amount : '6,000.00' found at index 1383
+tax_summary.CGST Rate (%) : '9' found at index 156
+tax_summary.CGST Amount : '540.00' found at index 1402
+tax_summary.SGST Rate (%) : '9' found at index 156
+tax_summary.SGST Amount : '540.00' found at index 1402
+hsn_summary[0].HSN/SAC : '845959' found at index 1330
+hsn_summary[0].Taxable Value : '6,000.00' found at index 1383
+hsn_summary[0].CGST Rate : '9%' found at index 1394
+hsn_summary[0].CGST Amount : '540.00' found at index 1402
+hsn_summary[0].SGST Rate : '9%' found at index 1394
+hsn_summary[0].SGST Amount : '540.00' found at index 1402
+hsn_summary[0].Total Tax Amount : '1,080.00' found at index 1430
+bank_details.Bank Name : 'State Bank of India' found at index 1659
+bank_details.Account Number : '10427723793' found at index 1710
+bank_details.Branch & IFS Code : 'JP Nagar & SBIN0007117' found at index 1744
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '46/3, 3rd Main Road, Behind Govt School,Sarakki Main Road, J.P.Nagar I Phase, Bangalore - 560078, Karnataka - 560078, India, GSTIN/UIN: 29ADKPN8626J1ZV' found at index -1
+buyer_details.address : 'IRILLIC PRIVATE LIMITED 76, 10TH CROSS RD, JEEWAN SATHI COLONY, 1ST PHASE J.P NAGAR BANGALORE, Karnataka - 560078, India' found at index -1

@@ -1,0 +1,96 @@
+{
+    "supplier_details": {
+        "name": "N.U. Enterprises",
+        "address": "# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078",
+        "pan": "AAXPF0165A",
+        "gstin": "-",
+        "state": "KARNATAKA",
+        "month": "January 2021"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078",
+        "gstin": "29AAECI4323B1ZY"
+    },
+    "invoice_details": {
+        "invoice_number": "471",
+        "date": "02/02/2021",
+        "period": "01/01/21 To 31/01/21"
+    },
+    "line_items": [
+        {
+            "Date": "04.01.2021",
+            "AWB No": "63270516072",
+            "Destination": "Hyderabad",
+            "Weight": "7kg",
+            "Quantity": "1",
+            "Amount": "266.00"
+        },
+        {
+            "Date": "06.01.2021",
+            "AWB No": "63270516341",
+            "Destination": "Hyderabad",
+            "Weight": "56kg",
+            "Quantity": "4",
+            "Amount": "2128.00"
+        },
+        {
+            "Date": "12.01.2021",
+            "AWB No": "7027338",
+            "Destination": "Kolkata",
+            "Weight": "6kg",
+            "Quantity": "1",
+            "Amount": "540.00"
+        },
+        {
+            "Date": "15.01.2021",
+            "AWB No": "63270539371",
+            "Destination": "Kolkata",
+            "Weight": "20kg",
+            "Quantity": "1",
+            "Amount": "1800.00"
+        },
+        {
+            "Date": "19.01.2021",
+            "AWB No": "63270539183",
+            "Destination": "Chennai",
+            "Weight": "18kg",
+            "Quantity": "1",
+            "Amount": "684.00"
+        },
+        {
+            "Date": "21.01.2021",
+            "AWB No": "63276414095",
+            "Destination": "Hyderabad",
+            "Weight": "1kg",
+            "Quantity": "1",
+            "Amount": "38.00"
+        },
+        {
+            "Date": "21.01.2021",
+            "AWB No": "417647708",
+            "Destination": "Mumbai",
+            "Weight": "2kg",
+            "Quantity": "1",
+            "Amount": "180.00"
+        }
+    ],
+    "tax_summary": {
+        "SAC Code": "996812",
+        "Taxable Amount": "6625.15",
+        "CGST %": "9",
+        "CGST Amount": "596.26",
+        "SGST %": "9",
+        "SGST Amount": "596.26",
+        "IGST %": "18",
+        "IGST Amount": "",
+        "Fuel Charges": "864.15",
+        "Round Off": "0.32"
+    },
+    "totals": {
+        "Total Amount": "5761.00",
+        "Invoice Amount": "",
+        "Total Consignment": "10"
+    },
+    "amount_in_words": "- Seven Thousand Eight Hundred and Eighteen Rupees Only."
+}

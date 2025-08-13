@@ -1,0 +1,289 @@
+{
+    "supplier_details": {
+        "name": "VIMA3YA",
+        "address": "295/14 Balagaranahalli,, Hosur Main Road,",
+        "msme_reg_no": "KR02B0009529",
+        "gstin_uin": "29AZCPN3529J1Z2",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "info@vima3ya.com",
+        "contact": ""
+    },
+    "buyer_details": {
+        "name": "",
+        "address": "",
+        "gstin_uin": "29AAECI4323B1ZY",
+        "pan": "AAECI4323B",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "place_of_supply": "Karnataka"
+    },
+    "invoice_details": {
+        "Invoice No": "",
+        "Delivery Note": "",
+        "Supplier\u2019s Ref": "",
+        "Buyer's Order No": "",
+        "Despatch Document No": "",
+        "Despatched through": "By Road",
+        "Bill of Lading/LR-RR No": "",
+        "Terms of Delivery": "",
+        "Mode/Terms of Payment": "Immediate",
+        "Other Reference(s)": "",
+        "Dated": "26-Jun-2020",
+        "Delivery Note Date": "",
+        "Destination": "Bangalore",
+        "Motor Vehicle No": ""
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description of Goods": "Blower Back Cover",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "55,710.00",
+            "Rate Unit": "Nos",
+            "Amount": "55,710.00"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Knob",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "4,635.00",
+            "Rate Unit": "Nos",
+            "Amount": "4,635.00"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Limit Switch Clamp Body",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "4,645.00",
+            "Rate Unit": "Nos",
+            "Amount": "4,645.00"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Alr Delivery Tube Connector",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "16,920.00",
+            "Rate Unit": "Nos",
+            "Amount": "16,920.00"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Seal Bush",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "13,600.00",
+            "Rate Unit": "Nos",
+            "Amount": "13,600.00"
+        },
+        {
+            "Sl No": "1",
+            "Description of Goods": "Blower Back Cover",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "55,710.00",
+            "Rate Unit": "Nos",
+            "Amount": "55,710.00"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Knob",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "4,635.00",
+            "Rate Unit": "Nos",
+            "Amount": "4,635.00"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Limit Switch Clamp Body",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "4,645.00",
+            "Rate Unit": "Nos",
+            "Amount": "4,645.00"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Alr Delivery Tube Connector",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "16,920.00",
+            "Rate Unit": "Nos",
+            "Amount": "16,920.00"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Seal Bush",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "13,600.00",
+            "Rate Unit": "Nos",
+            "Amount": "13,600.00"
+        },
+        {
+            "Sl No": "1",
+            "Description of Goods": "Blower Back Cover",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "55,710.00",
+            "Rate Unit": "Nos",
+            "Amount": "55,710.00"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Knob",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "4,635.00",
+            "Rate Unit": "Nos",
+            "Amount": "4,635.00"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Limit Switch Clamp Body",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "4,645.00",
+            "Rate Unit": "Nos",
+            "Amount": "4,645.00"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Alr Delivery Tube Connector",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "16,920.00",
+            "Rate Unit": "Nos",
+            "Amount": "16,920.00"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Seal Bush",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "13,600.00",
+            "Rate Unit": "Nos",
+            "Amount": "13,600.00"
+        },
+        {
+            "Sl No": "1",
+            "Description of Goods": "Blower Back Cover",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "55,710.00",
+            "Rate Unit": "Nos",
+            "Amount": "55,710.00"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Knob",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "4,635.00",
+            "Rate Unit": "Nos",
+            "Amount": "4,635.00"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Limit Switch Clamp Body",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "4,645.00",
+            "Rate Unit": "Nos",
+            "Amount": "4,645.00"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Alr Delivery Tube Connector",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "16,920.00",
+            "Rate Unit": "Nos",
+            "Amount": "16,920.00"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Seal Bush",
+            "HSN/SAC": "39269099",
+            "Quantity": "1.00",
+            "Qty Unit": "Nos",
+            "Rate": "13,600.00",
+            "Rate Unit": "Nos",
+            "Amount": "13,600.00"
+        }
+    ],
+    "tax_summary": {
+        "CGST Rate (%)": "9",
+        "CGST Amount": "8,596.00",
+        "SGST Rate (%)": "9",
+        "SGST Amount": "8,596.00"
+    },
+    "hsn_summary": [
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "95,510.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "8,596.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "8,596.00",
+            "Total Tax Amount": "17,192.00"
+        },
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "95,510.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "8,596.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "8,596.00",
+            "Total Tax Amount": "17,192.00"
+        },
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "95,510.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "8,596.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "8,596.00",
+            "Total Tax Amount": "17,192.00"
+        },
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "95,510.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "8,596.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "8,596.00",
+            "Total Tax Amount": "17,192.00"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "Vijaya Bank",
+        "Account Number": "139200301000227",
+        "Branch": "SSI,BANGALORE",
+        "IFSC Code": "VIJB0001392"
+    }
+}

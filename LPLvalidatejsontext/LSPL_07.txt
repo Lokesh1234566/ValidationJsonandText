@@ -1,0 +1,30 @@
+supplier_details.name : 'Ledger Services Private Limited' found at index 0
+supplier_details.address : 'CIN: U72300KA2006PTC041050' found at index 196
+supplier_details.phone : '080-41692691' found at index 183
+supplier_details.cin : 'U72300KA2006PTC041050' found at index 201
+supplier_details.gstin_uin : '29AAECP0779L1ZU' found at index 234
+supplier_details.state_name : 'Karnataka' found at index 263
+supplier_details.state_code : '29' found at index 234
+supplier_details.contact : '+91 80 4123 5846,+91 95357 17589' found at index 294
+supplier_details.email : 'info@ledger.in' found at index 336
+supplier_details.website : 'www.ledger.in' found at index 351
+buyer_details.name : 'Irillic Private Limited' found at index 372
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J., P.Nagar, Bengaluru-560078, GSTIN/UIN        : 29AAECI4323B1ZY' found at index -1
+buyer_details.gstin_uin : '29AAECP0779L1ZU' found at index 234
+buyer_details.state_name : 'Karnataka' found at index 263
+buyer_details.state_code : '29' found at index 234
+buyer_details.place_of_supply : 'Karnataka' found at index 263
+invoice_details.Mode/Terms of Payment : '30 Days' found at index 798
+tax_summary[0].Tax Type : 'CGST' found at index 1266
+tax_summary[0].Rate : '9 %' found at index 1288
+tax_summary[0].Amount : '1,350.00' found at index 1300
+tax_summary[1].Tax Type : 'SGST' found at index 1342
+tax_summary[1].Rate : '9 %' found at index 1288
+tax_summary[1].Amount : '1,350.00' found at index 1300
+amount_chargeable_in_words : 'INR Seventeen Thousand Seven Hundred Only' found at index 1496
+bank_details.Bank Name : 'Axis Bank' found at index 1678
+bank_details.Account Number : '917020079685358' found at index 1714
+bank_details.Branch_IFSC : 'Basavanagudi & UTIB0001496' found at index 1753
+
+--- NOT FOUND VALUES ---
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J., P.Nagar, Bengaluru-560078, GSTIN/UIN        : 29AAECI4323B1ZY' found at index -1

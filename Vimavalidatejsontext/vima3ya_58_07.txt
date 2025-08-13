@@ -1,0 +1,87 @@
+supplier_details.name : 'VIMA3YA' found at index 0
+supplier_details.address : '295/14 Balagaranahalli,, Hosur Main Road,' found at index -1
+supplier_details.msme_reg_no : 'KR02B0009529' found at index 78
+supplier_details.gstin_uin : '29AZCPN3529J1Z2' found at index 102
+supplier_details.state_name : 'Karnataka' found at index 131
+supplier_details.state_code : '29' found at index 8
+supplier_details.email : 'info@vima3ya.com' found at index 161
+buyer_details.gstin_uin : '29AAECI4323B1ZY' found at index 286
+buyer_details.pan : 'AAECI4323B' found at index 288
+buyer_details.state_name : 'Karnataka' found at index 131
+buyer_details.state_code : '29' found at index 8
+buyer_details.place_of_supply : 'Karnataka' found at index 131
+invoice_details.Despatched through : 'BY ROAD' found at index 542
+invoice_details.Mode/Terms of Payment : 'Immediate' found at index 590
+invoice_details.Dated : '25-Jun-2020' found at index 626
+invoice_details.Destination : 'BANGALORE' found at index 670
+line_items[0].Sl No : '1' found at index 12
+line_items[0].Description of Goods : 'BB50 Fm Top Cover' found at index 948
+line_items[0].HSN/SAC : '39269099' found at index 989
+line_items[0].Quantity : '1.00' found at index 1013
+line_items[0].Qty Unit : 'Nos' found at index 1018
+line_items[0].Rate : '30,000.00' found at index 1025
+line_items[0].Rate Unit : 'Nos' found at index 1018
+line_items[0].Amount : '30,000.00' found at index 1025
+line_items[1].Sl No : '1' found at index 12
+line_items[1].Description of Goods : 'BB50 Fm Top Cover' found at index 948
+line_items[1].HSN/SAC : '39269099' found at index 989
+line_items[1].Quantity : '1.00' found at index 1013
+line_items[1].Qty Unit : 'Nos' found at index 1018
+line_items[1].Rate : '30,000.00' found at index 1025
+line_items[1].Rate Unit : 'Nos' found at index 1018
+line_items[1].Amount : '30,000.00' found at index 1025
+line_items[2].Sl No : '1' found at index 12
+line_items[2].Description of Goods : 'BB50 Fm Top Cover' found at index 948
+line_items[2].HSN/SAC : '39269099' found at index 989
+line_items[2].Quantity : '1.00' found at index 1013
+line_items[2].Qty Unit : 'Nos' found at index 1018
+line_items[2].Rate : '30,000.00' found at index 1025
+line_items[2].Rate Unit : 'Nos' found at index 1018
+line_items[2].Amount : '30,000.00' found at index 1025
+line_items[3].Sl No : '1' found at index 12
+line_items[3].Description of Goods : 'BB50 Fm Top Cover' found at index 948
+line_items[3].HSN/SAC : '39269099' found at index 989
+line_items[3].Quantity : '1.00' found at index 1013
+line_items[3].Qty Unit : 'Nos' found at index 1018
+line_items[3].Rate : '30,000.00' found at index 1025
+line_items[3].Rate Unit : 'Nos' found at index 1018
+line_items[3].Amount : '30,000.00' found at index 1025
+tax_summary.CGST Rate (%) : '9' found at index 9
+tax_summary.CGST Amount : '2,700.00' found at index 1194
+tax_summary.SGST Rate (%) : '9' found at index 9
+tax_summary.SGST Amount : '2,700.00' found at index 1194
+hsn_summary[0].HSN/SAC : '39269099' found at index 989
+hsn_summary[0].Taxable Value : '30,000.00' found at index 1025
+hsn_summary[0].CGST Rate : '9%' found at index 1138
+hsn_summary[0].CGST Amount : '2,700.00' found at index 1194
+hsn_summary[0].SGST Rate : '9%' found at index 1138
+hsn_summary[0].SGST Amount : '2,700.00' found at index 1194
+hsn_summary[0].Total Tax Amount : '5,400.00' found at index 1441
+hsn_summary[1].HSN/SAC : '39269099' found at index 989
+hsn_summary[1].Taxable Value : '30,000.00' found at index 1025
+hsn_summary[1].CGST Rate : '9%' found at index 1138
+hsn_summary[1].CGST Amount : '2,700.00' found at index 1194
+hsn_summary[1].SGST Rate : '9%' found at index 1138
+hsn_summary[1].SGST Amount : '2,700.00' found at index 1194
+hsn_summary[1].Total Tax Amount : '5,400.00' found at index 1441
+hsn_summary[2].HSN/SAC : '39269099' found at index 989
+hsn_summary[2].Taxable Value : '30,000.00' found at index 1025
+hsn_summary[2].CGST Rate : '9%' found at index 1138
+hsn_summary[2].CGST Amount : '2,700.00' found at index 1194
+hsn_summary[2].SGST Rate : '9%' found at index 1138
+hsn_summary[2].SGST Amount : '2,700.00' found at index 1194
+hsn_summary[2].Total Tax Amount : '5,400.00' found at index 1441
+hsn_summary[3].HSN/SAC : '39269099' found at index 989
+hsn_summary[3].Taxable Value : '30,000.00' found at index 1025
+hsn_summary[3].CGST Rate : '9%' found at index 1138
+hsn_summary[3].CGST Amount : '2,700.00' found at index 1194
+hsn_summary[3].SGST Rate : '9%' found at index 1138
+hsn_summary[3].SGST Amount : '2,700.00' found at index 1194
+hsn_summary[3].Total Tax Amount : '5,400.00' found at index 1441
+bank_details.Bank Name : 'Vijaya Bank' found at index 2350
+bank_details.Account Number : '139200301000227' found at index 2369
+bank_details.Branch : 'SSI,BANGALORE' found at index 2453
+bank_details.IFSC Code : 'VIJB0001392' found at index 2469
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '295/14 Balagaranahalli,, Hosur Main Road,' found at index -1

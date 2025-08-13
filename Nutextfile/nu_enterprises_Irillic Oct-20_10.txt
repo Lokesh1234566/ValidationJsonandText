@@ -1,0 +1,55 @@
+                         TAX INVOICE
+                          N.U. Enterprises
+# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078
+
+NAME: Irillic Pvt Ltd
+NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078
+GSTIN NO:- 29AAECI4323B1ZY
+STATE - KARNATAKA                                     MONTH - October 2020
+
+  Date      Awb No.       Destination    Dox   Non- Dox   Quantity       Amount
+01.10.2020     63225905794     Secunderabad    250gms      Nil         1                30.00
+05.10.2020     63225906181      Mumbai         Nil       16kg         1              1440.00
+06.10.2020     63225906914       Chennai         Nil       16kg         1               608.00
+07.10.2020     63225906730       Chennai         Nil       1kg         1                38.00
+
+  29.10.2020     63241168410      Mumbai         Nil       29kg         2              2610.00
+  30.10.2020       7021619        Gandhinagar       Nil       16kg         1              1920.00
+Total Consignment : 17                        TOTAL AMOUNT                   22167.00
+                                          FUEL CHARGERS 15%               3325.05
+SAC CODE: 996812                           TAXABLE AMOUNT                 25492.05
+
+CGST AMOUNT 9%                  2294.28
+SGST AMOUNT 9%                  2294.28
+IGST AMOUNT 18%                                    -
+
+                                     ROUND OFF                             0.38
+INVOICE AMOUNT                                                      30081.00
+Amount In words :- Thirty Thousand Eighty One Rupees Only.
+
+
+
+*This is a computer generated receipt do not require seal and signature.
+
+     PAN :AAXPF0165A                     GSTIN No : 29AAXPF0165A1ZT
+BILL TO PARTY                 INVOICE NUMBER : 425           DATE : 04/11/2020
+
+     PAN :AAXPF0165A                     GSTIN No : 29AAXPF0165A1ZT
+BILL TO PARTY                 INVOICE NUMBER : 425           DATE : 0
+
+Period :01/10/20 To 31/10/20
+
+08.10.2020     63225906505       Chennai      250gms      Nil         1                30.00
+09.10.2020       7031476       New Delhi        Nil       13kg         1              1170.00
+14.10.2020     63225907802       Chennai         Nil       32kg         2              1216.00
+16.10.2020       7031491       New Delhi        Nil       16kg         1              1440.00
+16.10.2020     63241165584       Mandya          Nil       1kg         1                35.00
+19.10.2020       7031494          Varanasi         Nil       19kg         1              2280.00
+20.10.2020     63241166682       Chennai         Nil       5kg         1               190.00
+20.10.2020     63241166693       Chennai         Nil       18kg         1               684.00
+23.10.2020     63241167135        Kochi           Nil       80kg         5              3040.00
+27.10.2020       7023812       Jaipur (Plus Rate)     Nil       16kg         1              3840.00
+29.10.2020     63241168406       Chennai         Nil       42kg         2              1596.00
+
+Total Consignment : 17
+

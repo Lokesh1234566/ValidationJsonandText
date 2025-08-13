@@ -1,0 +1,30 @@
+supplier_details.name : 'Invoice No.' found at index 0
+supplier_details.address : 'CIN: U72300KA2006PTC041050' found at index 277
+supplier_details.phone : '080-41692691' found at index 264
+supplier_details.cin : 'U72300KA2006PTC041050' found at index 282
+supplier_details.gstin_uin : '29AAECP0779L1ZU' found at index 315
+supplier_details.state_name : 'Karnataka' found at index 539
+supplier_details.state_code : '29' found at index 315
+supplier_details.email : 'info@ledger.in' found at index 340
+supplier_details.website : 'Buyer' found at index 355
+buyer_details.name : 'IRILLIC PRIVATE LIMITED' found at index 361
+buyer_details.address : 'No 76,, 10th Cross, 29th Main,, 1st Phase, J.P., Nagar,, Bengaluru-560078, Kind attention: Mr., Vishwanatha, Mobile No: 91 98802-14866' found at index -1
+buyer_details.gstin_uin : '29AAECP0779L1ZU' found at index 315
+buyer_details.state_name : 'Karnataka' found at index 539
+buyer_details.state_code : '29' found at index 315
+buyer_details.place_of_supply : 'Karnataka' found at index 539
+invoice_details.Invoice No : 'LSPL/446/1920' found at index 12
+invoice_details.Dated : '31-Mar-2020' found at index 49
+line_items[0].SL No : '1' found at index 21
+line_items[0].Description of Goods : 'Accounting Services For the Month of March 2020' found at index -1
+line_items[0].HSN/SAC : '18 %' found at index 861
+line_items[0].Amount : '15,000.00' found at index 880
+totals.Total Amount : '17,700.00' found at index 1206
+amount_chargeable_in_words : 'INR Seventeen Thousand Seven Hundred Only' found at index 1337
+bank_details.Bank Name : 'Axis Bank' found at index 1888
+bank_details.Account Number : '917020079685358' found at index 1926
+bank_details.Branch_IFSC : 'Basavanagudi & UTIB0001496' found at index 1962
+
+--- NOT FOUND VALUES ---
+buyer_details.address : 'No 76,, 10th Cross, 29th Main,, 1st Phase, J.P., Nagar,, Bengaluru-560078, Kind attention: Mr., Vishwanatha, Mobile No: 91 98802-14866' found at index -1
+line_items[0].Description of Goods : 'Accounting Services For the Month of March 2020' found at index -1

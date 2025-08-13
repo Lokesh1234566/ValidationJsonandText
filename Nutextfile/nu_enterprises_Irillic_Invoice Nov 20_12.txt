@@ -1,0 +1,56 @@
+                         TAX INVOICE
+                          N.U. Enterprises
+# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078
+
+NAME: Irillic Pvt Ltd
+NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078
+GSTIN NO:- 29AAECI4323B1ZY
+STATE - KARNATAKA                                    MONTH - November 2020
+
+  Date      Awb No.       Destination    Dox   Non- Dox   Quantity       Amount
+02.11.2020     63241169040        Kolkata          Nil       5kg         1               450.00
+03.11.2020     63241169132       Chennai         Nil       16kg         1               608.00
+03.11.2020       7021607           Vijapur          Nil       22kg         1              2640.00
+06.11.2020     63241169924        Kochi           Nil       3kg         1               114.00
+
+ 27.11.2020     63255157685        Kochi           Nil       3kg         1               114.00
+ 27.11.2020       7020701       New Delhi        Nil       1kg         1                90.00
+ 27.11.2020       7020702        Lucknow         Nil       1kg         1               120.00
+ 30.11.2020     63252051586       Chennai         Nil       44kg         2              1672.00
+otal Consignment : 19                        TOTAL AMOUNT                   17994.00
+
+                                          FUEL CHARGERS 15%               2699.10
+SAC CODE: 996812                           TAXABLE AMOUNT                 20693.10
+                                       CGST AMOUNT 9%                  1862.38
+                                        SGST AMOUNT 9%                  1862.38
+                                               IGST AMOUNT 18%                                    -
+
+                                     ROUND OFF                             0.14
+INVOICE AMOUNT                                                      24418.00
+Amount In words :- Twenty Four Thousand Four Hundred and Eighteen Only.
+
+
+*This is a computer generated receipt do not require seal and signature.
+
+     PAN :AAXPF0165A                     GSTIN No : 29AAXPF0165A1ZT
+BILL TO PARTY                 INVOICE NUMBER : 441           DATE : 08/12/2020
+
+     PAN :AAXPF0165A                     GSTIN No : 29AAXPF0165A1ZT
+BILL TO PARTY                 INVOICE NUMBER : 441           DATE : 0
+
+Period :01/11/20 To 30/11/20
+
+06.11.2020     63241169935     New Delhi        Nil       81kg         6              7290.00
+11.11.2020       7021594       New Delhi     250gms      Nil         1                60.00
+12.11.2020     63252049512       Chennai         Nil       8kg         1               304.00
+13.11.2020     63252052990       Hyderabad        Nil       18kg         1               684.00
+17.11.2020     63252049604       Chennai         Nil       1kg         1                38.00
+18.11.2020       7021595        Mumbai         Nil       1kg         1                90.00
+20.11.2020     63252050713       Hyderabad        Nil      20Kg        1               760.00
+20.11.2020     63252050724      Tripunithura       Nil       17kg         1               646.00
+24.11.2020     63252052150       Chennai         Nil       8kg         1               304.00
+24.11.2020       7020579       New Delhi        Nil       1kg         1                90.00
+25.11.2020     63252051903      Lucknow         Nil       16kg         1              1920.00
+
+Total Consignment : 19
+

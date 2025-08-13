@@ -1,0 +1,106 @@
+                         TAX INVOICE
+                          N.U. Enterprises
+# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078
+
+NAME: Irillic Pvt Ltd
+NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078
+
+STATE - KARNATAKA                                    MONTH - September 2020
+
+  Date      Awb No.       Destination    Dox   Non- Dox   Quantity       Amount
+
+01.09.2020     63217426580       Chennai         Nil       1kg         1                38.00
+
+01.09.2020     63217426591       Chennai         Nil       1kg         1                38.00
+
+01.09.2020     63217426602       Chennai         Nil       1kg         1                38.00
+
+01.09.2020     63217426576       Chennai         Nil       4kg         1               152.00
+
+01.09.2020     63217426624       Hyderabad        Nil       32kg         2              1216.00
+
+02.09.2020     63217425972       Bangalore     250gms      Nil         1                15.00
+
+03.09.2020     63217426020       Chennai         Nil       16kg         1               608.00
+
+03.09.2020     63217426086       Bangalore         Nil       1kg         1                25.00
+
+PAN :AAXPF0165A                     GSTIN No : 29AAXPF0165A1ZT
+
+BILL TO PARTY                 INVOICE NUMBER : 406
+
+DATE : 05/10/2020
+
+GSTIN NO:- 29AAECI4323B1ZY
+
+Period :01/09/20 To 30/09/20
+
+07.09.2020     63222953942     New Delhi        Nil       32kg         2              2880.00
+
+07.09.2020     63222953931       Hyderabad        Nil       16kg         1               608.00
+
+08.09.2020     63222953765       Hyderabad        Nil       16kg         1               608.00
+
+10.09.2020     63222953360       Chennai         Nil       5kg         1               190.00
+
+10.09.2020       7035205       New Delhi        Nil       5kg         1               450.00
+
+14.09.2020     63222952660       Bangalore     500gms      Nil         1                20.00
+
+15.09.2020       7035211           Gujarat          Nil       3kg         1               360.00
+
+15.09.2020       7035212       New Delhi        Nil       2kg         1               180.00
+
+17.09.2020     63225910090       Chennai         Nil       2kg         1                76.00
+
+18.09.2020     63225907430       Chennai         Nil       4kg         1               152.00
+
+19.09.2020     63225907404      Vijayawada        Nil       16kg         1               608.00
+
+21.09.2020     63225909412       Chennai         Nil       17kg         1               646.00
+
+21.09.2020     63225909423       Chennai         Nil       17kg         1               646.00
+
+22.09.2020       7032481        Mumbai         Nil       15kg         1              1350.00
+
+23.09.2020     63225908432        Varanasi         Nil       64kg         4              7680.00
+
+24.09.2020     63225908583        Kolkata          Nil       5kg         1               450.00
+
+24.09.2020     63225908594        Varanasi         Nil       32kg         2              3840.00
+
+25.09.2020     63225907920       Vijaywada        Nil       33kg         2              1254.00
+
+                                   34843.00TOTAL AMOUNT
+                                    5226.45FUEL CHARGERS 15%
+
+SAC CODE: 996812                           TAXABLE AMOUNT                 40069.45
+                                                                                         3606.25                                       CGST AMOUNT 9%
+                                                                                         3606.25                                        SGST AMOUNT 9%
+                                                                                                                                                   -                                               IGST AMOUNT 18%
+                                                                                                  0.05                                     ROUND OFF
+
+INVOICE AMOUNT
+
+47282.00
+
+*This is a computer generated receipt do not require seal and signature.
+
+25.09.2020     63225907964     New Delhi        Nil       48kg         3              4320.00
+
+26.09.2020     63225908093       Chennai         Nil       3kg         1               114.00
+
+28.09.2020     63225908185       Bangalore         Nil       1kg         1                25.00
+
+29.09.2020       7032488        Lucknow         Nil       26kg         3              3120.00
+
+29.09.2020     63225905514        Kochi           Nil       16kg         1               608.00
+
+29.09.2020       7032490          Varanasi         Nil       16kg         1              1920.00
+
+29.09.2020     63225905525       Hyderabad        Nil       16kg         1               608.00
+
+Total Consignment : 33
+
+Amount In words :- Forty Seven Thousand Two Hundred and Eighty Two Rupees Only.
+

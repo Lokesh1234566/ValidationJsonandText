@@ -1,0 +1,46 @@
+supplier_details.name : 'g                ,' found at index 10
+supplier_details.address : 'Hosur Main Road,, Bangalore-562107' found at index -1
+supplier_details.msme_reg_no : 'KR02B0009529' found at index 75
+supplier_details.gstin_uin : '29AZCPN3529J1Z2' found at index 99
+supplier_details.state_name : 'Karnataka' found at index 128
+supplier_details.state_code : '29' found at index 85
+supplier_details.email : 'info@vima3ya.com' found at index 179
+supplier_details.contact : '9663066693' found at index 159
+buyer_details.name : 'Irillic Pvt Ltd' found at index 207
+buyer_details.address : '#76,29th Main,10th Cross 1st Phase, J.P.Nagar, Bangalore-560078' found at index -1
+buyer_details.gstin_uin : '29AAECI4323B1ZY' found at index 307
+buyer_details.pan : 'AAECI4323B' found at index 309
+buyer_details.state_name : 'Karnataka' found at index 128
+buyer_details.state_code : '29' found at index 85
+buyer_details.place_of_supply : 'Karnataka' found at index 128
+invoice_details.Despatched through : 'BY ROAD' found at index 770
+invoice_details.Mode/Terms of Payment : 'IMMEDIATE' found at index 847
+invoice_details.Dated : '27-Nov-2020' found at index 883
+invoice_details.Destination : 'JP NAGAR' found at index 927
+line_items[0].Sl No : '1' found at index 59
+line_items[0].Description of Goods : 'V900 CAP' found at index 1216
+line_items[0].HSN/SAC : '39269099' found at index 1256
+line_items[0].Quantity : '50.00' found at index 1279
+line_items[0].Qty Unit : 'Nos' found at index 1285
+line_items[0].Rate : '293.56' found at index 1295
+line_items[0].Rate Unit : 'Nos' found at index 1285
+line_items[0].Amount : '14,678.00' found at index 1313
+tax_summary.CGST Rate (%) : '9' found at index 83
+tax_summary.CGST Amount : '1,321.00' found at index 1419
+tax_summary.SGST Rate (%) : '9' found at index 83
+tax_summary.SGST Amount : '1,321.00' found at index 1419
+hsn_summary[0].HSN/SAC : '39269099' found at index 1256
+hsn_summary[0].Taxable Value : '14,678.00' found at index 1313
+hsn_summary[0].CGST Rate : '9%' found at index 1360
+hsn_summary[0].CGST Amount : '1,321.00' found at index 1419
+hsn_summary[0].SGST Rate : '9%' found at index 1360
+hsn_summary[0].SGST Amount : '1,321.00' found at index 1419
+hsn_summary[0].Total Tax Amount : '2,642.00' found at index 2184
+bank_details.Bank Name : 'Vijaya Bank' found at index 2578
+bank_details.Account Number : '139200301000227' found at index 2597
+bank_details.Branch : 'SSI,BANGALORE' found at index 2681
+bank_details.IFSC Code : 'VIJB0001392' found at index 2697
+
+--- NOT FOUND VALUES ---
+supplier_details.address : 'Hosur Main Road,, Bangalore-562107' found at index -1
+buyer_details.address : '#76,29th Main,10th Cross 1st Phase, J.P.Nagar, Bangalore-560078' found at index -1

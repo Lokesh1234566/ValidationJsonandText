@@ -1,0 +1,114 @@
+supplier_details.name : 'N.U. Enterprises' found at index 63
+supplier_details.address : '# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078' found at index 80
+supplier_details.pan : 'AAXPF0165A' found at index 1487
+supplier_details.gstin : '-' found at index 152
+supplier_details.state : 'KARNATAKA' found at index 286
+supplier_details.month : 'July 2020' found at index 343
+buyer_details.name : 'Irillic Pvt Ltd' found at index 167
+buyer_details.address : 'NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078' found at index 183
+buyer_details.gstin : '29AAECI4323B1ZY' found at index 262
+invoice_details.invoice_number : '369' found at index 1592
+invoice_details.date : '03/08/2020' found at index 1613
+invoice_details.period : '01/07/20 To 31/07/20' found at index 1772
+line_items[0].Date : '15.07.2020' found at index 434
+line_items[0].AWB No : '63200800865' found at index 449
+line_items[0].Destination : 'Chennai' found at index 467
+line_items[0].Weight : '63kg' found at index 493
+line_items[0].Quantity : '3' found at index 270
+line_items[0].Amount : '3150.00' found at index 521
+line_items[1].Date : '17.07.2020' found at index 622
+line_items[1].AWB No : '63200800795' found at index 637
+line_items[1].Destination : 'Hyderabad' found at index 655
+line_items[1].Weight : '68kg' found at index 682
+line_items[1].Quantity : '4' found at index 269
+line_items[1].Amount : '3400.00' found at index 710
+line_items[2].Date : '20.07.2020' found at index 718
+line_items[2].AWB No : '63200800806' found at index 733
+line_items[2].Destination : 'Chennai' found at index 467
+line_items[2].Weight : '24kg' found at index 777
+line_items[2].Quantity : '1' found at index 82
+line_items[2].Amount : '1200.00' found at index 805
+line_items[3].Date : '31.07.2020' found at index 816
+line_items[3].AWB No : '63200971783' found at index 831
+line_items[3].Destination : 'Chennai' found at index 467
+line_items[3].Weight : '126kg' found at index 874
+line_items[3].Quantity : '9' found at index 191
+line_items[3].Amount : '4788.00' found at index 902
+line_items[4].Date : '23.07.2020' found at index 1794
+line_items[4].AWB No : '22108942354' found at index 1809
+line_items[4].Destination : 'Chennai' found at index 467
+line_items[4].Weight : '2kg' found at index 1853
+line_items[4].Quantity : '1' found at index 82
+line_items[4].Amount : '76.00' found at index 1882
+line_items[5].Date : '23.07.2020' found at index 1794
+line_items[5].AWB No : '22108942365' found at index 1903
+line_items[5].Destination : 'Hyderabad' found at index 655
+line_items[5].Weight : '2kg' found at index 1853
+line_items[5].Quantity : '1' found at index 82
+line_items[5].Amount : '76.00' found at index 1882
+line_items[6].Date : '27.07.2020' found at index 1983
+line_items[6].AWB No : '63200971245' found at index 1998
+line_items[6].Destination : 'East Godavari' found at index 2015
+line_items[6].Weight : '21kg' found at index 2045
+line_items[6].Quantity : '1' found at index 82
+line_items[6].Amount : '945.00' found at index 2074
+line_items[7].Date : '27.07.2020' found at index 1983
+line_items[7].AWB No : '63200971256' found at index 2096
+line_items[7].Destination : 'Rajahmundry' found at index 2112
+line_items[7].Weight : '21kg' found at index 2045
+line_items[7].Quantity : '1' found at index 82
+line_items[7].Amount : '945.00' found at index 2074
+line_items[8].Date : '27.07.2020' found at index 1983
+line_items[8].AWB No : '63200971201' found at index 2191
+line_items[8].Destination : 'Ramanathapuram' found at index 2205
+line_items[8].Weight : '21kg' found at index 2045
+line_items[8].Quantity : '1' found at index 82
+line_items[8].Amount : '798.00' found at index 989
+line_items[9].Date : '27.07.2020' found at index 1983
+line_items[9].AWB No : '63200971212' found at index 2285
+line_items[9].Destination : 'Chennai' found at index 467
+line_items[9].Weight : '42kg' found at index 2329
+line_items[9].Quantity : '2' found at index 190
+line_items[9].Amount : '1596.00' found at index 2357
+line_items[10].Date : '27.07.2020' found at index 1983
+line_items[10].AWB No : '63200971223' found at index 2380
+line_items[10].Destination : 'Hyderabad' found at index 655
+line_items[10].Weight : '63kg' found at index 493
+line_items[10].Quantity : '3' found at index 270
+line_items[10].Amount : '2394.00' found at index 2453
+line_items[11].Date : '29.07.2020' found at index 2461
+line_items[11].AWB No : '63200971374' found at index 2476
+line_items[11].Destination : 'Chennai' found at index 467
+line_items[11].Weight : '147kg' found at index 2519
+line_items[11].Quantity : '10' found at index 201
+line_items[11].Amount : '5586.00' found at index 2548
+line_items[12].Date : '29.07.2020' found at index 2461
+line_items[12].AWB No : '63200971433' found at index 2571
+line_items[12].Destination : 'Chennai' found at index 467
+line_items[12].Weight : '1kg' found at index 2046
+line_items[12].Quantity : '1' found at index 82
+line_items[12].Amount : '38.00' found at index 2644
+line_items[13].Date : '29.07.2020' found at index 2461
+line_items[13].AWB No : '63200971385' found at index 2665
+line_items[13].Destination : 'Hyderabad' found at index 655
+line_items[13].Weight : '5kg' found at index 2710
+line_items[13].Quantity : '1' found at index 82
+line_items[13].Amount : '190.00' found at index 2738
+line_items[14].Date : '30.07.2020' found at index 2745
+line_items[14].AWB No : '63200971595' found at index 2760
+line_items[14].Destination : 'Chennai' found at index 467
+line_items[14].Weight : '147kg' found at index 2519
+line_items[14].Quantity : '10' found at index 201
+line_items[14].Amount : '5586.00' found at index 2548
+tax_summary.SAC Code : '996812' found at index 1088
+tax_summary.Taxable Amount : '35417.70' found at index 1152
+tax_summary.CGST % : '9' found at index 191
+tax_summary.CGST Amount : '3187.59' found at index 1232
+tax_summary.SGST % : '9' found at index 191
+tax_summary.SGST Amount : '3187.59' found at index 1232
+tax_summary.IGST % : '18' found at index 1233
+tax_summary.Fuel Charges : '4619.70' found at index 1070
+tax_summary.Round Off : '0.11' found at index 1388
+totals.Total Amount : '30798.00' found at index 987
+totals.Total Consignment : '16' found at index 82
+amount_in_words : '- Forty One Thousand Seven Hundred and Ninty Three Rupees Only.' found at index 2882

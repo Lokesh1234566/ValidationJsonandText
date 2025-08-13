@@ -1,0 +1,35 @@
+supplier_details.name : 'VEERESH AGENCY' found at index 0
+supplier_details.address : 'A.B.NAGAR MUNDRAGI, Karnataka,India' found at index -1
+supplier_details.gstin_uin : '29CDUPS8878K1ZY' found at index 61
+supplier_details.state_name : 'Karnataka' found at index 34
+supplier_details.state_code : '29' found at index 61
+supplier_details.contact : '9900168014,9900168014' found at index 121
+buyer_details.name : 'Irillic Pvt Ltd' found at index 152
+buyer_details.address : 'Karnataka, India' found at index 168
+buyer_details.gstin_uin : '29AAECI4323B1ZY' found at index 207
+buyer_details.state_name : 'Karnataka' found at index 34
+buyer_details.state_code : '29' found at index 61
+invoice_details.Invoice No : '125' found at index 279
+invoice_details.Dated : '8-Jul-2020' found at index 383
+line_items[0].Sl No : '1' found at index 73
+line_items[0].Particulars : 'Mi Standard Charger' found at index 606
+line_items[0].Quantity : '20 PIECES' found at index 651
+line_items[0].Rate : '450.00' found at index 667
+line_items[0].per : 'PIECES' found at index 654
+line_items[0].Amount : '9,000.00' found at index 698
+tax_summary.CGST Rate (%) : '9' found at index 62
+tax_summary.CGST Amount : '810.00' found at index 791
+tax_summary.SGST Rate (%) : '9' found at index 62
+tax_summary.SGST Amount : '810.00' found at index 791
+hsn_summary[0].Taxable Value : '9,000.00' found at index 698
+hsn_summary[0].CGST Rate : '9%' found at index 1400
+hsn_summary[0].CGST Amount : '810.00' found at index 791
+hsn_summary[0].SGST Rate : '9%' found at index 1400
+hsn_summary[0].SGST Amount : '810.00' found at index 791
+hsn_summary[0].Total Tax Amount : '1,620.00' found at index 1442
+totals.Total Quantity : '20 PIECES' found at index 651
+totals.Total Amount : '10,620.00' found at index 966
+amount_chargeable_in_words : 'INR Ten Thousand Six Hundred Twenty Only' found at index 1095
+
+--- NOT FOUND VALUES ---
+supplier_details.address : 'A.B.NAGAR MUNDRAGI, Karnataka,India' found at index -1

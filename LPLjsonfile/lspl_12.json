@@ -1,0 +1,67 @@
+{
+    "supplier_details": {
+        "name": "Invoice No.    e-Way Bill No.",
+        "address": "CIN: U72300KA2006PTC041050",
+        "phone": "080-41692691",
+        "cin": "U72300KA2006PTC041050",
+        "gstin_uin": "29AAECP0779L1ZU",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "contact": "+91 80 4123 5846,+91 95357 17589",
+        "email": "info@ledger.in",
+        "website": "www.ledger.in"
+    },
+    "buyer_details": {
+        "name": "Irillic Private Limited",
+        "address": "No 76, 10th Cross, 29th Main, 1st Phase, J.P.Nagar,, Bengaluru-560078, GSTIN/UIN          : 29AAECI4323B1ZY",
+        "gstin_uin": "29AAECP0779L1ZU",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "place_of_supply": "Karnataka"
+    },
+    "invoice_details": {
+        "Delivery Note": "",
+        "Supplier's Ref": "LSPL/228/2021",
+        "Buyer's Order No": "",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Terms of Delivery": "",
+        "Dated": "",
+        "Mode/Terms of Payment": "30 Days",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": ""
+    },
+    "line_items": [
+        {
+            "SL No": 1,
+            "Description of Goods": "Accounting Services Accounting Services for the Month of Oct -2020",
+            "HSN/SAC": "15,000.00",
+            "Rate": "",
+            "per": "",
+            "Disc. %": "",
+            "Amount": ""
+        }
+    ],
+    "tax_summary": [
+        {
+            "Tax Type": "CGST",
+            "Rate": "9 %",
+            "Amount": "1,350.00"
+        },
+        {
+            "Tax Type": "SGST",
+            "Rate": "9 %",
+            "Amount": "1,350.00"
+        }
+    ],
+    "totals": {
+        "Total Amount": "17,700.00"
+    },
+    "amount_chargeable_in_words": "INR Seventeen Thousand Seven Hundred Only",
+    "bank_details": {
+        "Bank Name": "Axis Bank",
+        "Account Number": "917020079685358",
+        "Branch_IFSC": "Basavanagudi & UTIB0001496"
+    }
+}

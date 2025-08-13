@@ -1,0 +1,264 @@
+{
+    "supplier_details": {
+        "name": "N.U. Enterprises",
+        "address": "# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078",
+        "pan": "AAXPF0165A",
+        "gstin": "-",
+        "state": "KARNATAKA",
+        "month": "August 2020"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078",
+        "gstin": "29AAECI4323B1ZY"
+    },
+    "invoice_details": {
+        "invoice_number": "385",
+        "date": "02/09/2020",
+        "period": "01/08/20 To 31/08/20"
+    },
+    "line_items": [
+        {
+            "Date": "01.08.2020",
+            "AWB No": "63200971831",
+            "Destination": "Chennai",
+            "Weight": "42kg",
+            "Quantity": "2",
+            "Amount": "1596.00"
+        },
+        {
+            "Date": "03.08.2020",
+            "AWB No": "63200971864",
+            "Destination": "Hyderabad",
+            "Weight": "89kg",
+            "Quantity": "4",
+            "Amount": "3382.00"
+        },
+        {
+            "Date": "03.08.2020",
+            "AWB No": "63200971853",
+            "Destination": "Tenali",
+            "Weight": "21kg",
+            "Quantity": "1",
+            "Amount": "945.00"
+        },
+        {
+            "Date": "04.08.2020",
+            "AWB No": "63200970954",
+            "Destination": "Chennai",
+            "Weight": "5kg",
+            "Quantity": "1",
+            "Amount": "190.00"
+        },
+        {
+            "Date": "04.08.2020",
+            "AWB No": "63200970965",
+            "Destination": "Hyderabad",
+            "Weight": "147kg",
+            "Quantity": "10",
+            "Amount": "5586.00"
+        },
+        {
+            "Date": "05.08.2020",
+            "AWB No": "63200970431",
+            "Destination": "Coimbatore",
+            "Weight": "1kg",
+            "Quantity": "1",
+            "Amount": "38.00"
+        },
+        {
+            "Date": "06.08.2020",
+            "AWB No": "63200970534",
+            "Destination": "Kakinada",
+            "Weight": "112kg",
+            "Quantity": "7",
+            "Amount": "5040.00"
+        },
+        {
+            "Date": "07.08.2020",
+            "AWB No": "63200970125",
+            "Destination": "Hyderabad",
+            "Weight": "48kg",
+            "Quantity": "3",
+            "Amount": "1824.00"
+        },
+        {
+            "Date": "07.08.2020",
+            "AWB No": "7018595",
+            "Destination": "Mumbai",
+            "Weight": "5kg",
+            "Quantity": "1",
+            "Amount": "450.00"
+        },
+        {
+            "Date": "07.08.2020",
+            "AWB No": "7018596",
+            "Destination": "Lucknow",
+            "Weight": "16kg",
+            "Quantity": "1",
+            "Amount": "1920.00"
+        },
+        {
+            "Date": "10.08.2020",
+            "AWB No": "718815",
+            "Destination": "New Delhi",
+            "Weight": "2kg",
+            "Quantity": "1",
+            "Amount": "180.00"
+        },
+        {
+            "Date": "10.08.2020",
+            "AWB No": "63200970291",
+            "Destination": "Hyderabad",
+            "Weight": "80kg",
+            "Quantity": "5",
+            "Amount": "3040.00"
+        },
+        {
+            "Date": "11.08.2020",
+            "AWB No": "63200969974",
+            "Destination": "Chennai",
+            "Weight": "32kg",
+            "Quantity": "2",
+            "Amount": "1216.00"
+        },
+        {
+            "Date": "11.08.2020",
+            "AWB No": "63200969985",
+            "Destination": "Hyderabad",
+            "Weight": "32kg",
+            "Quantity": "2",
+            "Amount": "1216.00"
+        },
+        {
+            "Date": "12.08.2020",
+            "AWB No": "63200967535",
+            "Destination": "Hyderabad",
+            "Weight": "55kg",
+            "Quantity": "4",
+            "Amount": "2090.00"
+        },
+        {
+            "Date": "12.08.2020",
+            "AWB No": "63200967546",
+            "Destination": "Chennai",
+            "Weight": "16kg",
+            "Quantity": "1",
+            "Amount": "608.00"
+        },
+        {
+            "Date": "14.08.2020",
+            "AWB No": "63200967690",
+            "Destination": "Chennai",
+            "Weight": "165kg",
+            "Quantity": "11",
+            "Amount": "6270.00"
+        },
+        {
+            "Date": "18.08.2020",
+            "AWB No": "63200968294",
+            "Destination": "Chennai",
+            "Weight": "105kg",
+            "Quantity": "7",
+            "Amount": "3990.00"
+        },
+        {
+            "Date": "18.08.2020",
+            "AWB No": "63200968294",
+            "Destination": "Hyderabad",
+            "Weight": "16kg",
+            "Quantity": "1",
+            "Amount": "608.00"
+        },
+        {
+            "Date": "18.08.2020",
+            "AWB No": "7018831",
+            "Destination": "New Delhi",
+            "Weight": "1kg",
+            "Quantity": "1",
+            "Amount": "90.00"
+        },
+        {
+            "Date": "21.08.2020",
+            "AWB No": "63200968670",
+            "Destination": "Hyderabad",
+            "Weight": "46kg",
+            "Quantity": "4",
+            "Amount": "1748.00"
+        },
+        {
+            "Date": "21.08.2020",
+            "AWB No": "7035192",
+            "Destination": "Gujarat",
+            "Weight": "21kg",
+            "Quantity": "1",
+            "Amount": "2520.00"
+        },
+        {
+            "Date": "27.08.2020",
+            "AWB No": "63217426823",
+            "Destination": "Chennai",
+            "Weight": "20kg",
+            "Quantity": "2",
+            "Amount": "760.00"
+        },
+        {
+            "Date": "27.08.2020",
+            "AWB No": "63217426812",
+            "Destination": "Chennai",
+            "Weight": "2kg",
+            "Quantity": "1",
+            "Amount": "76.00"
+        },
+        {
+            "Date": "27.08.2020",
+            "AWB No": "7035221",
+            "Destination": "New Delhi",
+            "Weight": "4kg",
+            "Quantity": "1",
+            "Amount": "360.00"
+        },
+        {
+            "Date": "28.08.2020",
+            "AWB No": "63217426436",
+            "Destination": "Hyderabad",
+            "Weight": "49kg",
+            "Quantity": "4",
+            "Amount": "1862.00"
+        },
+        {
+            "Date": "31.08.2020",
+            "AWB No": "63217426716",
+            "Destination": "Chennai",
+            "Weight": "1kg",
+            "Quantity": "1",
+            "Amount": "38.00"
+        },
+        {
+            "Date": "31.08.2020",
+            "AWB No": "7035216",
+            "Destination": "Vadodara",
+            "Weight": "7kg",
+            "Quantity": "1",
+            "Amount": "840.00"
+        }
+    ],
+    "tax_summary": {
+        "SAC Code": "996812",
+        "Taxable Amount": "55950.95",
+        "CGST %": "9",
+        "CGST Amount": "5035.59",
+        "SGST %": "9",
+        "SGST Amount": "5035.59",
+        "IGST %": "18",
+        "IGST Amount": "",
+        "Fuel Charges": "7297.95",
+        "Round Off": "0.88"
+    },
+    "totals": {
+        "Total Amount": "48653.00",
+        "Invoice Amount": "",
+        "Total Consignment": "32"
+    },
+    "amount_in_words": "- Sixty Six Thousand Twenty Three Rupees Only."
+}

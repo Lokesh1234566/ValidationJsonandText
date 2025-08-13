@@ -1,0 +1,218 @@
+supplier_details.name : 'VIMA3YA' found at index 0
+supplier_details.address : '295/14 Balagaranahalli,, Hosur Main Road,' found at index -1
+supplier_details.msme_reg_no : 'KR02B0009529' found at index 78
+supplier_details.gstin_uin : '29AZCPN3529J1Z2' found at index 102
+supplier_details.state_name : 'Karnataka' found at index 131
+supplier_details.state_code : '29' found at index 8
+supplier_details.email : 'info@vima3ya.com' found at index 182
+supplier_details.contact : '9663066693' found at index 162
+buyer_details.name : 'Irillic Pvt Ltd' found at index 210
+buyer_details.address : '#76,29th Main,10th Cross 1st Phase, J.P.Nagar, Bangalore-560078' found at index -1
+buyer_details.gstin_uin : '29AAECI4323B1ZY' found at index 311
+buyer_details.pan : 'AAECI4323B' found at index 313
+buyer_details.state_name : 'Karnataka' found at index 131
+buyer_details.state_code : '29' found at index 8
+buyer_details.place_of_supply : 'Karnataka' found at index 131
+invoice_details.Despatched through : 'By Road' found at index 840
+invoice_details.Mode/Terms of Payment : 'IMMEDIATE' found at index 913
+invoice_details.Dated : '1-Oct-2020' found at index 949
+invoice_details.Destination : 'Bangalore' found at index 49
+line_items[0].Sl No : '1' found at index 12
+line_items[0].Description of Goods : 'Blower Back Cover Master' found at index 1299
+line_items[0].HSN/SAC : '39269099' found at index 1341
+line_items[0].Quantity : '33.00' found at index 1364
+line_items[0].Qty Unit : 'Nos' found at index 1370
+line_items[0].Rate : '2,018.36' found at index 1378
+line_items[0].Rate Unit : 'Nos' found at index 1370
+line_items[0].Amount : '66,606.00' found at index 1397
+line_items[1].Sl No : '2' found at index 8
+line_items[1].Description of Goods : 'Knob Master' found at index 1447
+line_items[1].HSN/SAC : '39269099' found at index 1341
+line_items[1].Quantity : '146.00' found at index 1513
+line_items[1].Qty Unit : 'Nos' found at index 1370
+line_items[1].Rate : '210.74' found at index 1530
+line_items[1].Rate Unit : 'Nos' found at index 1370
+line_items[1].Amount : '30,768.00' found at index 1547
+line_items[2].Sl No : '3' found at index 4
+line_items[2].Description of Goods : 'Limit Switch Clamp Body' found at index 1597
+line_items[2].HSN/SAC : '39269099' found at index 1341
+line_items[2].Quantity : '92.00' found at index 1662
+line_items[2].Qty Unit : 'Nos' found at index 1370
+line_items[2].Rate : '212.51' found at index 1678
+line_items[2].Rate Unit : 'Nos' found at index 1370
+line_items[2].Amount : '19,551.00' found at index 1695
+line_items[3].Sl No : '4' found at index 13
+line_items[3].Description of Goods : 'Seal Bush Master' found at index 1745
+line_items[3].HSN/SAC : '39269099' found at index 1341
+line_items[3].Quantity : '43.00' found at index 1810
+line_items[3].Qty Unit : 'Nos' found at index 1370
+line_items[3].Rate : '697.64' found at index 1826
+line_items[3].Rate Unit : 'Nos' found at index 1370
+line_items[3].Amount : '29,998.50' found at index 1843
+line_items[4].Sl No : '5' found at index 10
+line_items[4].Description of Goods : 'Filter Module Top Cover' found at index 1893
+line_items[4].HSN/SAC : '39269099' found at index 1341
+line_items[4].Quantity : '15.00' found at index 1959
+line_items[4].Qty Unit : 'Nos' found at index 1370
+line_items[4].Rate : '472.50' found at index 1975
+line_items[4].Rate Unit : 'Nos' found at index 1370
+line_items[4].Amount : '7,087.50' found at index 1993
+line_items[5].Sl No : '1' found at index 12
+line_items[5].Description of Goods : 'Blower Back Cover Master' found at index 1299
+line_items[5].HSN/SAC : '39269099' found at index 1341
+line_items[5].Quantity : '33.00' found at index 1364
+line_items[5].Qty Unit : 'Nos' found at index 1370
+line_items[5].Rate : '2,018.36' found at index 1378
+line_items[5].Rate Unit : 'Nos' found at index 1370
+line_items[5].Amount : '66,606.00' found at index 1397
+line_items[6].Sl No : '2' found at index 8
+line_items[6].Description of Goods : 'Knob Master' found at index 1447
+line_items[6].HSN/SAC : '39269099' found at index 1341
+line_items[6].Quantity : '146.00' found at index 1513
+line_items[6].Qty Unit : 'Nos' found at index 1370
+line_items[6].Rate : '210.74' found at index 1530
+line_items[6].Rate Unit : 'Nos' found at index 1370
+line_items[6].Amount : '30,768.00' found at index 1547
+line_items[7].Sl No : '3' found at index 4
+line_items[7].Description of Goods : 'Limit Switch Clamp Body' found at index 1597
+line_items[7].HSN/SAC : '39269099' found at index 1341
+line_items[7].Quantity : '92.00' found at index 1662
+line_items[7].Qty Unit : 'Nos' found at index 1370
+line_items[7].Rate : '212.51' found at index 1678
+line_items[7].Rate Unit : 'Nos' found at index 1370
+line_items[7].Amount : '19,551.00' found at index 1695
+line_items[8].Sl No : '4' found at index 13
+line_items[8].Description of Goods : 'Seal Bush Master' found at index 1745
+line_items[8].HSN/SAC : '39269099' found at index 1341
+line_items[8].Quantity : '43.00' found at index 1810
+line_items[8].Qty Unit : 'Nos' found at index 1370
+line_items[8].Rate : '697.64' found at index 1826
+line_items[8].Rate Unit : 'Nos' found at index 1370
+line_items[8].Amount : '29,998.50' found at index 1843
+line_items[9].Sl No : '5' found at index 10
+line_items[9].Description of Goods : 'Filter Module Top Cover' found at index 1893
+line_items[9].HSN/SAC : '39269099' found at index 1341
+line_items[9].Quantity : '15.00' found at index 1959
+line_items[9].Qty Unit : 'Nos' found at index 1370
+line_items[9].Rate : '472.50' found at index 1975
+line_items[9].Rate Unit : 'Nos' found at index 1370
+line_items[9].Amount : '7,087.50' found at index 1993
+line_items[10].Sl No : '1' found at index 12
+line_items[10].Description of Goods : 'Blower Back Cover Master' found at index 1299
+line_items[10].HSN/SAC : '39269099' found at index 1341
+line_items[10].Quantity : '33.00' found at index 1364
+line_items[10].Qty Unit : 'Nos' found at index 1370
+line_items[10].Rate : '2,018.36' found at index 1378
+line_items[10].Rate Unit : 'Nos' found at index 1370
+line_items[10].Amount : '66,606.00' found at index 1397
+line_items[11].Sl No : '2' found at index 8
+line_items[11].Description of Goods : 'Knob Master' found at index 1447
+line_items[11].HSN/SAC : '39269099' found at index 1341
+line_items[11].Quantity : '146.00' found at index 1513
+line_items[11].Qty Unit : 'Nos' found at index 1370
+line_items[11].Rate : '210.74' found at index 1530
+line_items[11].Rate Unit : 'Nos' found at index 1370
+line_items[11].Amount : '30,768.00' found at index 1547
+line_items[12].Sl No : '3' found at index 4
+line_items[12].Description of Goods : 'Limit Switch Clamp Body' found at index 1597
+line_items[12].HSN/SAC : '39269099' found at index 1341
+line_items[12].Quantity : '92.00' found at index 1662
+line_items[12].Qty Unit : 'Nos' found at index 1370
+line_items[12].Rate : '212.51' found at index 1678
+line_items[12].Rate Unit : 'Nos' found at index 1370
+line_items[12].Amount : '19,551.00' found at index 1695
+line_items[13].Sl No : '4' found at index 13
+line_items[13].Description of Goods : 'Seal Bush Master' found at index 1745
+line_items[13].HSN/SAC : '39269099' found at index 1341
+line_items[13].Quantity : '43.00' found at index 1810
+line_items[13].Qty Unit : 'Nos' found at index 1370
+line_items[13].Rate : '697.64' found at index 1826
+line_items[13].Rate Unit : 'Nos' found at index 1370
+line_items[13].Amount : '29,998.50' found at index 1843
+line_items[14].Sl No : '5' found at index 10
+line_items[14].Description of Goods : 'Filter Module Top Cover' found at index 1893
+line_items[14].HSN/SAC : '39269099' found at index 1341
+line_items[14].Quantity : '15.00' found at index 1959
+line_items[14].Qty Unit : 'Nos' found at index 1370
+line_items[14].Rate : '472.50' found at index 1975
+line_items[14].Rate Unit : 'Nos' found at index 1370
+line_items[14].Amount : '7,087.50' found at index 1993
+line_items[15].Sl No : '1' found at index 12
+line_items[15].Description of Goods : 'Blower Back Cover Master' found at index 1299
+line_items[15].HSN/SAC : '39269099' found at index 1341
+line_items[15].Quantity : '33.00' found at index 1364
+line_items[15].Qty Unit : 'Nos' found at index 1370
+line_items[15].Rate : '2,018.36' found at index 1378
+line_items[15].Rate Unit : 'Nos' found at index 1370
+line_items[15].Amount : '66,606.00' found at index 1397
+line_items[16].Sl No : '2' found at index 8
+line_items[16].Description of Goods : 'Knob Master' found at index 1447
+line_items[16].HSN/SAC : '39269099' found at index 1341
+line_items[16].Quantity : '146.00' found at index 1513
+line_items[16].Qty Unit : 'Nos' found at index 1370
+line_items[16].Rate : '210.74' found at index 1530
+line_items[16].Rate Unit : 'Nos' found at index 1370
+line_items[16].Amount : '30,768.00' found at index 1547
+line_items[17].Sl No : '3' found at index 4
+line_items[17].Description of Goods : 'Limit Switch Clamp Body' found at index 1597
+line_items[17].HSN/SAC : '39269099' found at index 1341
+line_items[17].Quantity : '92.00' found at index 1662
+line_items[17].Qty Unit : 'Nos' found at index 1370
+line_items[17].Rate : '212.51' found at index 1678
+line_items[17].Rate Unit : 'Nos' found at index 1370
+line_items[17].Amount : '19,551.00' found at index 1695
+line_items[18].Sl No : '4' found at index 13
+line_items[18].Description of Goods : 'Seal Bush Master' found at index 1745
+line_items[18].HSN/SAC : '39269099' found at index 1341
+line_items[18].Quantity : '43.00' found at index 1810
+line_items[18].Qty Unit : 'Nos' found at index 1370
+line_items[18].Rate : '697.64' found at index 1826
+line_items[18].Rate Unit : 'Nos' found at index 1370
+line_items[18].Amount : '29,998.50' found at index 1843
+line_items[19].Sl No : '5' found at index 10
+line_items[19].Description of Goods : 'Filter Module Top Cover' found at index 1893
+line_items[19].HSN/SAC : '39269099' found at index 1341
+line_items[19].Quantity : '15.00' found at index 1959
+line_items[19].Qty Unit : 'Nos' found at index 1370
+line_items[19].Rate : '472.50' found at index 1975
+line_items[19].Rate Unit : 'Nos' found at index 1370
+line_items[19].Amount : '7,087.50' found at index 1993
+tax_summary.CGST Rate (%) : '9' found at index 9
+tax_summary.CGST Amount : '13,861.00' found at index 2244
+tax_summary.SGST Rate (%) : '9' found at index 9
+tax_summary.SGST Amount : '13,861.00' found at index 2244
+hsn_summary[0].HSN/SAC : '39269099' found at index 1341
+hsn_summary[0].Taxable Value : '1,54,011.00' found at index 2142
+hsn_summary[0].CGST Rate : '9%' found at index 2189
+hsn_summary[0].CGST Amount : '13,861.00' found at index 2244
+hsn_summary[0].SGST Rate : '9%' found at index 2189
+hsn_summary[0].SGST Amount : '13,861.00' found at index 2244
+hsn_summary[0].Total Tax Amount : '27,722.00' found at index 3009
+hsn_summary[1].HSN/SAC : '39269099' found at index 1341
+hsn_summary[1].Taxable Value : '1,54,011.00' found at index 2142
+hsn_summary[1].CGST Rate : '9%' found at index 2189
+hsn_summary[1].CGST Amount : '13,861.00' found at index 2244
+hsn_summary[1].SGST Rate : '9%' found at index 2189
+hsn_summary[1].SGST Amount : '13,861.00' found at index 2244
+hsn_summary[1].Total Tax Amount : '27,722.00' found at index 3009
+hsn_summary[2].HSN/SAC : '39269099' found at index 1341
+hsn_summary[2].Taxable Value : '1,54,011.00' found at index 2142
+hsn_summary[2].CGST Rate : '9%' found at index 2189
+hsn_summary[2].CGST Amount : '13,861.00' found at index 2244
+hsn_summary[2].SGST Rate : '9%' found at index 2189
+hsn_summary[2].SGST Amount : '13,861.00' found at index 2244
+hsn_summary[2].Total Tax Amount : '27,722.00' found at index 3009
+hsn_summary[3].HSN/SAC : '39269099' found at index 1341
+hsn_summary[3].Taxable Value : '1,54,011.00' found at index 2142
+hsn_summary[3].CGST Rate : '9%' found at index 2189
+hsn_summary[3].CGST Amount : '13,861.00' found at index 2244
+hsn_summary[3].SGST Rate : '9%' found at index 2189
+hsn_summary[3].SGST Amount : '13,861.00' found at index 2244
+hsn_summary[3].Total Tax Amount : '27,722.00' found at index 3009
+bank_details.Bank Name : 'BANK OF BARODA' found at index 3409
+bank_details.Account Number : '74310200000270' found at index 3453
+bank_details.Branch : 'BOMMASANDRA, BANGALORE' found at index 3491
+
+--- NOT FOUND VALUES ---
+supplier_details.address : '295/14 Balagaranahalli,, Hosur Main Road,' found at index -1
+buyer_details.address : '#76,29th Main,10th Cross 1st Phase, J.P.Nagar, Bangalore-560078' found at index -1

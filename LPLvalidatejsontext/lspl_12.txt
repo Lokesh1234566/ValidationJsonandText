@@ -1,0 +1,36 @@
+supplier_details.name : 'Invoice No.    e-Way Bill No.' found at index 0
+supplier_details.address : 'CIN: U72300KA2006PTC041050' found at index 481
+supplier_details.phone : '080-41692691' found at index 468
+supplier_details.cin : 'U72300KA2006PTC041050' found at index 486
+supplier_details.gstin_uin : '29AAECP0779L1ZU' found at index 519
+supplier_details.state_name : 'Karnataka' found at index 548
+supplier_details.state_code : '29' found at index 519
+supplier_details.contact : '+91 80 4123 5846,+91 95357 17589' found at index 579
+supplier_details.email : 'info@ledger.in' found at index 621
+supplier_details.website : 'www.ledger.in' found at index 636
+buyer_details.name : 'Irillic Private Limited' found at index 656
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J.P.Nagar,, Bengaluru-560078, GSTIN/UIN          : 29AAECI4323B1ZY' found at index -1
+buyer_details.gstin_uin : '29AAECP0779L1ZU' found at index 519
+buyer_details.state_name : 'Karnataka' found at index 548
+buyer_details.state_code : '29' found at index 519
+buyer_details.place_of_supply : 'Karnataka' found at index 548
+invoice_details.Supplier's Ref : 'LSPL/228/2021' found at index 30
+invoice_details.Mode/Terms of Payment : '30 Days' found at index 214
+line_items[0].SL No : '1' found at index 42
+line_items[0].Description of Goods : 'Accounting Services Accounting Services for the Month of Oct -2020' found at index -1
+line_items[0].HSN/SAC : '15,000.00' found at index 1043
+tax_summary[0].Tax Type : 'CGST' found at index 1146
+tax_summary[0].Rate : '9 %' found at index 1166
+tax_summary[0].Amount : '1,350.00' found at index 1177
+tax_summary[1].Tax Type : 'SGST' found at index 1223
+tax_summary[1].Rate : '9 %' found at index 1166
+tax_summary[1].Amount : '1,350.00' found at index 1177
+totals.Total Amount : '17,700.00' found at index 1354
+amount_chargeable_in_words : 'INR Seventeen Thousand Seven Hundred Only' found at index 1476
+bank_details.Bank Name : 'Axis Bank' found at index 1565
+bank_details.Account Number : '917020079685358' found at index 1603
+bank_details.Branch_IFSC : 'Basavanagudi & UTIB0001496' found at index 1638
+
+--- NOT FOUND VALUES ---
+buyer_details.address : 'No 76, 10th Cross, 29th Main, 1st Phase, J.P.Nagar,, Bengaluru-560078, GSTIN/UIN          : 29AAECI4323B1ZY' found at index -1
+line_items[0].Description of Goods : 'Accounting Services Accounting Services for the Month of Oct -2020' found at index -1

@@ -1,0 +1,70 @@
+{
+    "supplier_details": {
+        "name": "VEERESH AGENCY",
+        "address": "A.B.NAGAR MUNDRAGI, Karnataka,India",
+        "gstin_uin": "29CDUPS8878K1ZY",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "contact": "9900168014,9900168014"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "Karnataka, India",
+        "gstin_uin": "29AAECI4323B1ZY",
+        "state_name": "Karnataka",
+        "state_code": "29"
+    },
+    "invoice_details": {
+        "Invoice No": "125",
+        "Delivery Note": "",
+        "Supplier's Ref": "",
+        "Buyer's Order No": "",
+        "Despatch Document No": "",
+        "Despatched through": "",
+        "Dated": "8-Jul-2020",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Terms of Delivery": ""
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Particulars": "Mi Standard Charger",
+            "HSN/SAC": "",
+            "Quantity": "20 PIECES",
+            "Rate": "450.00",
+            "per": "PIECES",
+            "Amount": "9,000.00"
+        }
+    ],
+    "tax_summary": {
+        "CGST Rate (%)": "9",
+        "CGST Amount": "810.00",
+        "SGST Rate (%)": "9",
+        "SGST Amount": "810.00"
+    },
+    "hsn_summary": [
+        {
+            "HSN/SAC": "",
+            "Taxable Value": "9,000.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "810.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "810.00",
+            "Total Tax Amount": "1,620.00"
+        }
+    ],
+    "totals": {
+        "Total Quantity": "20 PIECES",
+        "Total Amount": "10,620.00"
+    },
+    "amount_chargeable_in_words": "INR Ten Thousand Six Hundred Twenty Only",
+    "bank_details": {
+        "Bank Name": "",
+        "Branch": "",
+        "IFSC Code": "",
+        "Account Number": ""
+    }
+}

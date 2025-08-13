@@ -1,0 +1,152 @@
+{
+    "supplier_details": {
+        "name": "N.U. Enterprises",
+        "address": "# 165, Sindhoor Complex Gangadhar nagar, Sarakki gate K.K. main road Blr-560078",
+        "pan": "AAXPF0165A",
+        "gstin": "-",
+        "state": "KARNATAKA",
+        "month": "October 2020"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "NO 76, 29th Main, 10th Cross, 1st Phase J.P. Nagar Bangalore-560078",
+        "gstin": "29AAECI4323B1ZY"
+    },
+    "invoice_details": {
+        "invoice_number": "425",
+        "date": "04/11/2020",
+        "period": "01/10/20 To 31/10/20"
+    },
+    "line_items": [
+        {
+            "Date": "05.10.2020",
+            "AWB No": "63225906181",
+            "Destination": "Mumbai",
+            "Weight": "16kg",
+            "Quantity": "1",
+            "Amount": "1440.00"
+        },
+        {
+            "Date": "06.10.2020",
+            "AWB No": "63225906914",
+            "Destination": "Chennai",
+            "Weight": "16kg",
+            "Quantity": "1",
+            "Amount": "608.00"
+        },
+        {
+            "Date": "07.10.2020",
+            "AWB No": "63225906730",
+            "Destination": "Chennai",
+            "Weight": "1kg",
+            "Quantity": "1",
+            "Amount": "38.00"
+        },
+        {
+            "Date": "29.10.2020",
+            "AWB No": "63241168410",
+            "Destination": "Mumbai",
+            "Weight": "29kg",
+            "Quantity": "2",
+            "Amount": "2610.00"
+        },
+        {
+            "Date": "30.10.2020",
+            "AWB No": "7021619",
+            "Destination": "Gandhinagar",
+            "Weight": "16kg",
+            "Quantity": "1",
+            "Amount": "1920.00"
+        },
+        {
+            "Date": "09.10.2020",
+            "AWB No": "7031476",
+            "Destination": "New Delhi",
+            "Weight": "13kg",
+            "Quantity": "1",
+            "Amount": "1170.00"
+        },
+        {
+            "Date": "14.10.2020",
+            "AWB No": "63225907802",
+            "Destination": "Chennai",
+            "Weight": "32kg",
+            "Quantity": "2",
+            "Amount": "1216.00"
+        },
+        {
+            "Date": "16.10.2020",
+            "AWB No": "7031491",
+            "Destination": "New Delhi",
+            "Weight": "16kg",
+            "Quantity": "1",
+            "Amount": "1440.00"
+        },
+        {
+            "Date": "16.10.2020",
+            "AWB No": "63241165584",
+            "Destination": "Mandya",
+            "Weight": "1kg",
+            "Quantity": "1",
+            "Amount": "35.00"
+        },
+        {
+            "Date": "19.10.2020",
+            "AWB No": "7031494",
+            "Destination": "Varanasi",
+            "Weight": "19kg",
+            "Quantity": "1",
+            "Amount": "2280.00"
+        },
+        {
+            "Date": "20.10.2020",
+            "AWB No": "63241166682",
+            "Destination": "Chennai",
+            "Weight": "5kg",
+            "Quantity": "1",
+            "Amount": "190.00"
+        },
+        {
+            "Date": "20.10.2020",
+            "AWB No": "63241166693",
+            "Destination": "Chennai",
+            "Weight": "18kg",
+            "Quantity": "1",
+            "Amount": "684.00"
+        },
+        {
+            "Date": "23.10.2020",
+            "AWB No": "63241167135",
+            "Destination": "Kochi",
+            "Weight": "80kg",
+            "Quantity": "5",
+            "Amount": "3040.00"
+        },
+        {
+            "Date": "29.10.2020",
+            "AWB No": "63241168406",
+            "Destination": "Chennai",
+            "Weight": "42kg",
+            "Quantity": "2",
+            "Amount": "1596.00"
+        }
+    ],
+    "tax_summary": {
+        "SAC Code": "996812",
+        "Taxable Amount": "25492.05",
+        "CGST %": "9",
+        "CGST Amount": "2294.28",
+        "SGST %": "9",
+        "SGST Amount": "2294.28",
+        "IGST %": "18",
+        "IGST Amount": "",
+        "Fuel Charges": "3325.05",
+        "Round Off": "0.38"
+    },
+    "totals": {
+        "Total Amount": "22167.00",
+        "Invoice Amount": "",
+        "Total Consignment": "17"
+    },
+    "amount_in_words": "- Thirty Thousand Eighty One Rupees Only."
+}

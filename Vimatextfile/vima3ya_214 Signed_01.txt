@@ -1,0 +1,92 @@
+          g                ,
+Hosur Main Road,
+Bangalore-562107
+MSME REG.NO.KR02B0009529
+GSTIN/UIN: 29AZCPN3529J1Z2
+State Name : Karnataka, Code : 29
+Contact : 9663066693
+E-Mail : info@vima3ya.com
+
+Consignee
+Irillic Pvt Ltd
+#76,29th Main,10th Cross 1st Phase, J.P.Nagar
+Bangalore-560078
+GSTIN/UIN          : 29AAECI4323B1ZY
+PAN/IT No               : AAECI4323B
+State Name          : Karnataka, Code : 29
+
+Buyer (if other than consignee)
+Irillic Pvt Ltd
+#76,29th Main,10th Cross 1st Phase, J.P.Nagar
+Bangalore-560078
+GSTIN/UIN          : 29AAECI4323B1ZY
+PAN/IT No           : AAECI4323B
+State Name          : Karnataka, Code : 29
+Place of Supply     : Karnataka
+
+Delivery Note
+
+Supplier’s Ref.
+
+Buyer’s Order No.
+PO-IA20-30045
+Despatch Document No.
+214
+Despatched through
+BY ROAD
+Bill of Lading/LR-RR No.
+
+
+
+Terms of Delivery
+
+Mode/Terms of Payment
+IMMEDIATE
+Other Reference(s)
+
+Dated
+27-Nov-2020
+Delivery Note Date
+
+Destination
+JP NAGAR
+Motor Vehicle No.
+KA59EZ2931
+
+Sl                 Description of Goods               HSN/SAC     Part No.      Quantity       Rate      per      Amount
+No.
+
+Sl                 Description of Goods               HSN/SAC     Part No.      Quantity       Rate      per      Amount
+
+1  Air Delivery Tube Connector               39269099                 150.00 Nos        387.00  Nos       58,050.00
+
+
+                     Output CGST @ 9%                                           9 %           5,225.00
+                     Output SGST @ 9%                                           9 %           5,225.00
+
+
+
+
+
+                                                Total                            150.00 Nos               ī 68,500.00
+Amount Chargeable (in words)                                                                                                 E. & O.E
+INR Sixty Eight Thousand Five Hundred Only
+
+                 HSN/SAC                          Taxable          Central Tax               State Tax              Total
+                                                      Value      Rate     Amount      Rate     Amount     Tax Amount
+39269099                                              58,050.00    9%      5,225.00    9%      5,225.00     10,450.00
+                                              Total      58,050.00                5,225.00                5,225.00     10,450.00
+
+Tax Amount (in words)  :   INR Ten Thousand Four Hundred Fifty Only
+
+Declaration
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and correct.
+
+Company’s Bank Details
+Bank Name             : Vijaya Bank A/c No.139200301000227
+A/c No.                    : 139200301000227
+Branch & IFS Code    : SSI,BANGALORE & VIJB0001392
+
+Customer’s Seal and Signature                                                                                                                for VIMA3YA
+

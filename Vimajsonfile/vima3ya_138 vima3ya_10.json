@@ -1,0 +1,289 @@
+{
+    "supplier_details": {
+        "name": "VIMA3YA",
+        "address": "295/14 Balagaranahalli,, Hosur Main Road,",
+        "msme_reg_no": "KR02B0009529",
+        "gstin_uin": "29AZCPN3529J1Z2",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "email": "info@vima3ya.com",
+        "contact": "9663066693"
+    },
+    "buyer_details": {
+        "name": "Irillic Pvt Ltd",
+        "address": "#76,29th Main,10th Cross 1st Phase, J.P.Nagar, Bangalore-560078",
+        "gstin_uin": "29AAECI4323B1ZY",
+        "pan": "AAECI4323B",
+        "state_name": "Karnataka",
+        "state_code": "29",
+        "place_of_supply": "Karnataka"
+    },
+    "invoice_details": {
+        "Invoice No": "",
+        "Delivery Note": "",
+        "Supplier\u2019s Ref": "",
+        "Buyer's Order No": "",
+        "Despatch Document No": "",
+        "Despatched through": "By Road",
+        "Bill of Lading/LR-RR No": "",
+        "Terms of Delivery": "",
+        "Mode/Terms of Payment": "IMMEDIATE",
+        "Other Reference(s)": "",
+        "Dated": "1-Oct-2020",
+        "Delivery Note Date": "",
+        "Destination": "Bangalore",
+        "Motor Vehicle No": ""
+    },
+    "line_items": [
+        {
+            "Sl No": "1",
+            "Description of Goods": "Blower Back Cover Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "33.00",
+            "Qty Unit": "Nos",
+            "Rate": "2,018.36",
+            "Rate Unit": "Nos",
+            "Amount": "66,606.00"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Knob Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "146.00",
+            "Qty Unit": "Nos",
+            "Rate": "210.74",
+            "Rate Unit": "Nos",
+            "Amount": "30,768.00"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Limit Switch Clamp Body",
+            "HSN/SAC": "39269099",
+            "Quantity": "92.00",
+            "Qty Unit": "Nos",
+            "Rate": "212.51",
+            "Rate Unit": "Nos",
+            "Amount": "19,551.00"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Seal Bush Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "43.00",
+            "Qty Unit": "Nos",
+            "Rate": "697.64",
+            "Rate Unit": "Nos",
+            "Amount": "29,998.50"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Filter Module Top Cover",
+            "HSN/SAC": "39269099",
+            "Quantity": "15.00",
+            "Qty Unit": "Nos",
+            "Rate": "472.50",
+            "Rate Unit": "Nos",
+            "Amount": "7,087.50"
+        },
+        {
+            "Sl No": "1",
+            "Description of Goods": "Blower Back Cover Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "33.00",
+            "Qty Unit": "Nos",
+            "Rate": "2,018.36",
+            "Rate Unit": "Nos",
+            "Amount": "66,606.00"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Knob Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "146.00",
+            "Qty Unit": "Nos",
+            "Rate": "210.74",
+            "Rate Unit": "Nos",
+            "Amount": "30,768.00"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Limit Switch Clamp Body",
+            "HSN/SAC": "39269099",
+            "Quantity": "92.00",
+            "Qty Unit": "Nos",
+            "Rate": "212.51",
+            "Rate Unit": "Nos",
+            "Amount": "19,551.00"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Seal Bush Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "43.00",
+            "Qty Unit": "Nos",
+            "Rate": "697.64",
+            "Rate Unit": "Nos",
+            "Amount": "29,998.50"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Filter Module Top Cover",
+            "HSN/SAC": "39269099",
+            "Quantity": "15.00",
+            "Qty Unit": "Nos",
+            "Rate": "472.50",
+            "Rate Unit": "Nos",
+            "Amount": "7,087.50"
+        },
+        {
+            "Sl No": "1",
+            "Description of Goods": "Blower Back Cover Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "33.00",
+            "Qty Unit": "Nos",
+            "Rate": "2,018.36",
+            "Rate Unit": "Nos",
+            "Amount": "66,606.00"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Knob Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "146.00",
+            "Qty Unit": "Nos",
+            "Rate": "210.74",
+            "Rate Unit": "Nos",
+            "Amount": "30,768.00"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Limit Switch Clamp Body",
+            "HSN/SAC": "39269099",
+            "Quantity": "92.00",
+            "Qty Unit": "Nos",
+            "Rate": "212.51",
+            "Rate Unit": "Nos",
+            "Amount": "19,551.00"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Seal Bush Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "43.00",
+            "Qty Unit": "Nos",
+            "Rate": "697.64",
+            "Rate Unit": "Nos",
+            "Amount": "29,998.50"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Filter Module Top Cover",
+            "HSN/SAC": "39269099",
+            "Quantity": "15.00",
+            "Qty Unit": "Nos",
+            "Rate": "472.50",
+            "Rate Unit": "Nos",
+            "Amount": "7,087.50"
+        },
+        {
+            "Sl No": "1",
+            "Description of Goods": "Blower Back Cover Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "33.00",
+            "Qty Unit": "Nos",
+            "Rate": "2,018.36",
+            "Rate Unit": "Nos",
+            "Amount": "66,606.00"
+        },
+        {
+            "Sl No": "2",
+            "Description of Goods": "Knob Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "146.00",
+            "Qty Unit": "Nos",
+            "Rate": "210.74",
+            "Rate Unit": "Nos",
+            "Amount": "30,768.00"
+        },
+        {
+            "Sl No": "3",
+            "Description of Goods": "Limit Switch Clamp Body",
+            "HSN/SAC": "39269099",
+            "Quantity": "92.00",
+            "Qty Unit": "Nos",
+            "Rate": "212.51",
+            "Rate Unit": "Nos",
+            "Amount": "19,551.00"
+        },
+        {
+            "Sl No": "4",
+            "Description of Goods": "Seal Bush Master",
+            "HSN/SAC": "39269099",
+            "Quantity": "43.00",
+            "Qty Unit": "Nos",
+            "Rate": "697.64",
+            "Rate Unit": "Nos",
+            "Amount": "29,998.50"
+        },
+        {
+            "Sl No": "5",
+            "Description of Goods": "Filter Module Top Cover",
+            "HSN/SAC": "39269099",
+            "Quantity": "15.00",
+            "Qty Unit": "Nos",
+            "Rate": "472.50",
+            "Rate Unit": "Nos",
+            "Amount": "7,087.50"
+        }
+    ],
+    "tax_summary": {
+        "CGST Rate (%)": "9",
+        "CGST Amount": "13,861.00",
+        "SGST Rate (%)": "9",
+        "SGST Amount": "13,861.00"
+    },
+    "hsn_summary": [
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "1,54,011.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "13,861.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "13,861.00",
+            "Total Tax Amount": "27,722.00"
+        },
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "1,54,011.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "13,861.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "13,861.00",
+            "Total Tax Amount": "27,722.00"
+        },
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "1,54,011.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "13,861.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "13,861.00",
+            "Total Tax Amount": "27,722.00"
+        },
+        {
+            "HSN/SAC": "39269099",
+            "Taxable Value": "1,54,011.00",
+            "CGST Rate": "9%",
+            "CGST Amount": "13,861.00",
+            "SGST Rate": "9%",
+            "SGST Amount": "13,861.00",
+            "Total Tax Amount": "27,722.00"
+        }
+    ],
+    "bank_details": {
+        "Bank Name": "BANK OF BARODA",
+        "Account Number": "74310200000270",
+        "Branch": "BOMMASANDRA, BANGALORE",
+        "IFSC Code": ""
+    }
+}

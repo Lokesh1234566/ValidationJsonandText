@@ -1,0 +1,43 @@
+{
+    "supplier_details": {
+        "name": "Brindavan Enterprises",
+        "address": "46/3, 3rd Main Behind Governament School, Sarakki Main Road J.P Nagar 1st Phase, Bengaluru-560078, Phone:080-42007347/9739517233,  Email : brindavanusn@gmail.com, Invoice No.          : BRINDAVAN/11854                      Party's P.O No.     : CASH PURCHASE, Date of Invoice     :  24-06-2020                            State Code           : 29",
+        "gstin_uin": "",
+        "state_name": "",
+        "state_code": "29",
+        "contact": "",
+        "email": ""
+    },
+    "buyer_details": {
+        "name": "",
+        "address": "",
+        "gstin_uin": ""
+    },
+    "invoice_details": {
+        "Delivery Note": "",
+        "Supplier's Ref.": "",
+        "Buyer's Order No.": "",
+        "Despatch Document No.": "",
+        "Despatched through": "",
+        "Terms of Delivery": "",
+        "Mode/Terms of Payment": "",
+        "Other Reference(s)": "",
+        "Dated": "",
+        "Delivery Note Date": "",
+        "Destination": "",
+        "Invoice No": ""
+    },
+    "line_items": [],
+    "tax_summary": {
+        "CGST Rate (%)": "",
+        "CGST Amount": "",
+        "SGST Rate (%)": "",
+        "SGST Amount": ""
+    },
+    "hsn_summary": [],
+    "bank_details": {
+        "Bank Name": "",
+        "Account Number": "",
+        "Branch & IFS Code": ""
+    }
+}

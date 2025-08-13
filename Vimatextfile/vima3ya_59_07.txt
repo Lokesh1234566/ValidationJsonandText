@@ -1,0 +1,352 @@
+VIMA3YA
+295/14 Balagaranahalli,
+Hosur Main Road,
+Bangalore-562107
+MSME REG.NO.KR02B0009529
+GSTIN/UIN: 29AZCPN3529J1Z2
+State Name : Karnataka, Code : 29
+E-Mail : info@vima3ya.com
+Buyer
+Irillic Pvt Ltd
+#76,29th Main,10th Cross 1st Phase
+J.P.Nagar Bangalore-560078
+GSTIN/UIN           : 29AAECI4323B1ZY
+PAN/IT No               : AAECI4323B
+State Name          : Karnataka, Code : 29
+Place of Supply     : Karnataka
+
+Invoice No.      e-Way Bill No.
+0059             101231325279
+Delivery Note
+
+Supplier’s Ref.
+
+Buyer’s Order No.
+PO-DD20-30021
+Despatch Document No.
+0059
+Despatched through
+By Road
+Bill of Lading/LR-RR No.
+
+Dated
+8-Jul-2020
+Mode/Terms of Payment
+Immediate
+Other Reference(s)
+
+Dated
+26-Jun-2020
+Delivery Note Date
+
+Destination
+Bangalore
+Motor Vehicle No.
+KA29EQ2931
+
+Terms of Delivery
+
+Sl                 Description of Goods               HSN/SAC     Part No.     Quantity       Rate      per      Amount
+No.
+
+Sl                 Description of Goods               HSN/SAC     Part No.     Quantity       Rate      per      Amount
+
+1 Blower Back Cover                         39269099                1.00 Nos    55,710.00  Nos       55,710.00
+2 Knob                                      39269099                1.00 Nos     4,635.00 Nos        4,635.00
+3 Limit Switch Clamp Body                   39269099                1.00 Nos     4,645.00 Nos        4,645.00
+4 Alr Delivery Tube Connector                39269099                1.00 Nos    16,920.00  Nos       16,920.00
+5 Seal Bush                                 39269099                1.00 Nos    13,600.00  Nos       13,600.00
+                                                                                                     95,510.00
+                     Output CGST @ 9%                                         9 %          8,596.00
+                     Output SGST @ 9%                                          9 %          8,596.00
+                 FREIGHT OUTWORD
+
+
+
+
+
+                                                 Total                           5.00 Nos       ī1,12,702.00
+Amount Chargeable (in words)                                                                                               E. & O.E
+INR One Lakh Twelve Thousand Seven Hundred Two Only
+
+                 HSN/SAC                          Taxable          Central Tax              State Tax             Total
+                                                      Value      Rate     Amount     Rate     Amount    Tax Amount
+39269099                                               95,510.00    9%      8,596.00    9%      8,596.00     17,192.00
+                                              Total      95,510.00              8,596.00              8,596.00     17,192.00
+Tax Amount (in words)  :  INR Seventeen Thousand One Hundred Ninety Two Only
+
+Declaration
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and correct.
+
+Company’s Bank Details
+Bank Name             : Vijaya Bank A/c No.139200301000227
+A/c No.                    : 139200301000227
+Branch & IFS Code    : SSI,BANGALORE & VIJB0001392
+
+Customer’s Seal and Signature                                                                                                         for VIMA3YA
+
+VIMA3YA
+295/14 Balagaranahalli,
+Hosur Main Road,
+Bangalore-562107
+MSME REG.NO.KR02B0009529
+GSTIN/UIN: 29AZCPN3529J1Z2
+State Name : Karnataka, Code : 29
+E-Mail : info@vima3ya.com
+Buyer
+Irillic Pvt Ltd
+#76,29th Main,10th Cross 1st Phase
+J.P.Nagar Bangalore-560078
+GSTIN/UIN           : 29AAECI4323B1ZY
+PAN/IT No               : AAECI4323B
+State Name          : Karnataka, Code : 29
+Place of Supply     : Karnataka
+
+Invoice No.      e-Way Bill No.
+0059             101231325279
+Delivery Note
+
+Supplier’s Ref.
+
+Buyer’s Order No.
+PO-DD20-30021
+Despatch Document No.
+0059
+Despatched through
+By Road
+Bill of Lading/LR-RR No.
+
+Dated
+8-Jul-2020
+Mode/Terms of Payment
+Immediate
+Other Reference(s)
+
+Dated
+26-Jun-2020
+Delivery Note Date
+
+Destination
+Bangalore
+Motor Vehicle No.
+KA29EQ2931
+
+Terms of Delivery
+
+Sl                 Description of Goods               HSN/SAC     Part No.     Quantity       Rate      per      Amount
+No.
+
+Sl                 Description of Goods               HSN/SAC     Part No.     Quantity       Rate      per      Amount
+
+1 Blower Back Cover                         39269099                1.00 Nos    55,710.00  Nos       55,710.00
+2 Knob                                      39269099                1.00 Nos     4,635.00 Nos        4,635.00
+3 Limit Switch Clamp Body                   39269099                1.00 Nos     4,645.00 Nos        4,645.00
+4 Alr Delivery Tube Connector                39269099                1.00 Nos    16,920.00  Nos       16,920.00
+5 Seal Bush                                 39269099                1.00 Nos    13,600.00  Nos       13,600.00
+                                                                                                     95,510.00
+                     Output CGST @ 9%                                         9 %          8,596.00
+                     Output SGST @ 9%                                          9 %          8,596.00
+                 FREIGHT OUTWORD
+
+
+
+
+
+                                                 Total                           5.00 Nos       ī1,12,702.00
+Amount Chargeable (in words)                                                                                               E. & O.E
+INR One Lakh Twelve Thousand Seven Hundred Two Only
+
+                 HSN/SAC                          Taxable          Central Tax              State Tax             Total
+                                                      Value      Rate     Amount     Rate     Amount    Tax Amount
+39269099                                               95,510.00    9%      8,596.00    9%      8,596.00     17,192.00
+                                              Total      95,510.00              8,596.00              8,596.00     17,192.00
+Tax Amount (in words)  :  INR Seventeen Thousand One Hundred Ninety Two Only
+
+Declaration
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and correct.
+
+Company’s Bank Details
+Bank Name             : Vijaya Bank A/c No.139200301000227
+A/c No.                    : 139200301000227
+Branch & IFS Code    : SSI,BANGALORE & VIJB0001392
+
+Customer’s Seal and Signature                                                                                                         for VIMA3YA
+
+VIMA3YA
+295/14 Balagaranahalli,
+Hosur Main Road,
+Bangalore-562107
+MSME REG.NO.KR02B0009529
+GSTIN/UIN: 29AZCPN3529J1Z2
+State Name : Karnataka, Code : 29
+E-Mail : info@vima3ya.com
+Buyer
+Irillic Pvt Ltd
+#76,29th Main,10th Cross 1st Phase
+J.P.Nagar Bangalore-560078
+GSTIN/UIN           : 29AAECI4323B1ZY
+PAN/IT No               : AAECI4323B
+State Name          : Karnataka, Code : 29
+Place of Supply     : Karnataka
+
+Invoice No.      e-Way Bill No.
+0059             101231325279
+Delivery Note
+
+Supplier’s Ref.
+
+Buyer’s Order No.
+PO-DD20-30021
+Despatch Document No.
+0059
+Despatched through
+By Road
+Bill of Lading/LR-RR No.
+
+Dated
+8-Jul-2020
+Mode/Terms of Payment
+Immediate
+Other Reference(s)
+
+Dated
+26-Jun-2020
+Delivery Note Date
+
+Destination
+Bangalore
+Motor Vehicle No.
+KA29EQ2931
+
+Terms of Delivery
+
+Sl                 Description of Goods               HSN/SAC     Part No.     Quantity       Rate      per      Amount
+No.
+
+Sl                 Description of Goods               HSN/SAC     Part No.     Quantity       Rate      per      Amount
+
+1 Blower Back Cover                         39269099                1.00 Nos    55,710.00  Nos       55,710.00
+2 Knob                                      39269099                1.00 Nos     4,635.00 Nos        4,635.00
+3 Limit Switch Clamp Body                   39269099                1.00 Nos     4,645.00 Nos        4,645.00
+4 Alr Delivery Tube Connector                39269099                1.00 Nos    16,920.00  Nos       16,920.00
+5 Seal Bush                                 39269099                1.00 Nos    13,600.00  Nos       13,600.00
+                                                                                                     95,510.00
+                     Output CGST @ 9%                                         9 %          8,596.00
+                     Output SGST @ 9%                                          9 %          8,596.00
+                 FREIGHT OUTWORD
+
+
+
+
+
+                                                 Total                           5.00 Nos       ī1,12,702.00
+Amount Chargeable (in words)                                                                                               E. & O.E
+INR One Lakh Twelve Thousand Seven Hundred Two Only
+
+                 HSN/SAC                          Taxable          Central Tax              State Tax             Total
+                                                      Value      Rate     Amount     Rate     Amount    Tax Amount
+39269099                                               95,510.00    9%      8,596.00    9%      8,596.00     17,192.00
+                                              Total      95,510.00              8,596.00              8,596.00     17,192.00
+Tax Amount (in words)  :  INR Seventeen Thousand One Hundred Ninety Two Only
+
+Declaration
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and correct.
+
+Company’s Bank Details
+Bank Name             : Vijaya Bank A/c No.139200301000227
+A/c No.                    : 139200301000227
+Branch & IFS Code    : SSI,BANGALORE & VIJB0001392
+
+Customer’s Seal and Signature                                                                                                         for VIMA3YA
+
+VIMA3YA
+295/14 Balagaranahalli,
+Hosur Main Road,
+Bangalore-562107
+MSME REG.NO.KR02B0009529
+GSTIN/UIN: 29AZCPN3529J1Z2
+State Name : Karnataka, Code : 29
+E-Mail : info@vima3ya.com
+Buyer
+Irillic Pvt Ltd
+#76,29th Main,10th Cross 1st Phase
+J.P.Nagar Bangalore-560078
+GSTIN/UIN           : 29AAECI4323B1ZY
+PAN/IT No               : AAECI4323B
+State Name          : Karnataka, Code : 29
+Place of Supply     : Karnataka
+
+Invoice No.      e-Way Bill No.
+0059             101231325279
+Delivery Note
+
+Supplier’s Ref.
+
+Buyer’s Order No.
+PO-DD20-30021
+Despatch Document No.
+0059
+Despatched through
+By Road
+Bill of Lading/LR-RR No.
+
+Dated
+8-Jul-2020
+Mode/Terms of Payment
+Immediate
+Other Reference(s)
+
+Dated
+26-Jun-2020
+Delivery Note Date
+
+Destination
+Bangalore
+Motor Vehicle No.
+KA29EQ2931
+
+Terms of Delivery
+
+Sl                 Description of Goods               HSN/SAC     Part No.     Quantity       Rate      per      Amount
+No.
+
+Sl                 Description of Goods               HSN/SAC     Part No.     Quantity       Rate      per      Amount
+
+1 Blower Back Cover                         39269099                1.00 Nos    55,710.00  Nos       55,710.00
+2 Knob                                      39269099                1.00 Nos     4,635.00 Nos        4,635.00
+3 Limit Switch Clamp Body                   39269099                1.00 Nos     4,645.00 Nos        4,645.00
+4 Alr Delivery Tube Connector                39269099                1.00 Nos    16,920.00  Nos       16,920.00
+5 Seal Bush                                 39269099                1.00 Nos    13,600.00  Nos       13,600.00
+                                                                                                     95,510.00
+                     Output CGST @ 9%                                         9 %          8,596.00
+                     Output SGST @ 9%                                          9 %          8,596.00
+                 FREIGHT OUTWORD
+
+
+
+
+
+                                                 Total                           5.00 Nos       ī1,12,702.00
+Amount Chargeable (in words)                                                                                               E. & O.E
+INR One Lakh Twelve Thousand Seven Hundred Two Only
+
+                 HSN/SAC                          Taxable          Central Tax              State Tax             Total
+                                                      Value      Rate     Amount     Rate     Amount    Tax Amount
+39269099                                               95,510.00    9%      8,596.00    9%      8,596.00     17,192.00
+                                              Total      95,510.00              8,596.00              8,596.00     17,192.00
+Tax Amount (in words)  :  INR Seventeen Thousand One Hundred Ninety Two Only
+
+Declaration
+We declare that this invoice shows the actual price of the
+goods described and that all particulars are true and correct.
+
+Company’s Bank Details
+Bank Name             : Vijaya Bank A/c No.139200301000227
+A/c No.                    : 139200301000227
+Branch & IFS Code    : SSI,BANGALORE & VIJB0001392
+
+Customer’s Seal and Signature                                                                                                         for VIMA3YA
+
